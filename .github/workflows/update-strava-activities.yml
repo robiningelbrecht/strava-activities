@@ -1,8 +1,8 @@
 name: Update strava activities
 on:
   workflow_dispatch:
-  #schedule:
-  #  - cron:  '30 18 * * *'
+  schedule:
+    - cron:  '30 18 * * *'
 jobs:
   update-strava-history:
     name: Update strava activities
@@ -17,19 +17,19 @@ jobs:
       # https://github.com/marketplace/actions/checkout
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
-      - name: Import latest version of template
+      - name: Update to latestest version of template
         run: |
-          git config --global user.name 'robiningelbrecht'
-          git config --global user.email 'robiningelbrecht@users.noreply.github.com'
-          git remote add template https://github.com/robiningelbrecht/strava-activities-template
-          git fetch template
-          git merge --no-ff --no-commit template/master --allow-unrelated-histories
-          git reset HEAD README.md
-          git checkout -- README.md
-          git diff --staged --quiet || git commit -m"Updated template to latest version"
+          git clone https://github.com/robiningelbrecht/strava-activities-template.git
+          
+          # Copy all files from template to this repo.
+          mv -f strava-activities-template/config/* config/
+          mv -f strava-activities-template/public/* public/
+          mv -f strava-activities-template/src/* src/
+          mv -f strava-activities-template/templates/* templates/
+          
+          
+          rm -Rf strava-activities-template
 
       - name: Update strava activities
         run: |
@@ -96,6 +96,8 @@ jobs:
           EOF
       - name: Commit and push changes
         run: |
+          git config --global user.name 'robiningelbrecht'
+          git config --global user.email 'robiningelbrecht@users.noreply.github.com'
           git add .
           git status
           git diff --staged --quiet || git commit -m"Updated strava activities"
