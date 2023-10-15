@@ -1,0 +1,88 @@
+{
+    "backgroundColor": "#ffffff",
+    "animation": false,
+    "grid": {
+        "left": "3%",
+        "right": "4%",
+        "bottom": "3%",
+        "containLabel": true
+    },
+    "legend": {
+        "show": false
+    },
+    "tooltip": {
+        "trigger": "item",
+        "formatter": "{d}%"
+    },
+    "series": [
+        {
+            "type": "pie",
+            "label": {
+                "alignTo": "edge",
+                "minMargin": 5,
+                "edgeDistance": 10,
+                "formatter": "{weekday|{@[1]}}\n{sub|{@[2]} rides, {@[3]} km, {@[4]}}",
+                "lineHeight": 15,
+                "rich": {
+                    "weekday": {
+                        "fontWeight": "bold"
+                    },
+                    "sub": {
+                        "fontSize": 12
+                    }
+                }
+            },
+            "data": [
+                [
+                    12,
+                    "Tuesday",
+                    23,
+                    687,
+                    "1d 43m"
+                ],
+                [
+                    16,
+                    "Wednesday",
+                    26,
+                    886,
+                    "1d 7h 39m"
+                ],
+                [
+                    20,
+                    "Thursday",
+                    36,
+                    1068,
+                    "1d 16h 11m"
+                ],
+                [
+                    11,
+                    "Friday",
+                    22,
+                    554,
+                    "22h 4m"
+                ],
+                [
+                    14,
+                    "Saturday",
+                    26,
+                    749,
+                    "1d 3h 40m"
+                ],
+                [
+                    13,
+                    "Sunday",
+                    29,
+                    704,
+                    "1d 2h 59m"
+                ],
+                [
+                    14,
+                    "Monday",
+                    24,
+                    780,
+                    "1d 5h 7m"
+                ]
+            ]
+        }
+    ]
+}
