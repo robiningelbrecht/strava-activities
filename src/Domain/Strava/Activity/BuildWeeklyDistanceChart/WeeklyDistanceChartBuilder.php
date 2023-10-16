@@ -132,15 +132,15 @@ final class WeeklyDistanceChartBuilder
     private function getData(): array
     {
         /** @var SerializableDateTime $startDate */
-        $startDate = SerializableDateTime::createFromFormat('Y-m-d', $this->now->modify('-8 weeks')->modify('monday this week')->format('Y-m-d'));
+        $startDate = SerializableDateTime::createFromFormat('Y-m-d', $this->now->modify('-8 weeks')->format('Y-m-01'));
         $interval = new \DateInterval('P1W');
-        $period = new \DatePeriod($startDate, $interval, $this->now->modify('+1 day'));
+        $period = new \DatePeriod($startDate, $interval, $this->now);
 
         $distancePerWeek = [];
 
         foreach ($period as $date) {
             $distancePerWeek[$date->format('YW')] = [
-                $date->format('Y-m-d'),
+                $date->modify('monday this week')->format('Y-m-d'),
                 0,
             ];
         }
