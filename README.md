@@ -89,7 +89,7 @@ I burned `117809 calories` doing so, that's about `436` pizza slices 🍕
             <td>13-10-23</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10035486657" title="Kcal: 295 | Gear: None ">Evening Ride</a>
+                <a href="https://www.strava.com/activities/10035486657" title="Kcal: 295 | Gear: City bike ">Evening Ride</a>
             </td>
             <td align="center">10 <sup><sub>km</sub></sup></td>
             <td align="center">38 <sup><sub>m</sub></sup></td>
@@ -801,7 +801,7 @@ I burned `117809 calories` doing so, that's about `436` pizza slices 🍕
             <td>
                 <ul>
                                             <li><b>Zwift Hub</b>: 486 <sup><sub>km</sub></sup></li>
-                                            <li><b>Other</b>: 10 <sup><sub>km</sub></sup></li>
+                                            <li><b>City bike</b>: 10 <sup><sub>km</sub></sup></li>
                                     </ul>
             </td>
             <td align="center">5 677 <sup><sub>m</sub></sup></td>
@@ -844,7 +844,7 @@ I burned `117809 calories` doing so, that's about `436` pizza slices 🍕
                 <ul>
                                             <li><b>Zwift Hub</b>: 602 <sup><sub>km</sub></sup></li>
                                             <li><b>Retro Race Bike</b>: 398 <sup><sub>km</sub></sup></li>
-                                            <li><b>Other</b>: 15 <sup><sub>km</sub></sup></li>
+                                            <li><b>City bike</b>: 15 <sup><sub>km</sub></sup></li>
                                     </ul>
             </td>
             <td align="center">6 635 <sup><sub>m</sub></sup></td>
@@ -859,7 +859,7 @@ I burned `117809 calories` doing so, that's about `436` pizza slices 🍕
                 <ul>
                                             <li><b>Zwift Hub</b>: 466 <sup><sub>km</sub></sup></li>
                                             <li><b>Retro Race Bike</b>: 322 <sup><sub>km</sub></sup></li>
-                                            <li><b>Other</b>: 49 <sup><sub>km</sub></sup></li>
+                                            <li><b>City bike</b>: 49 <sup><sub>km</sub></sup></li>
                                     </ul>
             </td>
             <td align="center">9 383 <sup><sub>m</sub></sup></td>
@@ -874,7 +874,7 @@ I burned `117809 calories` doing so, that's about `436` pizza slices 🍕
                 <ul>
                                             <li><b>Elite Direto XR-T</b>: 515 <sup><sub>km</sub></sup></li>
                                             <li><b>Zwift Hub</b>: 117 <sup><sub>km</sub></sup></li>
-                                            <li><b>Other</b>: 90 <sup><sub>km</sub></sup></li>
+                                            <li><b>City bike</b>: 90 <sup><sub>km</sub></sup></li>
                                     </ul>
             </td>
             <td align="center">7 243 <sup><sub>m</sub></sup></td>
@@ -888,7 +888,7 @@ I burned `117809 calories` doing so, that's about `436` pizza slices 🍕
             <td>
                 <ul>
                                             <li><b>Elite Direto XR-T</b>: 427 <sup><sub>km</sub></sup></li>
-                                            <li><b>Other</b>: 61 <sup><sub>km</sub></sup></li>
+                                            <li><b>City bike</b>: 61 <sup><sub>km</sub></sup></li>
                                             <li><b>Zwift Hub</b>: 20 <sup><sub>km</sub></sup></li>
                                     </ul>
             </td>
@@ -902,7 +902,7 @@ I burned `117809 calories` doing so, that's about `436` pizza slices 🍕
             <td align="center">13 <sup><sub>km</sub></sup></td>
             <td>
                 <ul>
-                                            <li><b>Other</b>: 13 <sup><sub>km</sub></sup></li>
+                                            <li><b>City bike</b>: 13 <sup><sub>km</sub></sup></li>
                                     </ul>
             </td>
             <td align="center">27 <sup><sub>m</sub></sup></td>
@@ -972,11 +972,18 @@ I burned `117809 calories` doing so, that's about `436` pizza slices 🍕
             <td align="center">1d 9h 59m</td>
         </tr>
             <tr>
-            <td align="center">Other</td>
+            <td align="center">City bike</td>
             <td align="center">29</td>
-            <td align="center">231 <sup><sub>km</sub></sup></td>
+            <td align="center">236 <sup><sub>km</sub></sup></td>
             <td align="center">305 <sup><sub>m</sub></sup></td>
             <td align="center">13h 43m</td>
+        </tr>
+            <tr>
+            <td align="center">Other</td>
+            <td align="center">0</td>
+            <td align="center">-5 <sup><sub>km</sub></sup></td>
+            <td align="center">0 <sup><sub>m</sub></sup></td>
+            <td align="center">1m</td>
         </tr>
         </tbody>
 </table>
