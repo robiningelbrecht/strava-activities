@@ -45,3 +45,12 @@ jobs:
 
       - name: Update Strava activities
         run: bin/update-strava-activities.sh
+
+      - name: ntfy.sh
+        uses: robiningelbrecht/ntfy-action@v1.0.0
+        if: always()
+        with:
+          url: ${{ secrets.NTFY_URL }}
+          topic: ${{ secrets.NTFY_TOPIC }}
+          icon: 'https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png'
+          job_status: ${{ job.status }}
