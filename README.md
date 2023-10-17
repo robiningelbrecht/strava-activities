@@ -978,13 +978,6 @@ I burned `117809 calories` doing so, that's about `436` pizza slices 🍕
             <td align="center">305 <sup><sub>m</sub></sup></td>
             <td align="center">13h 43m</td>
         </tr>
-            <tr>
-            <td align="center">Other</td>
-            <td align="center">0</td>
-            <td align="center">-5 <sup><sub>km</sub></sup></td>
-            <td align="center">0 <sup><sub>m</sub></sup></td>
-            <td align="center">1m</td>
-        </tr>
         </tbody>
 </table>
 
