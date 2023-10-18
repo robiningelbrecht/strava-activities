@@ -2,7 +2,7 @@
 <rect width="1000" height="300" x="0" y="0" id="0" fill="#ffffff"></rect>
 <polyline points="541.4 45.4 546.9 31.5 849 31.5" fill="none" stroke="#5470c6"></polyline>
 <polyline points="607 115.2 621.3 110.6 832.2 110.6" fill="none" stroke="#91cc75"></polyline>
-<polyline points="577 232 587.3 242.9 818.8 242.9" fill="none" stroke="#fac858"></polyline>
+<polyline points="577 232 587.3 242.9 825.5 242.9" fill="none" stroke="#fac858"></polyline>
 <polyline points="475.5 259.8 472.2 274.4 151 274.4" fill="none" stroke="#ee6666"></polyline>
 <polyline points="407 213.2 394.5 221.7 167.8 221.7" fill="none" stroke="#73c0de"></polyline>
 <polyline points="390.2 125.5 375.6 122.2 167.8 122.2" fill="none" stroke="#3ba272"></polyline>
@@ -20,9 +20,9 @@
 <path d="M-152.8 -15l152.8 0l0 30l-152.8 0Z" transform="translate(990 110.6003)" fill="none"></path>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;font-weight:bold;" y="-7.5" transform="translate(990 110.6003)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Wednesday</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="7.5" transform="translate(990 110.6003)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">27 rides, 921 km, 1d 9h 41m</text>
-<path d="M-166.2 -15l166.2 0l0 30l-166.2 0Z" transform="translate(990 242.9435)" fill="none"></path>
+<path d="M-159.5 -15l159.5 0l0 30l-159.5 0Z" transform="translate(990 242.9435)" fill="none"></path>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;font-weight:bold;" y="-7.5" transform="translate(990 242.9435)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Thursday</text>
-<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="7.5" transform="translate(990 242.9435)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">36 rides, 1068 km, 1d 16h 11m</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="7.5" transform="translate(990 242.9435)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">37 rides, 1097 km, 1d 17h 6m</text>
 <path d="M0 -15l136 0l0 30l-136 0Z" transform="translate(10 274.4294)" fill="none"></path>
 <text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;font-weight:bold;" y="-7.5" transform="translate(10 274.4294)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Friday</text>
 <text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="7.5" transform="translate(10 274.4294)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">22 rides, 554 km, 22h 4m</text>
