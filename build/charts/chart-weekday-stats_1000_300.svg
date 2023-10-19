@@ -1,38 +1,38 @@
 <svg width="1000" height="300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 1000 300">
 <rect width="1000" height="300" x="0" y="0" id="0" fill="#ffffff"></rect>
-<polyline points="541.4 45.4 546.9 31.5 849 31.5" fill="none" stroke="#5470c6"></polyline>
-<polyline points="607 115.2 621.3 110.6 832.2 110.6" fill="none" stroke="#91cc75"></polyline>
-<polyline points="577 232 587.3 242.9 825.5 242.9" fill="none" stroke="#fac858"></polyline>
-<polyline points="475.5 259.8 472.2 274.4 151 274.4" fill="none" stroke="#ee6666"></polyline>
-<polyline points="407 213.2 394.5 221.7 167.8 221.7" fill="none" stroke="#73c0de"></polyline>
-<polyline points="390.2 125.5 375.6 122.2 167.8 122.2" fill="none" stroke="#3ba272"></polyline>
-<polyline points="448.9 49.8 442.1 36.4 161 36.4" fill="none" stroke="#fc8452"></polyline>
-<path d="M500 37.5A112.5 112.5 0 0 1 577 68L500 150Z" fill="#5470c6"></path>
-<path d="M577 68A112.5 112.5 0 0 1 610.5 171.1L500 150Z" fill="#91cc75"></path>
-<path d="M610.5 171.1A112.5 112.5 0 0 1 514.1 261.6L500 150Z" fill="#fac858"></path>
-<path d="M514.1 261.6A112.5 112.5 0 0 1 439.7 245L500 150Z" fill="#ee6666"></path>
-<path d="M439.7 245A112.5 112.5 0 0 1 389.5 171.1L500 150Z" fill="#73c0de"></path>
-<path d="M389.5 171.1A112.5 112.5 0 0 1 409 83.9L500 150Z" fill="#3ba272"></path>
-<path d="M409 83.9A112.5 112.5 0 0 1 500 37.5L500 150Z" fill="#fc8452"></path>
-<path d="M-136 -15l136 0l0 30l-136 0Z" transform="translate(990 31.4535)" fill="none"></path>
-<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;font-weight:bold;" y="-7.5" transform="translate(990 31.4535)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Tuesday</text>
-<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="7.5" transform="translate(990 31.4535)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">23 rides, 687 km, 1d 43m</text>
-<path d="M-152.8 -15l152.8 0l0 30l-152.8 0Z" transform="translate(990 110.6003)" fill="none"></path>
-<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;font-weight:bold;" y="-7.5" transform="translate(990 110.6003)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Wednesday</text>
-<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="7.5" transform="translate(990 110.6003)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">27 rides, 921 km, 1d 9h 41m</text>
-<path d="M-159.5 -15l159.5 0l0 30l-159.5 0Z" transform="translate(990 242.9435)" fill="none"></path>
-<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;font-weight:bold;" y="-7.5" transform="translate(990 242.9435)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Thursday</text>
-<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="7.5" transform="translate(990 242.9435)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">37 rides, 1097 km, 1d 17h 6m</text>
-<path d="M0 -15l136 0l0 30l-136 0Z" transform="translate(10 274.4294)" fill="none"></path>
-<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;font-weight:bold;" y="-7.5" transform="translate(10 274.4294)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Friday</text>
-<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="7.5" transform="translate(10 274.4294)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">22 rides, 554 km, 22h 4m</text>
-<path d="M0 -15l152.8 0l0 30l-152.8 0Z" transform="translate(10 221.6656)" fill="none"></path>
-<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;font-weight:bold;" y="-7.5" transform="translate(10 221.6656)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Saturday</text>
-<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="7.5" transform="translate(10 221.6656)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">26 rides, 749 km, 1d 3h 40m</text>
-<path d="M0 -15l152.8 0l0 30l-152.8 0Z" transform="translate(10 122.1867)" fill="none"></path>
-<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;font-weight:bold;" y="-7.5" transform="translate(10 122.1867)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Sunday</text>
-<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="7.5" transform="translate(10 122.1867)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">29 rides, 704 km, 1d 2h 59m</text>
-<path d="M0 -15l146 0l0 30l-146 0Z" transform="translate(10 36.3967)" fill="none"></path>
-<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;font-weight:bold;" y="-7.5" transform="translate(10 36.3967)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Monday</text>
-<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="7.5" transform="translate(10 36.3967)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">25 rides, 810 km, 1d 6h 2m</text>
+<polyline points="541.8 45.6 547.4 31.6 849 31.6" fill="none" stroke="#5470c6"></polyline>
+<polyline points="607.4 116.6 621.8 112.1 832.2 112.1" fill="none" stroke="#91cc75"></polyline>
+<polyline points="575 233.8 585 245 825.5 245" fill="none" stroke="#fac858"></polyline>
+<polyline points="471.7 258.9 468 273.4 151 273.4" fill="none" stroke="#ee6666"></polyline>
+<polyline points="404.4 209.3 391.7 217.2 167.8 217.2" fill="none" stroke="#73c0de"></polyline>
+<polyline points="391.6 120 377.1 116 167.8 116" fill="none" stroke="#3ba272"></polyline>
+<polyline points="451.6 48.4 445.2 34.9 161 34.9" fill="none" stroke="#fc8452"></polyline>
+<path d="M500 37.5A112.5 112.5 0 0 1 577.6 68.6L500 150Z" fill="#5470c6"></path>
+<path d="M577.6 68.6A112.5 112.5 0 0 1 610.1 173L500 150Z" fill="#91cc75"></path>
+<path d="M610.1 173A112.5 112.5 0 0 1 510.7 262L500 150Z" fill="#fac858"></path>
+<path d="M510.7 262A112.5 112.5 0 0 1 436.2 242.7L500 150Z" fill="#ee6666"></path>
+<path d="M436.2 242.7A112.5 112.5 0 0 1 388.6 166L500 150Z" fill="#73c0de"></path>
+<path d="M388.6 166A112.5 112.5 0 0 1 412.7 79.1L500 150Z" fill="#3ba272"></path>
+<path d="M412.7 79.1A112.5 112.5 0 0 1 500 37.5L500 150Z" fill="#fc8452"></path>
+<path d="M-136 -15l136 0l0 30l-136 0Z" transform="translate(990 31.6331)" fill="none"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;font-weight:bold;" y="-7.5" transform="translate(990 31.6331)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Tuesday</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="7.5" transform="translate(990 31.6331)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">23 rides, 687 km, 1d 43m</text>
+<path d="M-152.8 -15l152.8 0l0 30l-152.8 0Z" transform="translate(990 112.1427)" fill="none"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;font-weight:bold;" y="-7.5" transform="translate(990 112.1427)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Wednesday</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="7.5" transform="translate(990 112.1427)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">27 rides, 921 km, 1d 9h 41m</text>
+<path d="M-159.5 -15l159.5 0l0 30l-159.5 0Z" transform="translate(990 245.0212)" fill="none"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;font-weight:bold;" y="-7.5" transform="translate(990 245.0212)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Thursday</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="7.5" transform="translate(990 245.0212)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">37 rides, 1097 km, 1d 17h 6m</text>
+<path d="M0 -15l136 0l0 30l-136 0Z" transform="translate(10 273.4135)" fill="none"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;font-weight:bold;" y="-7.5" transform="translate(10 273.4135)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Friday</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="7.5" transform="translate(10 273.4135)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">23 rides, 586 km, 23h 4m</text>
+<path d="M0 -15l152.8 0l0 30l-152.8 0Z" transform="translate(10 217.2212)" fill="none"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;font-weight:bold;" y="-7.5" transform="translate(10 217.2212)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Saturday</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="7.5" transform="translate(10 217.2212)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">26 rides, 749 km, 1d 3h 40m</text>
+<path d="M0 -15l152.8 0l0 30l-152.8 0Z" transform="translate(10 116.0246)" fill="none"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;font-weight:bold;" y="-7.5" transform="translate(10 116.0246)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Sunday</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="7.5" transform="translate(10 116.0246)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">29 rides, 704 km, 1d 2h 59m</text>
+<path d="M0 -15l146 0l0 30l-146 0Z" transform="translate(10 34.8769)" fill="none"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;font-weight:bold;" y="-7.5" transform="translate(10 34.8769)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Monday</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="7.5" transform="translate(10 34.8769)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">25 rides, 810 km, 1d 6h 2m</text>
 </svg>
