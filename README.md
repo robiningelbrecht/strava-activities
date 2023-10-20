@@ -3,7 +3,7 @@
          alt="Strava">
 </p>
 
-Since I began cycling `206 days` ago on `27-03-2023`,
+Since I began cycling `207 days` ago on `27-03-2023`,
 I had `150 cycling days`.<br />
 I recorded a total distance of `5 554 km`
 (`0.14` trips around the world 🌍 and
@@ -24,6 +24,7 @@ I burned `118967 calories` doing so, that's about `441` pizza slices 🍕
 <kbd><a href="#activities">Activities</a></kbd> |
 <kbd><a href="#monthly-stats">Monthly stats</a></kbd> |
 <kbd><a href="#activity-heatmap">Activity heatmap</a></kbd> |
+<kbd><a href="#stats-per-weekday">Stats per weekday</a></kbd> |
 <kbd><a href="#stats-per-bike">Stats per bike</a></kbd> |
 <kbd><a href="#best-power-outputs-over-time">Power outputs</a></kbd> |
 <kbd><a href="#eddington-chart">Eddington</a></kbd> |
@@ -935,7 +936,72 @@ I burned `118967 calories` doing so, that's about `441` pizza slices 🍕
 
 <img src="build/charts/chart-activities-heatmap_1000_180.svg" alt="Heatmap"/>
 
-<img src="build/charts/chart-weekday-stats_1000_300.svg" alt="Weekly distances"/>
+## Stats per weekday
+
+<img src="build/charts/chart-weekday-stats_1000_300.svg" alt="Weekday stats"/>
+
+<table>
+    <thead>
+    <tr>
+        <th></th>
+        <th># of rides</th>
+        <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/distance.svg" width="30" alt="distance" title="distance"/></th>
+        <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/elevation.svg" width="30" alt="elevation" title="elevation"/></th>
+        <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/time.svg" width="30" alt="time" title="time"/></th>
+    </tr>
+    </thead>
+    <tbody>
+            <tr>
+            <td align="center">Monday</td>
+            <td align="center">23</td>
+            <td align="center">687 <sup><sub>km</sub></sup></td>
+            <td align="center">6 885 <sup><sub>m</sub></sup></td>
+            <td align="center">1d 43m</td>
+        </tr>
+            <tr>
+            <td align="center">Tuesday</td>
+            <td align="center">27</td>
+            <td align="center">921 <sup><sub>km</sub></sup></td>
+            <td align="center">9 175 <sup><sub>m</sub></sup></td>
+            <td align="center">1d 9h 41m</td>
+        </tr>
+            <tr>
+            <td align="center">Wednesday</td>
+            <td align="center">37</td>
+            <td align="center">1 097 <sup><sub>km</sub></sup></td>
+            <td align="center">8 983 <sup><sub>m</sub></sup></td>
+            <td align="center">1d 17h 6m</td>
+        </tr>
+            <tr>
+            <td align="center">Thursday</td>
+            <td align="center">23</td>
+            <td align="center">586 <sup><sub>km</sub></sup></td>
+            <td align="center">7 279 <sup><sub>m</sub></sup></td>
+            <td align="center">23h 4m</td>
+        </tr>
+            <tr>
+            <td align="center">Friday</td>
+            <td align="center">26</td>
+            <td align="center">749 <sup><sub>km</sub></sup></td>
+            <td align="center">5 368 <sup><sub>m</sub></sup></td>
+            <td align="center">1d 3h 40m</td>
+        </tr>
+            <tr>
+            <td align="center">Saturday</td>
+            <td align="center">29</td>
+            <td align="center">704 <sup><sub>km</sub></sup></td>
+            <td align="center">5 332 <sup><sub>m</sub></sup></td>
+            <td align="center">1d 2h 59m</td>
+        </tr>
+            <tr>
+            <td align="center">Sunday</td>
+            <td align="center">25</td>
+            <td align="center">810 <sup><sub>km</sub></sup></td>
+            <td align="center">5 948 <sup><sub>m</sub></sup></td>
+            <td align="center">1d 6h 2m</td>
+        </tr>
+        </tbody>
+</table>
 
 ## Stats per bike
 

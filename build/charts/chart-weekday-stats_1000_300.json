@@ -20,11 +20,12 @@
         "series": [
             {
                 "type": "pie",
+                "itemStyle": {
+                    "borderColor": "#fff",
+                    "borderWidth": 2
+                },
                 "label": {
-                    "alignTo": "edge",
-                    "minMargin": 5,
-                    "edgeDistance": 10,
-                    "formatter": "{weekday|{@[1]}}\n{sub|{@[2]} rides, {@[3]} km, {@[4]}}",
+                    "formatter": "{weekday|{b}}\n{sub|{d}%}",
                     "lineHeight": 15,
                     "rich": {
                         "weekday": {
@@ -36,55 +37,34 @@
                     }
                 },
                 "data": [
-                    [
-                        12,
-                        "Tuesday",
-                        23,
-                        687,
-                        "1d 43m"
-                    ],
-                    [
-                        16,
-                        "Wednesday",
-                        27,
-                        921,
-                        "1d 9h 41m"
-                    ],
-                    [
-                        20,
-                        "Thursday",
-                        37,
-                        1097,
-                        "1d 17h 6m"
-                    ],
-                    [
-                        11,
-                        "Friday",
-                        23,
-                        586,
-                        "23h 4m"
-                    ],
-                    [
-                        13,
-                        "Saturday",
-                        26,
-                        749,
-                        "1d 3h 40m"
-                    ],
-                    [
-                        13,
-                        "Sunday",
-                        29,
-                        704,
-                        "1d 2h 59m"
-                    ],
-                    [
-                        14,
-                        "Monday",
-                        25,
-                        810,
-                        "1d 6h 2m"
-                    ]
+                    {
+                        "value": 12,
+                        "name": "Monday"
+                    },
+                    {
+                        "value": 16,
+                        "name": "Tuesday"
+                    },
+                    {
+                        "value": 20,
+                        "name": "Wednesday"
+                    },
+                    {
+                        "value": 11,
+                        "name": "Thursday"
+                    },
+                    {
+                        "value": 13,
+                        "name": "Friday"
+                    },
+                    {
+                        "value": 13,
+                        "name": "Saturday"
+                    },
+                    {
+                        "value": 14,
+                        "name": "Sunday"
+                    }
                 ]
             }
         ]
