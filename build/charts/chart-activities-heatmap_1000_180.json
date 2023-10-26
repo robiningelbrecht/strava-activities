@@ -1541,9 +1541,6 @@
                     0
                 ]
             ]
-        },
-        "tooltip": {
-            "trigger": "item"
         }
     }
 }
