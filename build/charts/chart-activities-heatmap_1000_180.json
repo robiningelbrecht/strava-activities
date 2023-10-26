@@ -8,7 +8,6 @@
             "left": "center",
             "text": "Nov 2022 - Oct 2023"
         },
-        "tooltip": [],
         "visualMap": {
             "type": "piecewise",
             "left": "center",
@@ -1542,6 +1541,9 @@
                     0
                 ]
             ]
+        },
+        "tooltip": {
+            "trigger": "item"
         }
     }
 }
