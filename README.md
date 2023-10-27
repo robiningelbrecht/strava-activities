@@ -135,7 +135,7 @@ I burned `123438 calories` doing so, that's about `457` pizza slices 🍕
                 </td>
                 <td align="center">30 <sup><sub>km</sub></sup></td>
                 <td align="center">222 <sup><sub>m</sub></sup></td>
-                <td align="center">1:15</td>
+                <td align="center">1:00:15</td>
                 <td align="center">193 <sup><sub>w</sub></sup></td>
                 <td align="center">29.9 <sup><sub>km/h</sub></sup></td>
                 <td align="center">152</td>
@@ -213,7 +213,7 @@ I burned `123438 calories` doing so, that's about `457` pizza slices 🍕
                 </td>
                 <td align="center">32 <sup><sub>km</sub></sup></td>
                 <td align="center">167 <sup><sub>m</sub></sup></td>
-                <td align="center">1:20</td>
+                <td align="center">1:00:20</td>
                 <td align="center">151 <sup><sub>w</sub></sup></td>
                 <td align="center">31.6 <sup><sub>km/h</sub></sup></td>
                 <td align="center">150</td>
@@ -265,7 +265,7 @@ I burned `123438 calories` doing so, that's about `457` pizza slices 🍕
                 </td>
                 <td align="center">35 <sup><sub>km</sub></sup></td>
                 <td align="center">258 <sup><sub>m</sub></sup></td>
-                <td align="center">1:20</td>
+                <td align="center">1:00:20</td>
                 <td align="center">195 <sup><sub>w</sub></sup></td>
                 <td align="center">35 <sup><sub>km/h</sub></sup></td>
                 <td align="center">153</td>
@@ -408,7 +408,7 @@ I burned `123438 calories` doing so, that's about `457` pizza slices 🍕
                 </td>
                 <td align="center">25 <sup><sub>km</sub></sup></td>
                 <td align="center">415 <sup><sub>m</sub></sup></td>
-                <td align="center">1:17</td>
+                <td align="center">1:00:17</td>
                 <td align="center">200 <sup><sub>w</sub></sup></td>
                 <td align="center">25.1 <sup><sub>km/h</sub></sup></td>
                 <td align="center">167</td>
@@ -434,7 +434,7 @@ I burned `123438 calories` doing so, that's about `457` pizza slices 🍕
                 </td>
                 <td align="center">26 <sup><sub>km</sub></sup></td>
                 <td align="center">292 <sup><sub>m</sub></sup></td>
-                <td align="center">1:07</td>
+                <td align="center">1:00:07</td>
                 <td align="center">151 <sup><sub>w</sub></sup></td>
                 <td align="center">25.5 <sup><sub>km/h</sub></sup></td>
                 <td align="center">140</td>
@@ -486,7 +486,7 @@ I burned `123438 calories` doing so, that's about `457` pizza slices 🍕
                 </td>
                 <td align="center">31 <sup><sub>km</sub></sup></td>
                 <td align="center">239 <sup><sub>m</sub></sup></td>
-                <td align="center">1:14</td>
+                <td align="center">1:00:14</td>
                 <td align="center">177 <sup><sub>w</sub></sup></td>
                 <td align="center">30.8 <sup><sub>km/h</sub></sup></td>
                 <td align="center">144</td>
