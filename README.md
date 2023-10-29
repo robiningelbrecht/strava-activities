@@ -1247,42 +1247,77 @@ I burned `125624 calories` doing so, that's about `465` pizza slices 🍕
     </thead>
     <tbody>
             <tr>
-            <td align="center">0 - 20 km</td>
-            <td align="center">68</td>
+            <td align="center">0 - 10 km</td>
+            <td align="center">37</td>
+            <td align="center">253 <sup><sub>km</sub></sup></td>
+            <td align="center">1 238 <sup><sub>m</sub></sup></td>
+            <td align="center">12h 58m</td>
+        </tr>
+            <tr>
+            <td align="center">10 - 20 km</td>
+            <td align="center">31</td>
+            <td align="center">451 <sup><sub>km</sub></sup></td>
+            <td align="center">1 372 <sup><sub>m</sub></sup></td>
+            <td align="center">20h 56m</td>
+        </tr>
+            <tr>
+            <td align="center">20 - 30 km</td>
+            <td align="center">51</td>
+            <td align="center">1 344 <sup><sub>km</sub></sup></td>
+            <td align="center">15 163 <sup><sub>m</sub></sup></td>
+            <td align="center">2d 21m</td>
+        </tr>
+            <tr>
+            <td align="center">30 - 40 km</td>
+            <td align="center">41</td>
+            <td align="center">1 419 <sup><sub>km</sub></sup></td>
+            <td align="center">15 870 <sup><sub>m</sub></sup></td>
+            <td align="center">2d 3h 1m</td>
+        </tr>
+            <tr>
+            <td align="center">40 - 50 km</td>
+            <td align="center">21</td>
+            <td align="center">957 <sup><sub>km</sub></sup></td>
+            <td align="center">10 086 <sup><sub>m</sub></sup></td>
+            <td align="center">1d 9h 39m</td>
+        </tr>
+            <tr>
+            <td align="center">50 - 60 km</td>
+            <td align="center">13</td>
             <td align="center">704 <sup><sub>km</sub></sup></td>
-            <td align="center">2 610 <sup><sub>m</sub></sup></td>
-            <td align="center">1d 9h 55m</td>
+            <td align="center">4 998 <sup><sub>m</sub></sup></td>
+            <td align="center">1d 1h 32m</td>
         </tr>
             <tr>
-            <td align="center">20 - 40 km</td>
-            <td align="center">92</td>
-            <td align="center">2 763 <sup><sub>km</sub></sup></td>
-            <td align="center">31 033 <sup><sub>m</sub></sup></td>
-            <td align="center">4d 3h 23m</td>
+            <td align="center">60 - 70 km</td>
+            <td align="center">6</td>
+            <td align="center">390 <sup><sub>km</sub></sup></td>
+            <td align="center">1 993 <sup><sub>m</sub></sup></td>
+            <td align="center">12h 58m</td>
         </tr>
             <tr>
-            <td align="center">40 - 60 km</td>
-            <td align="center">34</td>
-            <td align="center">1 661 <sup><sub>km</sub></sup></td>
-            <td align="center">15 084 <sup><sub>m</sub></sup></td>
-            <td align="center">2d 11h 12m</td>
+            <td align="center">70 - 80 km</td>
+            <td align="center">1</td>
+            <td align="center">73 <sup><sub>km</sub></sup></td>
+            <td align="center">50 <sup><sub>m</sub></sup></td>
+            <td align="center">2h 30m</td>
         </tr>
             <tr>
-            <td align="center">60 - 80 km</td>
-            <td align="center">7</td>
-            <td align="center">463 <sup><sub>km</sub></sup></td>
-            <td align="center">2 043 <sup><sub>m</sub></sup></td>
-            <td align="center">15h 29m</td>
-        </tr>
-            <tr>
-            <td align="center">80 - 100 km</td>
+            <td align="center">80 - 90 km</td>
             <td align="center">1</td>
             <td align="center">88 <sup><sub>km</sub></sup></td>
             <td align="center">102 <sup><sub>m</sub></sup></td>
             <td align="center">3h 12m</td>
         </tr>
             <tr>
-            <td align="center">100 - 120 km</td>
+            <td align="center">90 - 100 km</td>
+            <td align="center">0</td>
+            <td align="center">0 <sup><sub>km</sub></sup></td>
+            <td align="center">0 <sup><sub>m</sub></sup></td>
+            <td align="center"></td>
+        </tr>
+            <tr>
+            <td align="center">100 - 110 km</td>
             <td align="center">2</td>
             <td align="center">203 <sup><sub>km</sub></sup></td>
             <td align="center">230 <sup><sub>m</sub></sup></td>
