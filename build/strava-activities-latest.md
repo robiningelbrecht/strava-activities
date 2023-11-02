@@ -12,14 +12,18 @@
             <tr>
             <td>02-11-23</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10149459700" title="Kcal: n/a | Gear: None ">Cyclo boys</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/10149838071" title="Kcal: 
+Deprecated: Implicit conversion from float 613.8 to int loses precision in /Volumes/Projects/strava-activities/src/Domain/Strava/Activity/Activity.php on line 243
+
+Deprecated: Implicit conversion from float 613.8 to int loses precision in /Volumes/Projects/strava-activities/src/Domain/Strava/Activity/Activity.php on line 243
+613 | Gear: None ">Cyclo boys</a>
             </td>
             <td align="center">24 <sup><sub>km</sub></sup></td>
             <td align="center">0 <sup><sub>m</sub></sup></td>
-            <td align="center">41:00</td>
-            <td align="center">n/a</td>
-            <td align="center">35.6 <sup><sub>km/h</sub></sup></td>
+            <td align="center">41:36</td>
+            <td align="center">221 <sup><sub>w</sub></sup></td>
+            <td align="center">35.1 <sup><sub>km/h</sub></sup></td>
             <td align="center">n/a</td>
         </tr>
             <tr>
