@@ -929,7 +929,7 @@ I burned `129288 calories` doing so, that's about `479` pizza slices 🍕
         </tr>
         <tr>
         <td align="center" rowspan="3"><b>Totals</b></td>
-        <td align="center"><b>On Zwift</b></td>
+        <td align="center"><b>Virtual Indoor</b></td>
         <td align="center" colspan="2"><b>4 293 <sup><sub>km</sub></sup></b></td>
         <td align="center"><b>45 216 <sup><sub>m</sub></sup></b></td>
         <td align="center" colspan="2"><b>6d 3h 38m</b></td>
