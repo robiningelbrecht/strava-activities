@@ -139,7 +139,7 @@
                     "show": false
                 },
                 "max": 180,
-                "interval": 30
+                "interval": 60
             }
         ],
         "series": [
