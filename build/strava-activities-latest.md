@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>07-11-23</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/10178892877" title="Kcal: 371 | Gear: None ">⚽️ Tita-🧙‍♂️ ⚽️</a>
+            </td>
+            <td align="center">12 <sup><sub>km</sub></sup></td>
+            <td align="center">25 <sup><sub>m</sub></sup></td>
+            <td align="center">39:18</td>
+            <td align="center">65 <sup><sub>w</sub></sup></td>
+            <td align="center">18.8 <sup><sub>km/h</sub></sup></td>
+            <td align="center">133</td>
+        </tr>
+            <tr>
             <td>06-11-23</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
@@ -59,19 +72,6 @@
             <td align="center">1:41:21</td>
             <td align="center">155 <sup><sub>w</sub></sup></td>
             <td align="center">30.9 <sup><sub>km/h</sub></sup></td>
-            <td align="center">n/a</td>
-        </tr>
-            <tr>
-            <td>02-11-23</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10149838071" title="Kcal: 614 | Gear: None ">Cyclo boys</a>
-            </td>
-            <td align="center">24 <sup><sub>km</sub></sup></td>
-            <td align="center">0 <sup><sub>m</sub></sup></td>
-            <td align="center">41:36</td>
-            <td align="center">221 <sup><sub>w</sub></sup></td>
-            <td align="center">35.1 <sup><sub>km/h</sub></sup></td>
             <td align="center">n/a</td>
         </tr>
                 <tr>
