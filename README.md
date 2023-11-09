@@ -1176,12 +1176,12 @@ I burned `131934 calories` doing so, that's about `489` pizza slices 🍕
             <td align="center">Other</td>
             <td align="center">1</td>
             <td align="center">
-                                    0 <sup><sub>km avg</sub></sup> /
+                                    24 <sup><sub>km avg</sub></sup> /
                     24 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">0 <sup><sub>m</sub></sup></td>
+            <td align="center">24 <sup><sub>m</sub></sup></td>
             <td align="center">41m</td>
-            <td align="center">0.0 <sup><sub>km/h</sub></sup></td>
+            <td align="center">34.6 <sup><sub>km/h</sub></sup></td>
         </tr>
         </tbody>
 </table>
