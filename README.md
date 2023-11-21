@@ -3,7 +3,7 @@
          alt="Strava">
 </p>
 
-Since I began cycling `238 days` ago on `27-03-2023`,
+Since I began cycling `239 days` ago on `27-03-2023`,
 I had `176 cycling days`.<br />
 I recorded a total distance of `6 420 km`
 (`0.16` trips around the world 🌍 and
@@ -13,7 +13,7 @@ an elevation of `54 171 m`
 and a total time of `1w 2d 20h 14m` 🎉
 
 That's a daily average of `27 km`,
-a weekly average of `189 km` and a
+a weekly average of `183 km` and a
 monthly average of `803 km` 🐣
 
 I burned `136419 calories` doing so, that's about `505` pizza slices 🍕
