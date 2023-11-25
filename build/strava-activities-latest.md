@@ -64,15 +64,15 @@
             <tr>
             <td>22-11-23</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10263280711" title="Kcal: 564 | Gear: None ">Zwift Academy: Workout 5 |...</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/10277166490" title="Kcal: 205 | Gear: None ">Evening Ride</a>
             </td>
-            <td align="center">30 <sup><sub>km</sub></sup></td>
-            <td align="center">138 <sup><sub>m</sub></sup></td>
-            <td align="center">50:02</td>
-            <td align="center">197 <sup><sub>w</sub></sup></td>
-            <td align="center">36.1 <sup><sub>km/h</sub></sup></td>
-            <td align="center">173</td>
+            <td align="center">7 <sup><sub>km</sub></sup></td>
+            <td align="center">6 <sup><sub>m</sub></sup></td>
+            <td align="center">23:16</td>
+            <td align="center">55 <sup><sub>w</sub></sup></td>
+            <td align="center">17.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">115</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
