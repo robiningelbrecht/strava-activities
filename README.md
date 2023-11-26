@@ -1078,11 +1078,11 @@ I burned `139770 calories` doing so, that's about `518` pizza slices 🍕
             <td align="center">117</td>
             <td align="center">
                                     33 <sup><sub>km avg</sub></sup> /
-                    3 831 <sup><sub>km total</sub></sup>
+                    3 811 <sup><sub>km total</sub></sup>
                             </td>
             <td align="center">39 478 <sup><sub>m</sub></sup></td>
             <td align="center">5d 7h 17m</td>
-            <td align="center">30.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">29.9 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
             <td align="center">Retro Race Bike</td>
@@ -1100,11 +1100,11 @@ I burned `139770 calories` doing so, that's about `518` pizza slices 🍕
             <td align="center">33</td>
             <td align="center">
                                     29 <sup><sub>km avg</sub></sup> /
-                    946 <sup><sub>km total</sub></sup>
+                    966 <sup><sub>km total</sub></sup>
                             </td>
             <td align="center">8 709 <sup><sub>m</sub></sup></td>
             <td align="center">1d 10h 49m</td>
-            <td align="center">27.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">27.7 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
             <td align="center">City bike</td>
