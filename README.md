@@ -1075,14 +1075,14 @@ I burned `139770 calories` doing so, that's about `518` pizza slices 🍕
     <tbody>
             <tr>
             <td align="center">Zwift Hub</td>
-            <td align="center">118</td>
+            <td align="center">117</td>
             <td align="center">
-                                    32 <sup><sub>km avg</sub></sup> /
+                                    33 <sup><sub>km avg</sub></sup> /
                     3 831 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">39 717 <sup><sub>m</sub></sup></td>
-            <td align="center">5d 8h 7m</td>
-            <td align="center">29.9 <sup><sub>km/h</sub></sup></td>
+            <td align="center">39 478 <sup><sub>m</sub></sup></td>
+            <td align="center">5d 7h 17m</td>
+            <td align="center">30.1 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
             <td align="center">Retro Race Bike</td>
@@ -1097,14 +1097,14 @@ I burned `139770 calories` doing so, that's about `518` pizza slices 🍕
         </tr>
             <tr>
             <td align="center">Elite Direto XR-T ☠️</td>
-            <td align="center">32</td>
+            <td align="center">33</td>
             <td align="center">
-                                    30 <sup><sub>km avg</sub></sup> /
+                                    29 <sup><sub>km avg</sub></sup> /
                     946 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">8 470 <sup><sub>m</sub></sup></td>
-            <td align="center">1d 9h 59m</td>
-            <td align="center">27.8 <sup><sub>km/h</sub></sup></td>
+            <td align="center">8 709 <sup><sub>m</sub></sup></td>
+            <td align="center">1d 10h 49m</td>
+            <td align="center">27.2 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
             <td align="center">City bike</td>
