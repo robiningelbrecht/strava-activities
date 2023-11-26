@@ -725,7 +725,7 @@
 <path d="M965.3 100.5l15.1 0l0 10l-15.1 0Z" fill="#FAB735"></path>
 <path d="M965.3 113.5l15.1 0l0 10l-15.1 0Z" fill="#FF8E14"></path>
 <path d="M965.3 126.5l15.1 0l0 10l-15.1 0Z" fill="#68B34B"></path>
-<path d="M965.3 139.5l15.1 0l0 10l-15.1 0Z" fill="#cdd9e5"></path>
+<path d="M965.3 139.5l15.1 0l0 10l-15.1 0Z" fill="#FAB735"></path>
 <path d="M983.4 61.5l15.1 0l0 10l-15.1 0Z" fill="#cdd9e5"></path>
 <path d="M983.4 74.5l15.1 0l0 10l-15.1 0Z" fill="#cdd9e5"></path>
 <path d="M983.4 87.5l15.1 0l0 10l-15.1 0Z" fill="#cdd9e5"></path>
@@ -754,11 +754,11 @@
 <path d="M3.5 0L16.5 0A3.5 3.5 0 0 1 20 3.5L20 10.5A3.5 3.5 0 0 1 16.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(208.26 161)" fill="#cdd9e5"></path>
 <text dominant-baseline="central" text-anchor="start" style="font: normal normal 12px sans-serif" xml:space="preserve" x="30" y="7" transform="translate(208.26 161)" fill="#333">No activities</text>
 <path d="M3.5 0L16.5 0A3.5 3.5 0 0 1 20 3.5L20 10.5A3.5 3.5 0 0 1 16.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(313.06 161)" fill="#68B34B"></path>
-<text dominant-baseline="central" text-anchor="start" style="font: normal normal 12px sans-serif" xml:space="preserve" x="30" y="7" transform="translate(313.06 161)" fill="#333">Low (0 - 32)</text>
+<text dominant-baseline="central" text-anchor="start" style="font: normal normal 12px sans-serif" xml:space="preserve" x="30" y="7" transform="translate(313.06 161)" fill="#333">Low (0 - 33)</text>
 <path d="M3.5 0L16.5 0A3.5 3.5 0 0 1 20 3.5L20 10.5A3.5 3.5 0 0 1 16.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(417.26 161)" fill="#FAB735"></path>
-<text dominant-baseline="central" text-anchor="start" style="font: normal normal 12px sans-serif" xml:space="preserve" x="30" y="7" transform="translate(417.26 161)" fill="#333">Medium (33 - 65)</text>
+<text dominant-baseline="central" text-anchor="start" style="font: normal normal 12px sans-serif" xml:space="preserve" x="30" y="7" transform="translate(417.26 161)" fill="#333">Medium (34 - 66)</text>
 <path d="M3.5 0L16.5 0A3.5 3.5 0 0 1 20 3.5L20 10.5A3.5 3.5 0 0 1 16.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(548.82 161)" fill="#FF8E14"></path>
-<text dominant-baseline="central" text-anchor="start" style="font: normal normal 12px sans-serif" xml:space="preserve" x="30" y="7" transform="translate(548.82 161)" fill="#333">High (66 - 100)</text>
+<text dominant-baseline="central" text-anchor="start" style="font: normal normal 12px sans-serif" xml:space="preserve" x="30" y="7" transform="translate(548.82 161)" fill="#333">High (67 - 100)</text>
 <path d="M3.5 0L16.5 0A3.5 3.5 0 0 1 20 3.5L20 10.5A3.5 3.5 0 0 1 16.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(669.1 161)" fill="#FF0C0C"></path>
 <text dominant-baseline="central" text-anchor="start" style="font: normal normal 12px sans-serif" xml:space="preserve" x="30" y="7" transform="translate(669.1 161)" fill="#333">Very high (&gt; 100)</text>
 <path d="M-90.4 -5l180.8 0l0 28l-180.8 0Z" transform="translate(500 5)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0"></path>
