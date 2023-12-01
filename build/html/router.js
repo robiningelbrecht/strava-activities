@@ -68,6 +68,7 @@ const registerNavItems = (items) => {
     items.forEach(function (to) {
         to.addEventListener("click", (e) => {
             e.preventDefault();
+            history.pushState({}, "", '#'+to.getAttribute('data-router-navigate'));
             renderContent(to.getAttribute('data-router-navigate'));
         });
     });
