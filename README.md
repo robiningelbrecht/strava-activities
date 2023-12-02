@@ -4,19 +4,19 @@
 </p>
 
 Since I began cycling `8 months and 3 weeks` ago on `27-03-2023`,
-I had `185 cycling days`.<br />
-I recorded a total distance of `6 802 km`
+I had `186 cycling days`.<br />
+I recorded a total distance of `6 809 km`
 (`0.17` trips around the world 🌍 and
 `0.018` trips to the moon 🌕),
-an elevation of `56 018 m`
+an elevation of `56 022 m`
 (`6.3` times Mount Everest 🏔)
-and a total time of `1w 3d 7h 55m` 🎉
+and a total time of `1w 3d 8h 19m` 🎉
 
 That's a daily average of `27 km`,
 a weekly average of `189 km` and a
-monthly average of `756 km` 🐣
+monthly average of `757 km` 🐣
 
-I burned `143569 calories` doing so, that's about `532` pizza slices 🍕
+I burned `143730 calories` doing so, that's about `532` pizza slices 🍕
 
 ---
 
@@ -30,6 +30,7 @@ I burned `143569 calories` doing so, that's about `532` pizza slices 🍕
 <kbd><a href="#best-power-outputs-over-time">Power outputs</a></kbd> |
 <kbd><a href="#eddington-chart">Eddington</a></kbd> |
 <kbd><a href="#distance-breakdown">Distance breakdown</a></kbd> |
+<kbd><a href="#challenge-consistency">Challenge consistency</a></kbd> |
 <kbd><a href="#completed-challenges">Completed challenges</a></kbd>
 
 ## Weekly distances
@@ -49,6 +50,19 @@ I burned `143569 calories` doing so, that's about `532` pizza slices 🍕
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/average-speed.svg" width="30" alt="average speed" title="average speed"/></th>
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
+            <tr>
+            <td>02-12-23</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/10315481314" title="Kcal: 161 | Gear: City bike ">Lunch Ride ❄️</a>
+            </td>
+            <td align="center">7 <sup><sub>km</sub></sup></td>
+            <td align="center">4 <sup><sub>m</sub></sup></td>
+            <td align="center">23:19</td>
+            <td align="center">53 <sup><sub>w</sub></sup></td>
+            <td align="center">17.6 <sup><sub>km/h</sub></sup></td>
+            <td align="center">106</td>
+        </tr>
             <tr>
             <td>01-12-23</td>
             <td>
@@ -101,19 +115,6 @@ I burned `143569 calories` doing so, that's about `532` pizza slices 🍕
             <td align="center">34.4 <sup><sub>km/h</sub></sup></td>
             <td align="center">132</td>
         </tr>
-            <tr>
-            <td>29-11-23</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10302017000" title="Kcal: 917 | Gear: Zwift Hub ">Zwift Academy: Workout 6 |...</a>
-            </td>
-            <td align="center">51 <sup><sub>km</sub></sup></td>
-            <td align="center">231 <sup><sub>m</sub></sup></td>
-            <td align="center">1:22:28</td>
-            <td align="center">194 <sup><sub>w</sub></sup></td>
-            <td align="center">36.9 <sup><sub>km/h</sub></sup></td>
-            <td align="center">166</td>
-        </tr>
         </table>
 <details>
     <summary>Older activities</summary>
@@ -128,6 +129,19 @@ I burned `143569 calories` doing so, that's about `532` pizza slices 🍕
             <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/average-speed.svg" width="30" alt="average speed" title="average speed"/></th>
             <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
         </tr>
+                    <tr>
+                <td>29-11-23</td>
+                <td>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                    <a href="https://www.strava.com/activities/10302017000" title="Kcal: 917 | Gear: Zwift Hub ">Zwift Academy: Workout 6 |...</a>
+                </td>
+                <td align="center">51 <sup><sub>km</sub></sup></td>
+                <td align="center">231 <sup><sub>m</sub></sup></td>
+                <td align="center">1:22:28</td>
+                <td align="center">194 <sup><sub>w</sub></sup></td>
+                <td align="center">36.9 <sup><sub>km/h</sub></sup></td>
+                <td align="center">166</td>
+            </tr>
                     <tr>
                 <td>27-11-23</td>
                 <td>
@@ -765,19 +779,6 @@ I burned `143569 calories` doing so, that's about `532` pizza slices 🍕
                 <td align="center">33.2 <sup><sub>km/h</sub></sup></td>
                 <td align="center">167</td>
             </tr>
-                    <tr>
-                <td>14-10-23</td>
-                <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10037913633" title="Kcal: 675 | Gear: Zwift Hub ">Volcano Climb in Watopia</a>
-                </td>
-                <td align="center">35 <sup><sub>km</sub></sup></td>
-                <td align="center">258 <sup><sub>m</sub></sup></td>
-                <td align="center">1:00:20</td>
-                <td align="center">195 <sup><sub>w</sub></sup></td>
-                <td align="center">35 <sup><sub>km/h</sub></sup></td>
-                <td align="center">153</td>
-            </tr>
             </table>
 </details>
 
@@ -798,10 +799,10 @@ I burned `143569 calories` doing so, that's about `532` pizza slices 🍕
     <tbody>
             <tr>
             <td align="center">December 2023</td>
-            <td align="center">3</td>
-            <td align="center">50 <sup><sub>km</sub></sup></td>
-            <td align="center">501 <sup><sub>m</sub></sup></td>
-            <td align="center">1h 28m</td>
+            <td align="center">4</td>
+            <td align="center">57 <sup><sub>km</sub></sup></td>
+            <td align="center">505 <sup><sub>m</sub></sup></td>
+            <td align="center">1h 52m</td>
             <td align="center">1</td>
         </tr>
             <tr>
@@ -886,18 +887,18 @@ I burned `143569 calories` doing so, that's about `532` pizza slices 🍕
     </tr>
     <tr>
         <td align="center"><b>Outside</b></td>
-        <td align="center"><b>84</td>
-        <td align="center"><b>1 837 <sup><sub>km</sub></sup></b></td>
-        <td align="center"><b>6 843 <sup><sub>m</sub></sup></b></td>
-        <td align="center"><b>3d 8h 10m</b></td>
+        <td align="center"><b>85</td>
+        <td align="center"><b>1 844 <sup><sub>km</sub></sup></b></td>
+        <td align="center"><b>6 847 <sup><sub>m</sub></sup></b></td>
+        <td align="center"><b>3d 8h 33m</b></td>
         <td align="center"></td>
     </tr>
     <tr>
         <td align="center"><b>Total</b></td>
-        <td align="center"><b>240</td>
-        <td align="center"><b>6 802 <sup><sub>km</sub></sup></b></td>
-        <td align="center"><b>56 018 <sup><sub>m</sub></sup></b></td>
-        <td align="center"><b>1w 3d 7h 55m</b></td>
+        <td align="center"><b>241</td>
+        <td align="center"><b>6 809 <sup><sub>km</sub></sup></b></td>
+        <td align="center"><b>56 022 <sup><sub>m</sub></sup></b></td>
+        <td align="center"><b>1w 3d 8h 19m</b></td>
         <td align="center"></td>
     </tr>
     </tbody>
@@ -980,14 +981,14 @@ I burned `143569 calories` doing so, that's about `532` pizza slices 🍕
         </tr>
             <tr>
             <td align="center">Saturday</td>
-            <td align="center">35</td>
+            <td align="center">36</td>
             <td align="center">
                                     25 <sup><sub>km avg</sub></sup> /
-                    882 <sup><sub>km total</sub></sup>
+                    889 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">6 536 <sup><sub>m</sub></sup></td>
-            <td align="center">1d 9h 5m</td>
-            <td align="center">26.6 <sup><sub>km/h</sub></sup></td>
+            <td align="center">6 540 <sup><sub>m</sub></sup></td>
+            <td align="center">1d 9h 29m</td>
+            <td align="center">26.5 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
             <td align="center">Sunday</td>
@@ -1022,14 +1023,14 @@ I burned `143569 calories` doing so, that's about `532` pizza slices 🍕
     <tbody>
             <tr>
             <td align="center">Morning (6h - 12h)</td>
-            <td align="center">46</td>
+            <td align="center">47</td>
             <td align="center">
                                     28 <sup><sub>km avg</sub></sup> /
-                    1 290 <sup><sub>km total</sub></sup>
+                    1 297 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">8 054 <sup><sub>m</sub></sup></td>
-            <td align="center">2d 4h 42m</td>
-            <td align="center">24.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">8 058 <sup><sub>m</sub></sup></td>
+            <td align="center">2d 5h 6m</td>
+            <td align="center">24.4 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
             <td align="center">Afternoon (12h - 17h)</td>
@@ -1116,13 +1117,13 @@ I burned `143569 calories` doing so, that's about `532` pizza slices 🍕
         </tr>
             <tr>
             <td align="center">City bike</td>
-            <td align="center">42</td>
+            <td align="center">43</td>
             <td align="center">
                                     9 <sup><sub>km avg</sub></sup> /
-                    362 <sup><sub>km total</sub></sup>
+                    369 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">552 <sup><sub>m</sub></sup></td>
-            <td align="center">20h 29m</td>
+            <td align="center">556 <sup><sub>m</sub></sup></td>
+            <td align="center">20h 53m</td>
             <td align="center">17.7 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
@@ -1293,13 +1294,13 @@ I burned `143569 calories` doing so, that's about `532` pizza slices 🍕
     <tbody>
             <tr>
             <td align="center">0 - 10 km</td>
-            <td align="center">45</td>
+            <td align="center">46</td>
             <td align="center">
                                      7 <sup><sub>km avg</sub></sup> /
-                     312 <sup><sub>km total</sub></sup>
+                     319 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">1 435 <sup><sub>m</sub></sup></td>
-            <td align="center">15h 35m</td>
+            <td align="center">1 439 <sup><sub>m</sub></sup></td>
+            <td align="center">15h 58m</td>
             <td align="center">20.0 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
@@ -1411,6 +1412,171 @@ I burned `143569 calories` doing so, that's about `532` pizza slices 🍕
             <td align="center">7h 3m</td>
             <td align="center">28.7 <sup><sub>km/h</sub></sup></td>
         </tr>
+        </tbody>
+</table>
+
+## Challenge consistency
+
+<table>
+    <thead>
+    <tr>
+        <th></th>
+                <th align="center">Dec 2023</th>
+                <th align="center">Nov 2023</th>
+                <th align="center">Oct 2023</th>
+                <th align="center">Sep 2023</th>
+                <th align="center">Aug 2023</th>
+                <th align="center">Jul 2023</th>
+                <th align="center">Jun 2023</th>
+                <th align="center">May 2023</th>
+                <th align="center">Apr 2023</th>
+                <th align="center">Mar 2023</th>
+            </tr>
+    </thead>
+    <tbody>
+            <tr>
+            <td align="center">Ride a total of 200km</td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/check-mark.svg" width="20" alt="Check mark" title="Check mark"/>
+                            </td>
+                        <td align="center">
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/check-mark.svg" width="20" alt="Check mark" title="Check mark"/>
+                            </td>
+                        <td align="center">
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/check-mark.svg" width="20" alt="Check mark" title="Check mark"/>
+                            </td>
+                        <td align="center">
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/check-mark.svg" width="20" alt="Check mark" title="Check mark"/>
+                            </td>
+                        <td align="center">
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/check-mark.svg" width="20" alt="Check mark" title="Check mark"/>
+                            </td>
+                        <td align="center">
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/check-mark.svg" width="20" alt="Check mark" title="Check mark"/>
+                            </td>
+                        <td align="center">
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/check-mark.svg" width="20" alt="Check mark" title="Check mark"/>
+                            </td>
+                        <td align="center">
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/check-mark.svg" width="20" alt="Check mark" title="Check mark"/>
+                            </td>
+                        <td align="center">
+                            </td>
+                    </tr>
+            <tr>
+            <td align="center">Ride a total of 600km</td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/check-mark.svg" width="20" alt="Check mark" title="Check mark"/>
+                            </td>
+                        <td align="center">
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/check-mark.svg" width="20" alt="Check mark" title="Check mark"/>
+                            </td>
+                        <td align="center">
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/check-mark.svg" width="20" alt="Check mark" title="Check mark"/>
+                            </td>
+                        <td align="center">
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/check-mark.svg" width="20" alt="Check mark" title="Check mark"/>
+                            </td>
+                        <td align="center">
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/check-mark.svg" width="20" alt="Check mark" title="Check mark"/>
+                            </td>
+                        <td align="center">
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/check-mark.svg" width="20" alt="Check mark" title="Check mark"/>
+                            </td>
+                        <td align="center">
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/check-mark.svg" width="20" alt="Check mark" title="Check mark"/>
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                    </tr>
+            <tr>
+            <td align="center">Climb a total of 7500m</td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/check-mark.svg" width="20" alt="Check mark" title="Check mark"/>
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/check-mark.svg" width="20" alt="Check mark" title="Check mark"/>
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/check-mark.svg" width="20" alt="Check mark" title="Check mark"/>
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                    </tr>
+            <tr>
+            <td align="center">Complete a 100km ride</td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/check-mark.svg" width="20" alt="Check mark" title="Check mark"/>
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/check-mark.svg" width="20" alt="Check mark" title="Check mark"/>
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                    </tr>
+            <tr>
+            <td align="center">2 days of activity for 4 weeks</td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/check-mark.svg" width="20" alt="Check mark" title="Check mark"/>
+                            </td>
+                        <td align="center">
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/check-mark.svg" width="20" alt="Check mark" title="Check mark"/>
+                            </td>
+                        <td align="center">
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/check-mark.svg" width="20" alt="Check mark" title="Check mark"/>
+                            </td>
+                        <td align="center">
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/check-mark.svg" width="20" alt="Check mark" title="Check mark"/>
+                            </td>
+                        <td align="center">
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/check-mark.svg" width="20" alt="Check mark" title="Check mark"/>
+                            </td>
+                        <td align="center">
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/check-mark.svg" width="20" alt="Check mark" title="Check mark"/>
+                            </td>
+                        <td align="center">
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/check-mark.svg" width="20" alt="Check mark" title="Check mark"/>
+                            </td>
+                        <td align="center">
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/check-mark.svg" width="20" alt="Check mark" title="Check mark"/>
+                            </td>
+                        <td align="center">
+                            </td>
+                    </tr>
         </tbody>
 </table>
 
