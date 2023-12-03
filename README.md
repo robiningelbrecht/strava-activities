@@ -16,11 +16,7 @@ That's a daily average of `27 km`,
 a weekly average of `191 km` and a
 monthly average of `763 km` 🐣
 
-I burned `
-Deprecated: Implicit conversion from float 613.8 to int loses precision in /Volumes/Projects/strava-activities/src/Domain/Strava/Activity/Activity.php on line 254
-144490 calories` doing so, that's about `
-Deprecated: Implicit conversion from float 613.8 to int loses precision in /Volumes/Projects/strava-activities/src/Domain/Strava/Activity/Activity.php on line 254
-535` pizza slices 🍕
+I burned `144490 calories` doing so, that's about `535` pizza slices 🍕
 
 ---
 
@@ -488,9 +484,7 @@ Deprecated: Implicit conversion from float 613.8 to int loses precision in /Volu
                 <td>02-11-23</td>
                 <td>
                     <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10149838071" title="Kcal: 
-Deprecated: Implicit conversion from float 613.8 to int loses precision in /Volumes/Projects/strava-activities/src/Domain/Strava/Activity/Activity.php on line 254
-613 | Gear: None ">Cyclo boys</a>
+                    <a href="https://www.strava.com/activities/10149838071" title="Kcal: 613 | Gear: None ">Cyclo boys</a>
                 </td>
                 <td align="center">24 <sup><sub>km</sub></sup></td>
                 <td align="center">0 <sup><sub>m</sub></sup></td>
@@ -893,34 +887,18 @@ Deprecated: Implicit conversion from float 613.8 to int loses precision in /Volu
     </tr>
     <tr>
         <td align="center"><b>Outside</b></td>
-        <td align="center"><b>
-Deprecated: Implicit conversion from float 613.8 to int loses precision in /Volumes/Projects/strava-activities/src/Domain/Strava/Activity/Activity.php on line 254
-85</td>
-        <td align="center"><b>
-Deprecated: Implicit conversion from float 613.8 to int loses precision in /Volumes/Projects/strava-activities/src/Domain/Strava/Activity/Activity.php on line 254
-1 843 <sup><sub>km</sub></sup></b></td>
-        <td align="center"><b>
-Deprecated: Implicit conversion from float 613.8 to int loses precision in /Volumes/Projects/strava-activities/src/Domain/Strava/Activity/Activity.php on line 254
-6 843 <sup><sub>m</sub></sup></b></td>
-        <td align="center"><b>
-Deprecated: Implicit conversion from float 613.8 to int loses precision in /Volumes/Projects/strava-activities/src/Domain/Strava/Activity/Activity.php on line 254
-3d 8h 33m</b></td>
+        <td align="center"><b>85</td>
+        <td align="center"><b>1 843 <sup><sub>km</sub></sup></b></td>
+        <td align="center"><b>6 843 <sup><sub>m</sub></sup></b></td>
+        <td align="center"><b>3d 8h 33m</b></td>
         <td align="center"></td>
     </tr>
     <tr>
         <td align="center"><b>Total</b></td>
-        <td align="center"><b>
-Deprecated: Implicit conversion from float 613.8 to int loses precision in /Volumes/Projects/strava-activities/src/Domain/Strava/Activity/Activity.php on line 254
-242</td>
-        <td align="center"><b>
-Deprecated: Implicit conversion from float 613.8 to int loses precision in /Volumes/Projects/strava-activities/src/Domain/Strava/Activity/Activity.php on line 254
-6 867 <sup><sub>km</sub></sup></b></td>
-        <td align="center"><b>
-Deprecated: Implicit conversion from float 613.8 to int loses precision in /Volumes/Projects/strava-activities/src/Domain/Strava/Activity/Activity.php on line 254
-56 097 <sup><sub>m</sub></sup></b></td>
-        <td align="center"><b>
-Deprecated: Implicit conversion from float 613.8 to int loses precision in /Volumes/Projects/strava-activities/src/Domain/Strava/Activity/Activity.php on line 254
-1w 3d 9h 49m</b></td>
+        <td align="center"><b>242</td>
+        <td align="center"><b>6 867 <sup><sub>km</sub></sup></b></td>
+        <td align="center"><b>56 097 <sup><sub>m</sub></sup></b></td>
+        <td align="center"><b>1w 3d 9h 49m</b></td>
         <td align="center"></td>
     </tr>
     </tbody>
@@ -1104,9 +1082,7 @@ Deprecated: Implicit conversion from float 613.8 to int loses precision in /Volu
     </tr>
     </thead>
     <tbody>
-    
-Deprecated: Implicit conversion from float 613.8 to int loses precision in /Volumes/Projects/strava-activities/src/Domain/Strava/Activity/Activity.php on line 254
-        <tr>
+            <tr>
             <td align="center">Zwift Hub</td>
             <td align="center">124</td>
             <td align="center">

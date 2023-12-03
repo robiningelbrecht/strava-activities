@@ -25,7 +25,7 @@ final readonly class ActivityTotals
 
     public function getCalories(): int
     {
-        return array_sum(array_map(fn (Activity $activity) => $activity->getCalories(), $this->activities->toArray()));
+        return (int) array_sum(array_map(fn (Activity $activity) => $activity->getCalories(), $this->activities->toArray()));
     }
 
     public function getMovingTimeFormatted(): string
