@@ -31,4 +31,9 @@ final readonly class Week
     {
         return $this->date->format('M Y');
     }
+
+    public function getNextWeek(): Week
+    {
+        return Week::fromDate($this->date->modify('next monday'));
+    }
 }

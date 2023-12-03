@@ -18,13 +18,13 @@ final class WeekCollection extends Collection
     }
 
     public static function create(
-        SerializableDateTime $startDateFirstActivity,
+        SerializableDateTime $startDate,
         SerializableDateTime $now
     ): self {
         $weeks = WeekCollection::empty();
 
         $period = new \DatePeriod(
-            $startDateFirstActivity,
+            $startDate,
             new \DateInterval('P1W'),
             $now
         );

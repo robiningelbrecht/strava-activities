@@ -18,12 +18,12 @@ final class MonthCollection extends Collection
     }
 
     public static function create(
-        SerializableDateTime $startDateFirstActivity,
+        SerializableDateTime $startDate,
         SerializableDateTime $now
     ): self {
         $months = MonthCollection::empty();
         $period = new \DatePeriod(
-            $startDateFirstActivity->modify('first day of this month'),
+            $startDate->modify('first day of this month'),
             new \DateInterval('P1M'),
             $now->modify('last day of this month')
         );

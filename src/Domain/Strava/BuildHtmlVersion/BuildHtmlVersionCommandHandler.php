@@ -88,7 +88,7 @@ final readonly class BuildHtmlVersionCommandHandler implements CommandHandler
         $weekdayStats = WeekdayStats::fromActivities($allActivities);
         $dayTimeStats = DaytimeStats::fromActivities($allActivities);
         $allMonths = MonthCollection::create(
-            startDateFirstActivity: $allActivities->getFirstActivityStartDate(),
+            startDate: $allActivities->getFirstActivityStartDate(),
             now: $now
         );
         $monthlyStatistics = MonthlyStatistics::fromActivitiesAndChallenges(
@@ -201,6 +201,7 @@ final readonly class BuildHtmlVersionCommandHandler implements CommandHandler
                     )
                         ->build(),
                 ),
+                'heartRates' => $this->activityHeartRateRepository->findHighest(),
                 'challengeConsistency' => ChallengeConsistency::create(
                     months: $allMonths,
                     monthlyStatistics: $monthlyStatistics,

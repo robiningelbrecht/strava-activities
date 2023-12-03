@@ -46,7 +46,7 @@ final readonly class BuildReadMeCommandHandler implements CommandHandler
         $allChallenges = $this->challengeRepository->findAll();
         $allBikes = $this->gearRepository->findAll();
         $allMonths = MonthCollection::create(
-            startDateFirstActivity: $allActivities->getFirstActivityStartDate(),
+            startDate: $allActivities->getFirstActivityStartDate(),
             now: $now
         );
         $monthlyStatistics = MonthlyStatistics::fromActivitiesAndChallenges(
