@@ -10,7 +10,7 @@
         "grid": {
             "left": "3%",
             "right": "4%",
-            "bottom": "50px",
+            "bottom": "3%",
             "containLabel": true
         },
         "dataZoom": [],
@@ -22,8 +22,8 @@
                     "show": false
                 },
                 "data": [
-                    "Sep 2023",
                     "",
+                    "Sep 2023",
                     "Oct 2023",
                     "",
                     "",
