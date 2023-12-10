@@ -101,7 +101,7 @@ final class WeeklyDistanceChartBuilder
                 [
                     'type' => 'category',
                     'boundaryGap' => false,
-                    'label' => [
+                    'axisLabel' => [
                         'interval' => 0,
                     ],
                     'axisTick' => [
