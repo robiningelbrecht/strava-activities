@@ -18,11 +18,11 @@
             {
                 "type": "category",
                 "boundaryGap": false,
-                "axisLabel": {
-                    "interval": 0
-                },
                 "axisTick": {
                     "show": false
+                },
+                "axisLabel": {
+                    "interval": 0
                 },
                 "data": [
                     "",
@@ -30,12 +30,12 @@
                     "",
                     "",
                     "",
-                    "",
                     "Nov 2023",
                     "",
                     "",
                     "",
-                    "Dec 2023"
+                    "Dec 2023",
+                    ""
                 ],
                 "splitLine": {
                     "show": true,
@@ -80,7 +80,6 @@
                     "focus": "series"
                 },
                 "data": [
-                    160,
                     187,
                     250,
                     182,
@@ -90,7 +89,8 @@
                     142,
                     183,
                     271,
-                    267
+                    267,
+                    58
                 ]
             }
         ]
