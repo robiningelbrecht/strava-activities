@@ -101,11 +101,11 @@ final class WeeklyDistanceChartBuilder
                 [
                     'type' => 'category',
                     'boundaryGap' => false,
-                    'axisLabel' => [
-                        'interval' => 0,
-                    ],
                     'axisTick' => [
                         'show' => false,
+                    ],
+                    'axisLabel' => [
+                        'interval' => 0,
                     ],
                     'data' => $xAxisLabels,
                     'splitLine' => [
