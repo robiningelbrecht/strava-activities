@@ -122,16 +122,16 @@
                                 {% endif %}
                             </td>
                             <td class="px-2 py-2 text-sm">
-                                 {% set averageCadence = activity.getAverageCadence() %}
-                                 {{ averageCadence ?: 'n/a'  }}
+                                {% set averageCadence = activity.getAverageCadence() %}
+                                {{ averageCadence ?: 'n/a'  }}
                             </td>
                             <td class="px-2 py-2 text-sm">
-                                 {% set averagePower = activity.getAveragePower() %}
-                                 {% if averagePower %}
-                                     {{ averagePower }}<span class="text-xs">w</span>
-                                 {% else %}
-                                     n/a
-                                 {% endif %}
+                                {% set averagePower = activity.getAveragePower() %}
+                                {% if averagePower %}
+                                    {{ averagePower }}<span class="text-xs">w</span>
+                                {% else %}
+                                    n/a
+                                {% endif %}
                             </td>
                         </tr>
                         <tr>
