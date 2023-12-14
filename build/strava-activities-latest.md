@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>14-12-23</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/10378934674" title="Kcal: 1056 | Gear: None ">Shorelines and Summits in ...</a>
+            </td>
+            <td align="center">50 <sup><sub>km</sub></sup></td>
+            <td align="center">793 <sup><sub>m</sub></sup></td>
+            <td align="center">1:39:50</td>
+            <td align="center">184 <sup><sub>w</sub></sup></td>
+            <td align="center">30.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">153</td>
+        </tr>
+            <tr>
+            <td>13-12-23</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/10376290705" title="Kcal: 211 | Gear: None ">⚽️ Tita-🧙‍♂️ ⚽️</a>
+            </td>
+            <td align="center">8 <sup><sub>km</sub></sup></td>
+            <td align="center">21 <sup><sub>m</sub></sup></td>
+            <td align="center">25:25</td>
+            <td align="center">62 <sup><sub>w</sub></sup></td>
+            <td align="center">19.6 <sup><sub>km/h</sub></sup></td>
+            <td align="center">116</td>
+        </tr>
+            <tr>
             <td>13-12-23</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
@@ -47,32 +73,6 @@
             <td align="center">147 <sup><sub>w</sub></sup></td>
             <td align="center">34.3 <sup><sub>km/h</sub></sup></td>
             <td align="center">137</td>
-        </tr>
-            <tr>
-            <td>11-12-23</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10363267589" title="Kcal: 84 | Gear: None ">Lunch Ride 👨🏻‍⚕️</a>
-            </td>
-            <td align="center">5 <sup><sub>km</sub></sup></td>
-            <td align="center">22 <sup><sub>m</sub></sup></td>
-            <td align="center">16:00</td>
-            <td align="center">79 <sup><sub>w</sub></sup></td>
-            <td align="center">20.2 <sup><sub>km/h</sub></sup></td>
-            <td align="center">113</td>
-        </tr>
-            <tr>
-            <td>10-12-23</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10358363860" title="Kcal: 914 | Gear: None ">Aerobic Builds in Watopia</a>
-            </td>
-            <td align="center">53 <sup><sub>km</sub></sup></td>
-            <td align="center">234 <sup><sub>m</sub></sup></td>
-            <td align="center">1:30:34</td>
-            <td align="center">176 <sup><sub>w</sub></sup></td>
-            <td align="center">34.8 <sup><sub>km/h</sub></sup></td>
-            <td align="center">161</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
