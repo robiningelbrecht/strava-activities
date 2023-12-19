@@ -6,6 +6,7 @@ git clone https://github.com/robiningelbrecht/strava-activities-template.git --d
 
 # Copy all files from template to this repo.
 mv -f strava-activities-template/bin/console bin/console
+mv -f strava-activities-template/bin/doctrine-migrations bin/doctrine-migrations
 rm -Rf config/* && mv -f strava-activities-template/config/* config/
 rm -Rf migrations/* && mv -f strava-activities-template/migrations/* migrations/
 rm -Rf public/* && mv -f strava-activities-template/public/* public/
