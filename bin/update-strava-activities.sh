@@ -52,7 +52,6 @@ git diff --staged --quiet || git commit -m"Updated template to latest version"
 composer install --prefer-dist
 
 # Run migrations.
-rm -Rf database/db.strava-read
 bin/doctrine-migrations migrate --no-interaction
 
 # Exit when only template update.
