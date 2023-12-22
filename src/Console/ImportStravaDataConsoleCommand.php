@@ -30,6 +30,8 @@ final class ImportStravaDataConsoleCommand extends Command
         $this->reachedStravaApiRateLimits->clear();
         $this->commandBus->dispatch(new CopyDataToReadDatabase($output));
         $this->commandBus->dispatch(new ImportActivities($output));
+        // Might have imported new activities, copy them to read db.
+        $this->commandBus->dispatch(new CopyDataToReadDatabase($output));
         $this->commandBus->dispatch(new ImportActivityStreams($output));
         $this->commandBus->dispatch(new ImportSegments($output));
         $this->commandBus->dispatch(new ImportGear($output));
