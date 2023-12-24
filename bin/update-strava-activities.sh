@@ -2,7 +2,7 @@
 set -e
 
 # Clone template
-git clone https://github.com/robiningelbrecht/strava-activities-template.git --depth 1 -b prefix-identifiers
+git clone https://github.com/robiningelbrecht/strava-activities-template.git --depth 1
 
 # Copy all files from template to this repo.
 mv -f strava-activities-template/.gitignore .gitignore
@@ -54,9 +54,9 @@ if [ "$1" == "--template-only" ]; then
   exit 0;
 fi
 
-#git add .
-#git status
-#git diff --staged --quiet || git commit -m"Updated template to latest version"
+git add .
+git status
+git diff --staged --quiet || git commit -m"Updated template to latest version"
 
 composer install --prefer-dist
 
@@ -76,7 +76,7 @@ npm ci
 node echart.js
 
 # Push changes
-#git add .
-#git status
-#git diff --staged --quiet || git commit -m"Updated strava activities"
-#git push
+git add .
+git status
+git diff --staged --quiet || git commit -m"Updated strava activities"
+git push
