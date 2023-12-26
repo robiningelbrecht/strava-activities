@@ -28,8 +28,8 @@ jobs:
 
       - name: Initialize GIT
         run: |
-          git config --global user.name 'robiningelbrecht'
-          git config --global user.email 'robiningelbrecht@users.noreply.github.com'
+          git config --global user.name 'YOUR_GITHUB_USERNAME'
+          git config --global user.email 'YOUR_GITHUB_USERNAME@users.noreply.github.com'
 
       - name: Install .env file
         run: |
@@ -45,21 +45,11 @@ jobs:
           echo STRAVA_REFRESH_TOKEN=${{ secrets.STRAVA_REFRESH_TOKEN }} >> .env
           echo REPOSITORY_NAME=$GITHUB_REPOSITORY >> .env
 
-      - name: Update FTP
+      - name: Install new build file
         run: |
-          # Make sure database and migration directories exist
-          mkdir -p database
-          mkdir -p migrations
-          # Run migrations.
-          ./vendor/bin/doctrine-migrations migrate --no-interaction 
-          
-          bin/console app:strava:update-ftp ${{ github.event.inputs.set-on-date }} ${{ github.event.inputs.ftp }}
+          curl -s https://raw.githubusercontent.com/robiningelbrecht/strava-activities-template/master/bin/update-ftp.sh -o bin/update-ftp.sh
+          chmod +x bin/update-ftp.sh
 
-      - name: Commit and push changes
-        run: |
-          # Push changes
-          git add .
-          git status
-          git diff --staged --quiet || git commit -m"Updated FTP"
-          git push
+      - name: Update FTP
+        run: bin/update-ftp.sh ${{ github.event.inputs.set-on-date }} ${{ github.event.inputs.ftp }}
 
