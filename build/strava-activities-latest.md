@@ -12,8 +12,8 @@
             <tr>
             <td>28-12-23</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10449765035" title="Kcal: 368 | Gear: None ">Morning Ride 🦖🦕</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Morning Ride 🦖🦕" title="Morning Ride 🦖🦕"/>
+<a href="https://www.strava.com/activities/10449765035" title="Kcal: 368 | Gear: None ">Morning Ride 🦖🦕</a>
             </td>
             <td align="center">14 <sup><sub>km</sub></sup></td>
             <td align="center">21 <sup><sub>m</sub></sup></td>
@@ -25,8 +25,8 @@
             <tr>
             <td>27-12-23</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10447739336" title="Kcal: 113 | Gear: None ">Evening Ride</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Evening Ride" title="Evening Ride"/>
+<a href="https://www.strava.com/activities/10447739336" title="Kcal: 113 | Gear: None ">Evening Ride</a>
             </td>
             <td align="center">5 <sup><sub>km</sub></sup></td>
             <td align="center">5 <sup><sub>m</sub></sup></td>
@@ -38,8 +38,8 @@
             <tr>
             <td>27-12-23</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10445803367" title="Kcal: 1155 | Gear: None ">Petit Boucle in France</a>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Petit Boucle in France" title="Petit Boucle in France"/>
+<a href="https://www.strava.com/activities/10445803367" title="Kcal: 1155 | Gear: None ">Petit Boucle in France</a>
             </td>
             <td align="center">62 <sup><sub>km</sub></sup></td>
             <td align="center">483 <sup><sub>m</sub></sup></td>
@@ -51,8 +51,8 @@
             <tr>
             <td>26-12-23</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10439112786" title="Kcal: 1507 | Gear: None ">Tempus Fugit in Watopia</a>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Tempus Fugit in Watopia" title="Tempus Fugit in Watopia"/>
+<a href="https://www.strava.com/activities/10439112786" title="Kcal: 1507 | Gear: None ">Tempus Fugit in Watopia</a>
             </td>
             <td align="center">105 <sup><sub>km</sub></sup></td>
             <td align="center">160 <sup><sub>m</sub></sup></td>
@@ -64,8 +64,8 @@
             <tr>
             <td>25-12-23</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10433985792" title="Kcal: 1039 | Gear: None ">Bigger Loop in Watopia</a>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Bigger Loop in Watopia" title="Bigger Loop in Watopia"/>
+<a href="https://www.strava.com/activities/10433985792" title="Kcal: 1039 | Gear: None ">Bigger Loop in Watopia</a>
             </td>
             <td align="center">54 <sup><sub>km</sub></sup></td>
             <td align="center">695 <sup><sub>m</sub></sup></td>

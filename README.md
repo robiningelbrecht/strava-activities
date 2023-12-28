@@ -53,8 +53,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
             <tr>
             <td>28-12-23</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10449765035" title="Kcal: 368 | Gear: City bike ">Morning Ride 🦖🦕</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Morning Ride 🦖🦕" title="Morning Ride 🦖🦕"/>
+<a href="https://www.strava.com/activities/10449765035" title="Kcal: 368 | Gear: City bike ">Morning Ride 🦖🦕</a>
             </td>
             <td align="center">14 <sup><sub>km</sub></sup></td>
             <td align="center">21 <sup><sub>m</sub></sup></td>
@@ -66,8 +66,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
             <tr>
             <td>27-12-23</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10447739336" title="Kcal: 113 | Gear: City bike ">Evening Ride</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Evening Ride" title="Evening Ride"/>
+<a href="https://www.strava.com/activities/10447739336" title="Kcal: 113 | Gear: City bike ">Evening Ride</a>
             </td>
             <td align="center">5 <sup><sub>km</sub></sup></td>
             <td align="center">5 <sup><sub>m</sub></sup></td>
@@ -79,8 +79,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
             <tr>
             <td>27-12-23</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10445803367" title="Kcal: 1155 | Gear: Zwift Hub ">Petit Boucle in France</a>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Petit Boucle in France" title="Petit Boucle in France"/>
+<a href="https://www.strava.com/activities/10445803367" title="Kcal: 1155 | Gear: Zwift Hub ">Petit Boucle in France</a>
             </td>
             <td align="center">62 <sup><sub>km</sub></sup></td>
             <td align="center">483 <sup><sub>m</sub></sup></td>
@@ -92,8 +92,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
             <tr>
             <td>26-12-23</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10439112786" title="Kcal: 1507 | Gear: Zwift Hub ">Tempus Fugit in Watopia</a>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Tempus Fugit in Watopia" title="Tempus Fugit in Watopia"/>
+<a href="https://www.strava.com/activities/10439112786" title="Kcal: 1507 | Gear: Zwift Hub ">Tempus Fugit in Watopia</a>
             </td>
             <td align="center">105 <sup><sub>km</sub></sup></td>
             <td align="center">160 <sup><sub>m</sub></sup></td>
@@ -105,8 +105,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
             <tr>
             <td>25-12-23</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10433985792" title="Kcal: 1039 | Gear: Zwift Hub ">Bigger Loop in Watopia</a>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Bigger Loop in Watopia" title="Bigger Loop in Watopia"/>
+<a href="https://www.strava.com/activities/10433985792" title="Kcal: 1039 | Gear: Zwift Hub ">Bigger Loop in Watopia</a>
             </td>
             <td align="center">54 <sup><sub>km</sub></sup></td>
             <td align="center">695 <sup><sub>m</sub></sup></td>
@@ -132,8 +132,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>24-12-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10430193057" title="Kcal: 1238 | Gear: Zwift Hub ">Big Foot Hills in Watopia</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Big Foot Hills in Watopia" title="Big Foot Hills in Watopia"/>
+<a href="https://www.strava.com/activities/10430193057" title="Kcal: 1238 | Gear: Zwift Hub ">Big Foot Hills in Watopia</a>
                 </td>
                 <td align="center">70 <sup><sub>km</sub></sup></td>
                 <td align="center">714 <sup><sub>m</sub></sup></td>
@@ -145,8 +145,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>22-12-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10421886170" title="Kcal: 129 | Gear: City bike ">⚽️ Tita-🧙‍♂️ ⚽️</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⚽️ Tita-🧙‍♂️ ⚽️" title="⚽️ Tita-🧙‍♂️ ⚽️"/>
+<a href="https://www.strava.com/activities/10421886170" title="Kcal: 129 | Gear: City bike ">⚽️ Tita-🧙‍♂️ ⚽️...</a>
                 </td>
                 <td align="center">6 <sup><sub>km</sub></sup></td>
                 <td align="center">6 <sup><sub>m</sub></sup></td>
@@ -158,8 +158,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>22-12-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10419318583" title="Kcal: 312 | Gear: Zwift Hub ">Recovery in Watopia</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Recovery in Watopia" title="Recovery in Watopia"/>
+<a href="https://www.strava.com/activities/10419318583" title="Kcal: 312 | Gear: Zwift Hub ">Recovery in Watopia</a>
                 </td>
                 <td align="center">24 <sup><sub>km</sub></sup></td>
                 <td align="center">38 <sup><sub>m</sub></sup></td>
@@ -171,8 +171,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>21-12-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10414507290" title="Kcal: 3340 | Gear: Zwift Hub ">The PRL Full in London</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="The PRL Full in London" title="The PRL Full in London"/>
+<a href="https://www.strava.com/activities/10414507290" title="Kcal: 3340 | Gear: Zwift Hub ">The PRL Full in London</a>
                 </td>
                 <td align="center">174 <sup><sub>km</sub></sup></td>
                 <td align="center">2 622 <sup><sub>m</sub></sup></td>
@@ -184,8 +184,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>20-12-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10411728183" title="Kcal: 419 | Gear: City bike ">⚽️ 🟢⚫️ ⚽️</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⚽️ 🟢⚫️ ⚽️" title="⚽️ 🟢⚫️ ⚽️"/>
+<a href="https://www.strava.com/activities/10411728183" title="Kcal: 419 | Gear: City bike ">⚽️ 🟢⚫️ ⚽️</a>
                 </td>
                 <td align="center">13 <sup><sub>km</sub></sup></td>
                 <td align="center">25 <sup><sub>m</sub></sup></td>
@@ -197,8 +197,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>19-12-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10404386502" title="Kcal: 793 | Gear: Zwift Hub ">Zone 2 in Watopia</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
+<a href="https://www.strava.com/activities/10404386502" title="Kcal: 793 | Gear: Zwift Hub ">Zone 2 in Watopia</a>
                 </td>
                 <td align="center">55 <sup><sub>km</sub></sup></td>
                 <td align="center">85 <sup><sub>m</sub></sup></td>
@@ -210,8 +210,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>18-12-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10399341605" title="Kcal: 768 | Gear: Zwift Hub ">Zone 2 in Watopia</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
+<a href="https://www.strava.com/activities/10399341605" title="Kcal: 768 | Gear: Zwift Hub ">Zone 2 in Watopia</a>
                 </td>
                 <td align="center">51 <sup><sub>km</sub></sup></td>
                 <td align="center">79 <sup><sub>m</sub></sup></td>
@@ -223,8 +223,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>15-12-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10383365502" title="Kcal: 1571 | Gear: Zwift Hub ">The Pretzel in Watopia</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="The Pretzel in Watopia" title="The Pretzel in Watopia"/>
+<a href="https://www.strava.com/activities/10383365502" title="Kcal: 1571 | Gear: Zwift Hub ">The Pretzel in Watopia</a>
                 </td>
                 <td align="center">73 <sup><sub>km</sub></sup></td>
                 <td align="center">1 364 <sup><sub>m</sub></sup></td>
@@ -236,8 +236,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>14-12-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10378934674" title="Kcal: 1056 | Gear: Zwift Hub ">Shorelines and Summits in ...</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Shorelines and Summits in Watopia" title="Shorelines and Summits in Watopia"/>
+<a href="https://www.strava.com/activities/10378934674" title="Kcal: 1056 | Gear: Zwift Hub ">Shorelines and Summits in ...</a>
                 </td>
                 <td align="center">50 <sup><sub>km</sub></sup></td>
                 <td align="center">793 <sup><sub>m</sub></sup></td>
@@ -249,8 +249,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>13-12-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10376290705" title="Kcal: 211 | Gear: City bike ">⚽️ Tita-🧙‍♂️ ⚽️</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⚽️ Tita-🧙‍♂️ ⚽️" title="⚽️ Tita-🧙‍♂️ ⚽️"/>
+<a href="https://www.strava.com/activities/10376290705" title="Kcal: 211 | Gear: City bike ">⚽️ Tita-🧙‍♂️ ⚽️...</a>
                 </td>
                 <td align="center">8 <sup><sub>km</sub></sup></td>
                 <td align="center">21 <sup><sub>m</sub></sup></td>
@@ -262,8 +262,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>13-12-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10374722819" title="Kcal: 1048 | Gear: Zwift Hub ">Explosive SST #2 in Watopia</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Explosive SST #2 in Watopia" title="Explosive SST #2 in Watopia"/>
+<a href="https://www.strava.com/activities/10374722819" title="Kcal: 1048 | Gear: Zwift Hub ">Explosive SST #2 in Watopia</a>
                 </td>
                 <td align="center">58 <sup><sub>km</sub></sup></td>
                 <td align="center">290 <sup><sub>m</sub></sup></td>
@@ -275,8 +275,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>12-12-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10372470164" title="Kcal: 118 | Gear: City bike ">Evening Ride 📽️</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Evening Ride 📽️" title="Evening Ride 📽️"/>
+<a href="https://www.strava.com/activities/10372470164" title="Kcal: 118 | Gear: City bike ">Evening Ride 📽️</a>
                 </td>
                 <td align="center">8 <sup><sub>km</sub></sup></td>
                 <td align="center">17 <sup><sub>m</sub></sup></td>
@@ -288,8 +288,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>11-12-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10364124111" title="Kcal: 769 | Gear: Zwift Hub ">Zone 2 in Watopia</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
+<a href="https://www.strava.com/activities/10364124111" title="Kcal: 769 | Gear: Zwift Hub ">Zone 2 in Watopia</a>
                 </td>
                 <td align="center">52 <sup><sub>km</sub></sup></td>
                 <td align="center">80 <sup><sub>m</sub></sup></td>
@@ -301,8 +301,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>11-12-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10363267589" title="Kcal: 84 | Gear: City bike ">Lunch Ride 👨🏻‍⚕️</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Lunch Ride 👨🏻‍⚕️" title="Lunch Ride 👨🏻‍⚕️"/>
+<a href="https://www.strava.com/activities/10363267589" title="Kcal: 84 | Gear: City bike ">Lunch Ride 👨🏻‍⚕️</a>
                 </td>
                 <td align="center">5 <sup><sub>km</sub></sup></td>
                 <td align="center">22 <sup><sub>m</sub></sup></td>
@@ -314,8 +314,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>10-12-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10358363860" title="Kcal: 914 | Gear: Zwift Hub ">Aerobic Builds in Watopia</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Aerobic Builds in Watopia" title="Aerobic Builds in Watopia"/>
+<a href="https://www.strava.com/activities/10358363860" title="Kcal: 914 | Gear: Zwift Hub ">Aerobic Builds in Watopia</a>
                 </td>
                 <td align="center">53 <sup><sub>km</sub></sup></td>
                 <td align="center">234 <sup><sub>m</sub></sup></td>
@@ -327,8 +327,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>09-12-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10354269405" title="Kcal: 175 | Gear: City bike ">⚽️ 🟢⚫️ ⚽️</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⚽️ 🟢⚫️ ⚽️" title="⚽️ 🟢⚫️ ⚽️"/>
+<a href="https://www.strava.com/activities/10354269405" title="Kcal: 175 | Gear: City bike ">⚽️ 🟢⚫️ ⚽️</a>
                 </td>
                 <td align="center">13 <sup><sub>km</sub></sup></td>
                 <td align="center">22 <sup><sub>m</sub></sup></td>
@@ -340,8 +340,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>08-12-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10349972882" title="Kcal: 121 | Gear: City bike ">⚽️ Tita-🧙‍♂️ ⚽️</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⚽️ Tita-🧙‍♂️ ⚽️" title="⚽️ Tita-🧙‍♂️ ⚽️"/>
+<a href="https://www.strava.com/activities/10349972882" title="Kcal: 121 | Gear: City bike ">⚽️ Tita-🧙‍♂️ ⚽️...</a>
                 </td>
                 <td align="center">9 <sup><sub>km</sub></sup></td>
                 <td align="center">22 <sup><sub>m</sub></sup></td>
@@ -353,8 +353,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>08-12-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10348726353" title="Kcal: 408 | Gear: Zwift Hub ">Workout in Watopia</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Workout in Watopia" title="Workout in Watopia"/>
+<a href="https://www.strava.com/activities/10348726353" title="Kcal: 408 | Gear: Zwift Hub ">Workout in Watopia</a>
                 </td>
                 <td align="center">24 <sup><sub>km</sub></sup></td>
                 <td align="center">93 <sup><sub>m</sub></sup></td>
@@ -366,8 +366,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>08-12-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10348522816" title="Kcal: 649 | Gear: Zwift Hub ">Purple Unicorn in Watopia</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Purple Unicorn in Watopia" title="Purple Unicorn in Watopia"/>
+<a href="https://www.strava.com/activities/10348522816" title="Kcal: 649 | Gear: Zwift Hub ">Purple Unicorn in Watopia</a>
                 </td>
                 <td align="center">37 <sup><sub>km</sub></sup></td>
                 <td align="center">57 <sup><sub>m</sub></sup></td>
@@ -379,8 +379,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>07-12-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10343720768" title="Kcal: 632 | Gear: Zwift Hub ">Zone 2 in Watopia</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
+<a href="https://www.strava.com/activities/10343720768" title="Kcal: 632 | Gear: Zwift Hub ">Zone 2 in Watopia</a>
                 </td>
                 <td align="center">42 <sup><sub>km</sub></sup></td>
                 <td align="center">65 <sup><sub>m</sub></sup></td>
@@ -392,8 +392,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>06-12-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10338437564" title="Kcal: 633 | Gear: Zwift Hub ">8/6/4min Threshold in Watopia</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="8/6/4min Threshold in Watopia" title="8/6/4min Threshold in Watopia"/>
+<a href="https://www.strava.com/activities/10338437564" title="Kcal: 633 | Gear: Zwift Hub ">8/6/4min Threshold in Watopia</a>
                 </td>
                 <td align="center">37 <sup><sub>km</sub></sup></td>
                 <td align="center">57 <sup><sub>m</sub></sup></td>
@@ -405,8 +405,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>05-12-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10333025651" title="Kcal: 767 | Gear: Zwift Hub ">Zone 2 in Watopia</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
+<a href="https://www.strava.com/activities/10333025651" title="Kcal: 767 | Gear: Zwift Hub ">Zone 2 in Watopia</a>
                 </td>
                 <td align="center">52 <sup><sub>km</sub></sup></td>
                 <td align="center">81 <sup><sub>m</sub></sup></td>
@@ -418,8 +418,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>02-12-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10320638309" title="Kcal: 315 | Gear: City bike ">Dinner 🍽️ 🍕</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Dinner 🍽️ 🍕" title="Dinner 🍽️ 🍕"/>
+<a href="https://www.strava.com/activities/10320638309" title="Kcal: 315 | Gear: City bike ">Dinner 🍽️ 🍕</a>
                 </td>
                 <td align="center">12 <sup><sub>km</sub></sup></td>
                 <td align="center">31 <sup><sub>m</sub></sup></td>
@@ -431,8 +431,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>02-12-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10316770449" title="Kcal: 761 | Gear: Zwift Hub ">Zone 2 in Watopia</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
+<a href="https://www.strava.com/activities/10316770449" title="Kcal: 761 | Gear: Zwift Hub ">Zone 2 in Watopia</a>
                 </td>
                 <td align="center">52 <sup><sub>km</sub></sup></td>
                 <td align="center">79 <sup><sub>m</sub></sup></td>
@@ -444,8 +444,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>02-12-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10315481314" title="Kcal: 161 | Gear: City bike ">Lunch Ride ❄️</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Lunch Ride ❄️" title="Lunch Ride ❄️"/>
+<a href="https://www.strava.com/activities/10315481314" title="Kcal: 161 | Gear: City bike ">Lunch Ride ❄️</a>
                 </td>
                 <td align="center">7 <sup><sub>km</sub></sup></td>
                 <td align="center">4 <sup><sub>m</sub></sup></td>
@@ -457,8 +457,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>01-12-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10311834483" title="Kcal: 185 | Gear: Zwift Hub ">Cooldown in Watopia</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Cooldown in Watopia" title="Cooldown in Watopia"/>
+<a href="https://www.strava.com/activities/10311834483" title="Kcal: 185 | Gear: Zwift Hub ">Cooldown in Watopia</a>
                 </td>
                 <td align="center">13 <sup><sub>km</sub></sup></td>
                 <td align="center">52 <sup><sub>m</sub></sup></td>
@@ -470,8 +470,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>01-12-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10311723468" title="Kcal: 679 | Gear: Zwift Hub ">Race: Race #2 | Cobbled Cl...</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Race: Race #2 | Cobbled Climbs | ZA 2023 (B) on Cobbled Climbs in Richmond" title="Race: Race #2 | Cobbled Climbs | ZA 2023 (B) on Cobbled Climbs in Richmond"/>
+<a href="https://www.strava.com/activities/10311723468" title="Kcal: 679 | Gear: Zwift Hub ">Race: Race #2 | Cobbled Cl...</a>
                 </td>
                 <td align="center">28 <sup><sub>km</sub></sup></td>
                 <td align="center">404 <sup><sub>m</sub></sup></td>
@@ -483,8 +483,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>01-12-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10311499785" title="Kcal: 147 | Gear: Zwift Hub ">WarmUp on Cobbled Climbs i...</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="WarmUp on Cobbled Climbs in Watopia" title="WarmUp on Cobbled Climbs in Watopia"/>
+<a href="https://www.strava.com/activities/10311499785" title="Kcal: 147 | Gear: Zwift Hub ">WarmUp on Cobbled Climbs i...</a>
                 </td>
                 <td align="center">9 <sup><sub>km</sub></sup></td>
                 <td align="center">45 <sup><sub>m</sub></sup></td>
@@ -496,8 +496,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>30-11-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10306962649" title="Kcal: 761 | Gear: Zwift Hub ">Zone 2 in Watopia</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
+<a href="https://www.strava.com/activities/10306962649" title="Kcal: 761 | Gear: Zwift Hub ">Zone 2 in Watopia</a>
                 </td>
                 <td align="center">52 <sup><sub>km</sub></sup></td>
                 <td align="center">79 <sup><sub>m</sub></sup></td>
@@ -509,8 +509,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>29-11-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10302017000" title="Kcal: 917 | Gear: Zwift Hub ">Zwift Academy: Workout 6 |...</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zwift Academy: Workout 6 | All Out Burn in Watopia" title="Zwift Academy: Workout 6 | All Out Burn in Watopia"/>
+<a href="https://www.strava.com/activities/10302017000" title="Kcal: 917 | Gear: Zwift Hub ">Zwift Academy: Workout 6 |...</a>
                 </td>
                 <td align="center">51 <sup><sub>km</sub></sup></td>
                 <td align="center">231 <sup><sub>m</sub></sup></td>
@@ -522,8 +522,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>27-11-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10290828189" title="Kcal: 644 | Gear: Zwift Hub ">Zone 2 in Watopia</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
+<a href="https://www.strava.com/activities/10290828189" title="Kcal: 644 | Gear: Zwift Hub ">Zone 2 in Watopia</a>
                 </td>
                 <td align="center">42 <sup><sub>km</sub></sup></td>
                 <td align="center">177 <sup><sub>m</sub></sup></td>
@@ -535,8 +535,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>27-11-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10291305683" title="Kcal: 466 | Gear: City bike ">Lunch Ride 🚂</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Lunch Ride 🚂" title="Lunch Ride 🚂"/>
+<a href="https://www.strava.com/activities/10291305683" title="Kcal: 466 | Gear: City bike ">Lunch Ride 🚂</a>
                 </td>
                 <td align="center">5 <sup><sub>km</sub></sup></td>
                 <td align="center">19 <sup><sub>m</sub></sup></td>
@@ -548,8 +548,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>26-11-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10285029697" title="Kcal: 775 | Gear: Zwift Hub ">Zone 2 in Watopia</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
+<a href="https://www.strava.com/activities/10285029697" title="Kcal: 775 | Gear: Zwift Hub ">Zone 2 in Watopia</a>
                 </td>
                 <td align="center">50 <sup><sub>km</sub></sup></td>
                 <td align="center">228 <sup><sub>m</sub></sup></td>
@@ -561,8 +561,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>25-11-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10280423956" title="Kcal: 333 | Gear: City bike ">2 - 0 🟢⚫️</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="2 - 0 🟢⚫️" title="2 - 0 🟢⚫️"/>
+<a href="https://www.strava.com/activities/10280423956" title="Kcal: 333 | Gear: City bike ">2 - 0 🟢⚫️</a>
                 </td>
                 <td align="center">13 <sup><sub>km</sub></sup></td>
                 <td align="center">27 <sup><sub>m</sub></sup></td>
@@ -574,8 +574,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>24-11-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10273613941" title="Kcal: 153 | Gear: Zwift Hub ">Cooldown in Watopia</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Cooldown in Watopia" title="Cooldown in Watopia"/>
+<a href="https://www.strava.com/activities/10273613941" title="Kcal: 153 | Gear: Zwift Hub ">Cooldown in Watopia</a>
                 </td>
                 <td align="center">10 <sup><sub>km</sub></sup></td>
                 <td align="center">46 <sup><sub>m</sub></sup></td>
@@ -587,8 +587,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>24-11-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10273526366" title="Kcal: 552 | Gear: Zwift Hub ">Race: Race #1 | Rolling Hi...</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Race: Race #1 | Rolling Highlands | ZA 2023 (B) on Rolling Highlands in Scotland" title="Race: Race #1 | Rolling Highlands | ZA 2023 (B) on Rolling Highlands in Scotland"/>
+<a href="https://www.strava.com/activities/10273526366" title="Kcal: 552 | Gear: Zwift Hub ">Race: Race #1 | Rolling Hi...</a>
                 </td>
                 <td align="center">23 <sup><sub>km</sub></sup></td>
                 <td align="center">183 <sup><sub>m</sub></sup></td>
@@ -600,8 +600,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>24-11-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10273344624" title="Kcal: 156 | Gear: Zwift Hub ">WarmUp in Watopia</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="WarmUp in Watopia" title="WarmUp in Watopia"/>
+<a href="https://www.strava.com/activities/10273344624" title="Kcal: 156 | Gear: Zwift Hub ">WarmUp in Watopia</a>
                 </td>
                 <td align="center">10 <sup><sub>km</sub></sup></td>
                 <td align="center">49 <sup><sub>m</sub></sup></td>
@@ -613,8 +613,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>23-11-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10269273945" title="Kcal: 613 | Gear: Zwift Hub ">Zone 2 in Watopia</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
+<a href="https://www.strava.com/activities/10269273945" title="Kcal: 613 | Gear: Zwift Hub ">Zone 2 in Watopia</a>
                 </td>
                 <td align="center">39 <sup><sub>km</sub></sup></td>
                 <td align="center">163 <sup><sub>m</sub></sup></td>
@@ -626,8 +626,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>22-11-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10277166490" title="Kcal: 205 | Gear: City bike ">Evening Ride</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Evening Ride" title="Evening Ride"/>
+<a href="https://www.strava.com/activities/10277166490" title="Kcal: 205 | Gear: City bike ">Evening Ride</a>
                 </td>
                 <td align="center">7 <sup><sub>km</sub></sup></td>
                 <td align="center">6 <sup><sub>m</sub></sup></td>
@@ -639,8 +639,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>22-11-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10263280711" title="Kcal: 564 | Gear: Zwift Hub ">Zwift Academy: Workout 5 |...</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zwift Academy: Workout 5 | The Steady State in Watopia" title="Zwift Academy: Workout 5 | The Steady State in Watopia"/>
+<a href="https://www.strava.com/activities/10263280711" title="Kcal: 564 | Gear: Zwift Hub ">Zwift Academy: Workout 5 |...</a>
                 </td>
                 <td align="center">30 <sup><sub>km</sub></sup></td>
                 <td align="center">138 <sup><sub>m</sub></sup></td>
@@ -652,8 +652,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>19-11-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10245804263" title="Kcal: 526 | Gear: Zwift Hub ">Zone 2 in Watopia</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
+<a href="https://www.strava.com/activities/10245804263" title="Kcal: 526 | Gear: Zwift Hub ">Zone 2 in Watopia</a>
                 </td>
                 <td align="center">32 <sup><sub>km</sub></sup></td>
                 <td align="center">132 <sup><sub>m</sub></sup></td>
@@ -665,8 +665,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>18-11-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10239085396" title="Kcal: 406 | Gear: Zwift Hub ">Zwift Academy: Workout 4 |...</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zwift Academy: Workout 4 |Fast Twitch HIIT in Yorkshire" title="Zwift Academy: Workout 4 |Fast Twitch HIIT in Yorkshire"/>
+<a href="https://www.strava.com/activities/10239085396" title="Kcal: 406 | Gear: Zwift Hub ">Zwift Academy: Workout 4 |...</a>
                 </td>
                 <td align="center">17 <sup><sub>km</sub></sup></td>
                 <td align="center">342 <sup><sub>m</sub></sup></td>
@@ -678,8 +678,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>17-11-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10234592496" title="Kcal: 459 | Gear: City bike ">Afternoon Ride</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Afternoon Ride" title="Afternoon Ride"/>
+<a href="https://www.strava.com/activities/10234592496" title="Kcal: 459 | Gear: City bike ">Afternoon Ride</a>
                 </td>
                 <td align="center">12 <sup><sub>km</sub></sup></td>
                 <td align="center">30 <sup><sub>m</sub></sup></td>
@@ -691,8 +691,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>15-11-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10224305733" title="Kcal: 538 | Gear: Zwift Hub ">Zone 2 in Scotland</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Scotland" title="Zone 2 in Scotland"/>
+<a href="https://www.strava.com/activities/10224305733" title="Kcal: 538 | Gear: Zwift Hub ">Zone 2 in Scotland</a>
                 </td>
                 <td align="center">32 <sup><sub>km</sub></sup></td>
                 <td align="center">253 <sup><sub>m</sub></sup></td>
@@ -704,8 +704,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>14-11-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10217807507" title="Kcal: 1036 | Gear: Zwift Hub ">Zwift Academy: Workout 3 |...</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zwift Academy: Workout 3 | The Finisher in Makuri Islands" title="Zwift Academy: Workout 3 | The Finisher in Makuri Islands"/>
+<a href="https://www.strava.com/activities/10217807507" title="Kcal: 1036 | Gear: Zwift Hub ">Zwift Academy: Workout 3 |...</a>
                 </td>
                 <td align="center">49 <sup><sub>km</sub></sup></td>
                 <td align="center">463 <sup><sub>m</sub></sup></td>
@@ -717,8 +717,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>11-11-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10200546300" title="Kcal: 743 | Gear: Zwift Hub ">Zone 2 in Watopia</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
+<a href="https://www.strava.com/activities/10200546300" title="Kcal: 743 | Gear: Zwift Hub ">Zone 2 in Watopia</a>
                 </td>
                 <td align="center">48 <sup><sub>km</sub></sup></td>
                 <td align="center">198 <sup><sub>m</sub></sup></td>
@@ -730,8 +730,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>09-11-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10192762891" title="Kcal: 277 | Gear: City bike ">Evening Ride 🍽️</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Evening Ride 🍽️" title="Evening Ride 🍽️"/>
+<a href="https://www.strava.com/activities/10192762891" title="Kcal: 277 | Gear: City bike ">Evening Ride 🍽️</a>
                 </td>
                 <td align="center">7 <sup><sub>km</sub></sup></td>
                 <td align="center">7 <sup><sub>m</sub></sup></td>
@@ -743,8 +743,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>09-11-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10189156919" title="Kcal: 500 | Gear: Zwift Hub ">Zwift Academy: Workout 2 |...</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zwift Academy: Workout 2 | Fatigue Fighter in Makuri Islands" title="Zwift Academy: Workout 2 | Fatigue Fighter in Makuri Islands"/>
+<a href="https://www.strava.com/activities/10189156919" title="Kcal: 500 | Gear: Zwift Hub ">Zwift Academy: Workout 2 |...</a>
                 </td>
                 <td align="center">27 <sup><sub>km</sub></sup></td>
                 <td align="center">125 <sup><sub>m</sub></sup></td>
@@ -756,8 +756,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>09-11-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10187948113" title="Kcal: 306 | Gear: City bike ">🩺 👨🏻‍⚕️</a>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🩺 👨🏻‍⚕️" title="🩺 👨🏻‍⚕️"/>
+<a href="https://www.strava.com/activities/10187948113" title="Kcal: 306 | Gear: City bike ">🩺 👨🏻‍⚕️</a>
                 </td>
                 <td align="center">12 <sup><sub>km</sub></sup></td>
                 <td align="center">30 <sup><sub>m</sub></sup></td>
@@ -769,8 +769,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
                     <tr>
                 <td>08-11-23</td>
                 <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                    <a href="https://www.strava.com/activities/10183550766" title="Kcal: 830 | Gear: Zwift Hub ">Zwift Academy: Workout 1 |...</a>
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zwift Academy: Workout 1 | Explosive 30s in Makuri Islands" title="Zwift Academy: Workout 1 | Explosive 30s in Makuri Islands"/>
+<a href="https://www.strava.com/activities/10183550766" title="Kcal: 830 | Gear: Zwift Hub ">Zwift Academy: Workout 1 |...</a>
                 </td>
                 <td align="center">46 <sup><sub>km</sub></sup></td>
                 <td align="center">208 <sup><sub>m</sub></sup></td>
@@ -1153,7 +1153,7 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
             <td align="center">680 <sup><sub>w</sub></sup></td>
             <td align="center">10 <sup><sub>w/kg</sub></sup></td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/.svg" width="12" alt="virtual ride" title="virtual ride"/>
                 <a href="https://www.strava.com/activities/10183550766">
                     Zwift Academy: Workout 1 | Explosive 30s in Makuri Islands
                 </a>
@@ -1164,7 +1164,7 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
             <td align="center">584 <sup><sub>w</sub></sup></td>
             <td align="center">8.59 <sup><sub>w/kg</sub></sup></td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/.svg" width="12" alt="virtual ride" title="virtual ride"/>
                 <a href="https://www.strava.com/activities/10183550766">
                     Zwift Academy: Workout 1 | Explosive 30s in Makuri Islands
                 </a>
@@ -1175,7 +1175,7 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
             <td align="center">442 <sup><sub>w</sub></sup></td>
             <td align="center">6.41 <sup><sub>w/kg</sub></sup></td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/.svg" width="12" alt="virtual ride" title="virtual ride"/>
                 <a href="https://www.strava.com/activities/9763146204">
                     Race: 3R Volcano Flat Race - 3 Laps (36.6km/22.7mi 138m) (B) on Vol...
                 </a>
@@ -1186,7 +1186,7 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
             <td align="center">354 <sup><sub>w</sub></sup></td>
             <td align="center">5.13 <sup><sub>w/kg</sub></sup></td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/.svg" width="12" alt="virtual ride" title="virtual ride"/>
                 <a href="https://www.strava.com/activities/9796786381">
                     Wild Starts in London
                 </a>
@@ -1197,7 +1197,7 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
             <td align="center">281 <sup><sub>w</sub></sup></td>
             <td align="center">4.07 <sup><sub>w/kg</sub></sup></td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/.svg" width="12" alt="virtual ride" title="virtual ride"/>
                 <a href="https://www.strava.com/activities/9751176666">
                     Race: STAGE 9 TOUR DE HISP (B) on Greatest London Flat in London
                 </a>
@@ -1208,7 +1208,7 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
             <td align="center">273 <sup><sub>w</sub></sup></td>
             <td align="center">4.01 <sup><sub>w/kg</sub></sup></td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/.svg" width="12" alt="virtual ride" title="virtual ride"/>
                 <a href="https://www.strava.com/activities/10108424983">
                     Race: Stage 4: Race Watopia - Volcano Circuit CCW (B) on Volcano Ci...
                 </a>
@@ -1219,7 +1219,7 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
             <td align="center">263 <sup><sub>w</sub></sup></td>
             <td align="center">3.87 <sup><sub>w/kg</sub></sup></td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/.svg" width="12" alt="virtual ride" title="virtual ride"/>
                 <a href="https://www.strava.com/activities/9912127079">
                     Race: Stage 3: Get Rolling - London Classique (B) on Classique in L...
                 </a>
@@ -1230,7 +1230,7 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
             <td align="center">218 <sup><sub>w</sub></sup></td>
             <td align="center">3.16 <sup><sub>w/kg</sub></sup></td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/.svg" width="12" alt="virtual ride" title="virtual ride"/>
                 <a href="https://www.strava.com/activities/9724694247">
                     Race: 3R Innsbruckring Flat Race - 5 Laps (44km/27.3mi 385m) (B) on...
                 </a>
