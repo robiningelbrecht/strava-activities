@@ -1153,10 +1153,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
             <td align="center">680 <sup><sub>w</sub></sup></td>
             <td align="center">10 <sup><sub>w/kg</sub></sup></td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10183550766">
-                    Zwift Academy: Workout 1 | Explosive 30s in Makuri Islands
-                </a>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zwift Academy: Workout 1 | Explosive 30s in Makuri Islands" title="Zwift Academy: Workout 1 | Explosive 30s in Makuri Islands"/>
+<a href="https://www.strava.com/activities/10183550766" title="Kcal: 830 | Gear: None ">Zwift Academy: Workout 1 | Explosive 30s in Makuri Islands</a>
             </td>
         </tr>
                     <tr>
@@ -1164,10 +1162,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
             <td align="center">584 <sup><sub>w</sub></sup></td>
             <td align="center">8.59 <sup><sub>w/kg</sub></sup></td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10183550766">
-                    Zwift Academy: Workout 1 | Explosive 30s in Makuri Islands
-                </a>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zwift Academy: Workout 1 | Explosive 30s in Makuri Islands" title="Zwift Academy: Workout 1 | Explosive 30s in Makuri Islands"/>
+<a href="https://www.strava.com/activities/10183550766" title="Kcal: 830 | Gear: None ">Zwift Academy: Workout 1 | Explosive 30s in Makuri Islands</a>
             </td>
         </tr>
                     <tr>
@@ -1175,10 +1171,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
             <td align="center">442 <sup><sub>w</sub></sup></td>
             <td align="center">6.41 <sup><sub>w/kg</sub></sup></td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/9763146204">
-                    Race: 3R Volcano Flat Race - 3 Laps (36.6km/22.7mi 138m) (B) on Vol...
-                </a>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Race: 3R Volcano Flat Race - 3 Laps (36.6km/22.7mi 138m) (B) on Volcano Flat in Watopia" title="Race: 3R Volcano Flat Race - 3 Laps (36.6km/22.7mi 138m) (B) on Volcano Flat in Watopia"/>
+<a href="https://www.strava.com/activities/9763146204" title="Kcal: 823 | Gear: None ">Race: 3R Volcano Flat Race - 3 Laps (36.6km/22.7mi 138m) (B) on Volcano Flat in Watopia</a>
             </td>
         </tr>
                     <tr>
@@ -1186,10 +1180,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
             <td align="center">354 <sup><sub>w</sub></sup></td>
             <td align="center">5.13 <sup><sub>w/kg</sub></sup></td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/9796786381">
-                    Wild Starts in London
-                </a>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Wild Starts in London" title="Wild Starts in London"/>
+<a href="https://www.strava.com/activities/9796786381" title="Kcal: 579 | Gear: None ">Wild Starts in London</a>
             </td>
         </tr>
                     <tr>
@@ -1197,10 +1189,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
             <td align="center">281 <sup><sub>w</sub></sup></td>
             <td align="center">4.07 <sup><sub>w/kg</sub></sup></td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/9751176666">
-                    Race: STAGE 9 TOUR DE HISP (B) on Greatest London Flat in London
-                </a>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Race: STAGE 9 TOUR DE HISP (B) on Greatest London Flat in London" title="Race: STAGE 9 TOUR DE HISP (B) on Greatest London Flat in London"/>
+<a href="https://www.strava.com/activities/9751176666" title="Kcal: 705 | Gear: None ">Race: STAGE 9 TOUR DE HISP (B) on Greatest London Flat in London</a>
             </td>
         </tr>
                     <tr>
@@ -1208,10 +1198,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
             <td align="center">273 <sup><sub>w</sub></sup></td>
             <td align="center">4.01 <sup><sub>w/kg</sub></sup></td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10108424983">
-                    Race: Stage 4: Race Watopia - Volcano Circuit CCW (B) on Volcano Ci...
-                </a>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Race: Stage 4: Race Watopia - Volcano Circuit CCW (B) on Volcano Circuit CCW in Watopia" title="Race: Stage 4: Race Watopia - Volcano Circuit CCW (B) on Volcano Circuit CCW in Watopia"/>
+<a href="https://www.strava.com/activities/10108424983" title="Kcal: 537 | Gear: None ">Race: Stage 4: Race Watopia - Volcano Circuit CCW (B) on Volcano Circuit CCW in Watopia</a>
             </td>
         </tr>
                     <tr>
@@ -1219,10 +1207,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
             <td align="center">263 <sup><sub>w</sub></sup></td>
             <td align="center">3.87 <sup><sub>w/kg</sub></sup></td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/9912127079">
-                    Race: Stage 3: Get Rolling - London Classique (B) on Classique in L...
-                </a>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Race: Stage 3: Get Rolling - London Classique (B) on Classique in London" title="Race: Stage 3: Get Rolling - London Classique (B) on Classique in London"/>
+<a href="https://www.strava.com/activities/9912127079" title="Kcal: 489 | Gear: None ">Race: Stage 3: Get Rolling - London Classique (B) on Classique in London</a>
             </td>
         </tr>
                     <tr>
@@ -1230,10 +1216,8 @@ I burned `165142 calories` doing so, that's about `612` pizza slices 🍕
             <td align="center">218 <sup><sub>w</sub></sup></td>
             <td align="center">3.16 <sup><sub>w/kg</sub></sup></td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/9724694247">
-                    Race: 3R Innsbruckring Flat Race - 5 Laps (44km/27.3mi 385m) (B) on...
-                </a>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Race: 3R Innsbruckring Flat Race - 5 Laps (44km/27.3mi 385m) (B) on Innsbruckring in Innsbruck" title="Race: 3R Innsbruckring Flat Race - 5 Laps (44km/27.3mi 385m) (B) on Innsbruckring in Innsbruck"/>
+<a href="https://www.strava.com/activities/9724694247" title="Kcal: 1007 | Gear: None ">Race: 3R Innsbruckring Flat Race - 5 Laps (44km/27.3mi 385m) (B) on Innsbruckring in Innsbruck</a>
             </td>
         </tr>
     </table>

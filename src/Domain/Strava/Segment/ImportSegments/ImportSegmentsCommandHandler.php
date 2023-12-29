@@ -52,11 +52,11 @@ final readonly class ImportSegmentsCommandHandler implements CommandHandler
                 $segment = Segment::create(
                     segmentId: SegmentId::fromUnprefixed((string) $activitySegment['id']),
                     name: Name::fromString($activitySegment['name']),
-                    data: $activitySegment,
+                    data: array_merge($activitySegment, ['device_name' => $activity->getDeviceName()]),
                 );
 
                 try {
-                    $this->segmentDetailsRepository->find($segment->getId());
+                    $segment = $this->segmentDetailsRepository->find($segment->getId());
                 } catch (EntityNotFound) {
                     $this->segmentRepository->add($segment);
                     $command->getOutput()->writeln(sprintf('  => Added segment "%s"', $segment->getName()));
