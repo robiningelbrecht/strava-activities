@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>30-12-23</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2/4 on Dust In The Wind in Watopia" title="Zone 2/4 on Dust In The Wind in Watopia"/>
+<a href="https://www.strava.com/activities/10462966968" title="Kcal: 1101 | Gear: None ">Zone 2/4 on Dust In The Wi...</a>
+            </td>
+            <td align="center">73 <sup><sub>km</sub></sup></td>
+            <td align="center">111 <sup><sub>m</sub></sup></td>
+            <td align="center">2:01:04</td>
+            <td align="center">159 <sup><sub>w</sub></sup></td>
+            <td align="center">36.3 <sup><sub>km/h</sub></sup></td>
+            <td align="center">141</td>
+        </tr>
+            <tr>
+            <td>29-12-23</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Evening Ride 🎱" title="Evening Ride 🎱"/>
+<a href="https://www.strava.com/activities/10458369139" title="Kcal: 173 | Gear: None ">Evening Ride 🎱</a>
+            </td>
+            <td align="center">7 <sup><sub>km</sub></sup></td>
+            <td align="center">7 <sup><sub>m</sub></sup></td>
+            <td align="center">24:39</td>
+            <td align="center">53 <sup><sub>w</sub></sup></td>
+            <td align="center">17.4 <sup><sub>km/h</sub></sup></td>
+            <td align="center">105</td>
+        </tr>
+            <tr>
             <td>29-12-23</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
@@ -47,32 +73,6 @@
             <td align="center">61 <sup><sub>w</sub></sup></td>
             <td align="center">19.4 <sup><sub>km/h</sub></sup></td>
             <td align="center">113</td>
-        </tr>
-            <tr>
-            <td>27-12-23</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Petit Boucle in France" title="Petit Boucle in France"/>
-<a href="https://www.strava.com/activities/10445803367" title="Kcal: 1155 | Gear: None ">Petit Boucle in France</a>
-            </td>
-            <td align="center">62 <sup><sub>km</sub></sup></td>
-            <td align="center">483 <sup><sub>m</sub></sup></td>
-            <td align="center">1:48:50</td>
-            <td align="center">185 <sup><sub>w</sub></sup></td>
-            <td align="center">34.4 <sup><sub>km/h</sub></sup></td>
-            <td align="center">159</td>
-        </tr>
-            <tr>
-            <td>26-12-23</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Tempus Fugit in Watopia" title="Tempus Fugit in Watopia"/>
-<a href="https://www.strava.com/activities/10439112786" title="Kcal: 1507 | Gear: None ">Tempus Fugit in Watopia</a>
-            </td>
-            <td align="center">105 <sup><sub>km</sub></sup></td>
-            <td align="center">160 <sup><sub>m</sub></sup></td>
-            <td align="center">3:00:56</td>
-            <td align="center">145 <sup><sub>w</sub></sup></td>
-            <td align="center">34.9 <sup><sub>km/h</sub></sup></td>
-            <td align="center">143</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
