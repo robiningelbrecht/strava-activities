@@ -3,7 +3,7 @@
          alt="Strava">
 </p>
 
-Since I began cycling `10 months and 6 days` ago on `27-03-2023`,
+Since I began cycling `10 months and 1 week` ago on `27-03-2023`,
 I had `217 cycling days`.<br />
 I recorded a total distance of `8 398 km`
 (`0.21` trips around the world 🌍 and
@@ -29,6 +29,7 @@ I burned `171398 calories` doing so, that's about `635` pizza slices 🍕
 <kbd><a href="#stats-per-bike">Stats per bike</a></kbd> |
 <kbd><a href="#best-power-outputs-over-time">Power outputs</a></kbd> |
 <kbd><a href="#eddington-chart">Eddington</a></kbd> |
+<kbd><a href="#yearly-hours-of-riding">Yearly hours of riding</a></kbd> |
 <kbd><a href="#distance-breakdown">Distance breakdown</a></kbd> |
 <kbd><a href="#challenge-consistency">Challenge consistency</a></kbd> |
 <kbd><a href="#completed-challenges">Completed challenges</a></kbd>
@@ -1269,6 +1270,10 @@ I burned `171398 calories` doing so, that's about `635` pizza slices 🍕
             <td align="center">40</td>
         </tr>
 </table>
+
+## Yearly hours of riding
+
+<img src="build/charts/chart-yearly-riding-stats.svg" alt="Yearly riding stats"/>
 
 ## Distance breakdown
 
