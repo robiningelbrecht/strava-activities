@@ -29,7 +29,7 @@ I burned `173515 calories` doing so, that's about `643` pizza slices 🍕
 <kbd><a href="#stats-per-bike">Stats per bike</a></kbd> |
 <kbd><a href="#best-power-outputs-over-time">Power outputs</a></kbd> |
 <kbd><a href="#eddington-chart">Eddington</a></kbd> |
-<kbd><a href="#yearly-hours-of-riding">Yearly hours of riding</a></kbd> |
+<kbd><a href="#yearly-distances">Yearly distances</a></kbd> |
 <kbd><a href="#distance-breakdown">Distance breakdown</a></kbd> |
 <kbd><a href="#challenge-consistency">Challenge consistency</a></kbd> |
 <kbd><a href="#completed-challenges">Completed challenges</a></kbd>
@@ -1136,7 +1136,7 @@ I burned `173515 calories` doing so, that's about `643` pizza slices 🍕
             <td align="center">17.9 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
-            <td align="center">Other</td>
+            <td align="center">Cyclo Studio Bike</td>
             <td align="center">1</td>
             <td align="center">
                                     24 <sup><sub>km avg</sub></sup> /
@@ -1144,7 +1144,7 @@ I burned `173515 calories` doing so, that's about `643` pizza slices 🍕
                             </td>
             <td align="center">0 <sup><sub>m</sub></sup></td>
             <td align="center">41m</td>
-            <td align="center">35.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">34.6 <sup><sub>km/h</sub></sup></td>
         </tr>
         </tbody>
 </table>
@@ -1271,9 +1271,9 @@ I burned `173515 calories` doing so, that's about `643` pizza slices 🍕
         </tr>
 </table>
 
-## Yearly hours of riding
+## Yearly distances
 
-<img src="build/charts/chart-yearly-riding-stats.svg" alt="Yearly riding stats"/>
+<img src="build/charts/chart-yearly-distance-stats.svg" alt="Yearly distance stats"/>
 
 ## Distance breakdown
 

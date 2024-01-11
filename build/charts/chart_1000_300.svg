@@ -21,7 +21,7 @@
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="6" transform="translate(165.732 279)" fill="#6E7079">Nov 2023</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="6" transform="translate(518.74 279)" fill="#6E7079">Dec 2023</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="6" transform="translate(871.748 279)" fill="#6E7079">Jan 2024</text>
-<g clip-path="url(#zr5-c0)">
+<g clip-path="url(#zr6-c0)">
 <path d="M77.5 172.1L165.7 183.8L254 204.4L342.2 185.2L430.5 143.9L518.7 145.8L607 151L695.2 86.7L783.5 64.7L871.7 195L960 217.5L960 271L871.7 271L783.5 271L695.2 271L607 271L518.7 271L430.5 271L342.2 271L254 271L165.7 271L77.5 271Z" fill="rgb(227,73,2)" fill-opacity="0.09"></path>
 <path d="M77.5 172.1L165.7 183.8L254 204.4L342.2 185.2L430.5 143.9L518.7 145.8L607 151L695.2 86.7L783.5 64.7L871.7 195L960 217.5" fill="none" stroke="#E34902" stroke-linejoin="bevel"></path>
 </g>
@@ -48,7 +48,7 @@
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="-6" transform="matrix(0.707,0.707,-0.707,0.707,871.748,186.04)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">162 km</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="-6" transform="matrix(0.707,0.707,-0.707,0.707,960,208.5467)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">114 km</text>
 <defs >
-<clipPath id="zr5-c0">
+<clipPath id="zr6-c0">
 <path d="M76 59.5l884 0l0 212l-884 0Z" fill="#000"></path>
 </clipPath>
 </defs>
