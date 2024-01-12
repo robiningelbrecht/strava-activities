@@ -1275,6 +1275,37 @@ I burned `173647 calories` doing so, that's about `643` pizza slices 🍕
 
 <img src="build/charts/chart-yearly-distance-stats.svg" alt="Yearly distance stats"/>
 
+<table>
+    <thead>
+    <tr>
+        <th>Year</th>
+        <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/distance.svg" width="30" alt="distance" title="distance"/></th>
+        <th>Δ prev year</th>
+        <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/elevation.svg" width="30" alt="elevation" title="elevation"/></th>
+        <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/time.svg" width="30" alt="time" title="time"/></th>
+    </tr>
+    </thead>
+    <tbody>
+            <tr>
+            <td align="center">2024</td>
+            <td align="center">282 <sup><sub>km</sub></sup></td>
+            <td align="center">
+                                    -7 955 <sup><sub>km</sub></sup>
+                            </td>
+            <td align="center">1 696 <sup><sub>m</sub></sup></td>
+            <td align="center">9h 10m</td>
+        </tr>
+            <tr>
+            <td align="center">2023</td>
+            <td align="center">8 236 <sup><sub>km</sub></sup></td>
+            <td align="center">
+                            </td>
+            <td align="center">64 677 <sup><sub>m</sub></sup></td>
+            <td align="center">1w 5d 6h 8m</td>
+        </tr>
+        </tbody>
+</table>
+
 ## Distance breakdown
 
 <table>
