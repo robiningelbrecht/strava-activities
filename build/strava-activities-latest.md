@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>13-01-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Group Ride: Stage 3 | Ride | Tour de Zwift 2024 (A) on Makuri 40 in Makuri Islands" title="Group Ride: Stage 3 | Ride | Tour de Zwift 2024 (A) on Makuri 40 in Makuri Islands"/>
+<a href="https://www.strava.com/activities/10550169970" title="Kcal: 872 | Gear: None ">Group Ride: Stage 3 | Ride...</a>
+            </td>
+            <td align="center">40 <sup><sub>km</sub></sup></td>
+            <td align="center">319 <sup><sub>m</sub></sup></td>
+            <td align="center">1:00:33</td>
+            <td align="center">236 <sup><sub>w</sub></sup></td>
+            <td align="center">40 <sup><sub>km/h</sub></sup></td>
+            <td align="center">177</td>
+        </tr>
+            <tr>
+            <td>13-01-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="WarmUp in Watopia" title="WarmUp in Watopia"/>
+<a href="https://www.strava.com/activities/10549690988" title="Kcal: 113 | Gear: None ">WarmUp in Watopia</a>
+            </td>
+            <td align="center">8 <sup><sub>km</sub></sup></td>
+            <td align="center">33 <sup><sub>m</sub></sup></td>
+            <td align="center">14:41</td>
+            <td align="center">135 <sup><sub>w</sub></sup></td>
+            <td align="center">31.7 <sup><sub>km/h</sub></sup></td>
+            <td align="center">135</td>
+        </tr>
+            <tr>
             <td>11-01-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="💼" title="💼"/>
@@ -47,32 +73,6 @@
             <td align="center">216 <sup><sub>w</sub></sup></td>
             <td align="center">37.7 <sup><sub>km/h</sub></sup></td>
             <td align="center">177</td>
-        </tr>
-            <tr>
-            <td>09-01-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="WarmUp in Watopia" title="WarmUp in Watopia"/>
-<a href="https://www.strava.com/activities/10525002148" title="Kcal: 116 | Gear: None ">WarmUp in Watopia</a>
-            </td>
-            <td align="center">8 <sup><sub>km</sub></sup></td>
-            <td align="center">40 <sup><sub>m</sub></sup></td>
-            <td align="center">15:26</td>
-            <td align="center">131 <sup><sub>w</sub></sup></td>
-            <td align="center">32.2 <sup><sub>km/h</sub></sup></td>
-            <td align="center">139</td>
-        </tr>
-            <tr>
-            <td>08-01-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⚽️ Tita-🧙‍♂️ ⚽️" title="⚽️ Tita-🧙‍♂️ ⚽️"/>
-<a href="https://www.strava.com/activities/10520503066" title="Kcal: 276 | Gear: None ">⚽️ Tita-🧙‍♂️ ⚽️...</a>
-            </td>
-            <td align="center">10 <sup><sub>km</sub></sup></td>
-            <td align="center">39 <sup><sub>m</sub></sup></td>
-            <td align="center">30:21</td>
-            <td align="center">79 <sup><sub>w</sub></sup></td>
-            <td align="center">20 <sup><sub>km/h</sub></sup></td>
-            <td align="center">127</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
