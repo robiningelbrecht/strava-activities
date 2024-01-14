@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>14-01-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
+<a href="https://www.strava.com/activities/10557050910" title="Kcal: 761 | Gear: None ">Zone 2 in Watopia</a>
+            </td>
+            <td align="center">50 <sup><sub>km</sub></sup></td>
+            <td align="center">201 <sup><sub>m</sub></sup></td>
+            <td align="center">1:30:16</td>
+            <td align="center">147 <sup><sub>w</sub></sup></td>
+            <td align="center">33.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">128</td>
+        </tr>
+            <tr>
             <td>13-01-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Group Ride: Stage 3 | Ride | Tour de Zwift 2024 (A) on Makuri 40 in Makuri Islands" title="Group Ride: Stage 3 | Ride | Tour de Zwift 2024 (A) on Makuri 40 in Makuri Islands"/>
@@ -60,19 +73,6 @@
             <td align="center">147 <sup><sub>w</sub></sup></td>
             <td align="center">34.7 <sup><sub>km/h</sub></sup></td>
             <td align="center">141</td>
-        </tr>
-            <tr>
-            <td>09-01-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Group Ride: Stage 2 | Ride  | Tour de Zwift 2024  (A) on The Muckle Yin in Scotland" title="Group Ride: Stage 2 | Ride  | Tour de Zwift 2024  (A) on The Muckle Yin in Scotland"/>
-<a href="https://www.strava.com/activities/10525477946" title="Kcal: 956 | Gear: None ">Group Ride: Stage 2 | Ride...</a>
-            </td>
-            <td align="center">47 <sup><sub>km</sub></sup></td>
-            <td align="center">564 <sup><sub>m</sub></sup></td>
-            <td align="center">1:15:06</td>
-            <td align="center">216 <sup><sub>w</sub></sup></td>
-            <td align="center">37.7 <sup><sub>km/h</sub></sup></td>
-            <td align="center">177</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
