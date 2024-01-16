@@ -13,6 +13,7 @@
             "bottom": "3%",
             "containLabel": true
         },
+        "legend": null,
         "dataZoom": [],
         "xAxis": [
             {
@@ -55,17 +56,17 @@
                     "formatter": "{value} km"
                 },
                 "max": 450
-            }
+            },
+            []
         ],
         "series": [
             {
-                "name": "Average distance \/ week",
                 "type": "line",
                 "smooth": false,
                 "label": {
                     "show": true,
-                    "formatter": "{@[1]} km",
-                    "rotate": -45
+                    "rotate": -45,
+                    "formatter": "{@[1]} km"
                 },
                 "lineStyle": {
                     "width": 1
@@ -79,6 +80,7 @@
                 "emphasis": {
                     "focus": "series"
                 },
+                "name": "Average distance \/ week",
                 "data": [
                     186,
                     142,
@@ -90,8 +92,9 @@
                     440,
                     162,
                     218,
-                    5
-                ]
+                    80
+                ],
+                "yAxisIndex": 0
             }
         ]
     }
