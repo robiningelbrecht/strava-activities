@@ -1223,10 +1223,10 @@ I burned `180032 calories` doing so, that's about `667` pizza slices 🍕
                             <tr>
             <td align="center">1 h</td>
             <td align="center">218 <sup><sub>w</sub></sup></td>
-            <td align="center">3.21 <sup><sub>w/kg</sub></sup></td>
+            <td align="center">3.16 <sup><sub>w/kg</sub></sup></td>
             <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Group Ride: Stage 2 | Ride  | Tour de Zwift 2024  (A) on The Muckle Yin in Scotland" title="Group Ride: Stage 2 | Ride  | Tour de Zwift 2024  (A) on The Muckle Yin in Scotland"/>
-<a href="https://www.strava.com/activities/10525477946" title="Kcal: 956 | Gear: None ">Group Ride: Stage 2 | Ride  | Tour de Zwift 2024  (A) on The Muckle Yin in Scotland</a>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Race: 3R Innsbruckring Flat Race - 5 Laps (44km/27.3mi 385m) (B) on Innsbruckring in Innsbruck" title="Race: 3R Innsbruckring Flat Race - 5 Laps (44km/27.3mi 385m) (B) on Innsbruckring in Innsbruck"/>
+<a href="https://www.strava.com/activities/9724694247" title="Kcal: 1007 | Gear: None ">Race: 3R Innsbruckring Flat Race - 5 Laps (44km/27.3mi 385m) (B) on Innsbruckring in Innsbruck</a>
             </td>
         </tr>
     </table>
