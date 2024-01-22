@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>22-01-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Race: Stage 4: Flat is Fast - Douce France (B) on Douce France in France" title="Race: Stage 4: Flat is Fast - Douce France (B) on Douce France in France"/>
+<a href="https://www.strava.com/activities/10608389318" title="Kcal: 557 | Gear: None ">Race: Stage 4: Flat is Fas...</a>
+            </td>
+            <td align="center">25 <sup><sub>km</sub></sup></td>
+            <td align="center">133 <sup><sub>m</sub></sup></td>
+            <td align="center">33:39</td>
+            <td align="center">248 <sup><sub>w</sub></sup></td>
+            <td align="center">43.8 <sup><sub>km/h</sub></sup></td>
+            <td align="center">185</td>
+        </tr>
+            <tr>
+            <td>22-01-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="WarmUp in France" title="WarmUp in France"/>
+<a href="https://www.strava.com/activities/10608135224" title="Kcal: 245 | Gear: None ">WarmUp in France</a>
+            </td>
+            <td align="center">16 <sup><sub>km</sub></sup></td>
+            <td align="center">116 <sup><sub>m</sub></sup></td>
+            <td align="center">30:19</td>
+            <td align="center">141 <sup><sub>w</sub></sup></td>
+            <td align="center">31.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">141</td>
+        </tr>
+            <tr>
             <td>21-01-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
@@ -47,32 +73,6 @@
             <td align="center">205 <sup><sub>w</sub></sup></td>
             <td align="center">37.4 <sup><sub>km/h</sub></sup></td>
             <td align="center">172</td>
-        </tr>
-            <tr>
-            <td>18-01-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="💼" title="💼"/>
-<a href="https://www.strava.com/activities/10584002860" title="Kcal: 132 | Gear: None ">💼</a>
-            </td>
-            <td align="center">5 <sup><sub>km</sub></sup></td>
-            <td align="center">23 <sup><sub>m</sub></sup></td>
-            <td align="center">17:59</td>
-            <td align="center">66 <sup><sub>w</sub></sup></td>
-            <td align="center">17.9 <sup><sub>km/h</sub></sup></td>
-            <td align="center">113</td>
-        </tr>
-            <tr>
-            <td>17-01-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
-<a href="https://www.strava.com/activities/10576828976" title="Kcal: 772 | Gear: None ">Zone 2 in Watopia</a>
-            </td>
-            <td align="center">51 <sup><sub>km</sub></sup></td>
-            <td align="center">233 <sup><sub>m</sub></sup></td>
-            <td align="center">1:31:19</td>
-            <td align="center">147 <sup><sub>w</sub></sup></td>
-            <td align="center">33.7 <sup><sub>km/h</sub></sup></td>
-            <td align="center">142</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
