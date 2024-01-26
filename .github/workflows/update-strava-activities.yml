@@ -51,7 +51,7 @@ jobs:
         run: bin/update-strava-activities.sh
 
       - name: ntfy.sh
-        uses: robiningelbrecht/ntfy-action@v1.0.0
+        uses: robiningelbrecht/ntfy-action@v2.0.0
         if: always()
         with:
           url: ${{ secrets.NTFY_URL }}
