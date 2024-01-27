@@ -10,6 +10,45 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>27-01-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Group Ride: Stage 5 | Ride | Tour de Zwift 2024  (A) on Achterbahn in Innsbruck" title="Group Ride: Stage 5 | Ride | Tour de Zwift 2024  (A) on Achterbahn in Innsbruck"/>
+<a href="https://www.strava.com/activities/10639591081" title="Kcal: 1278 | Gear: None ">Group Ride: Stage 5 | Ride...</a>
+            </td>
+            <td align="center">48 <sup><sub>km</sub></sup></td>
+            <td align="center">990 <sup><sub>m</sub></sup></td>
+            <td align="center">1:36:26</td>
+            <td align="center">219 <sup><sub>w</sub></sup></td>
+            <td align="center">29.8 <sup><sub>km/h</sub></sup></td>
+            <td align="center">172</td>
+        </tr>
+            <tr>
+            <td>27-01-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Morning Ride" title="Morning Ride"/>
+<a href="https://www.strava.com/activities/10637756730" title="Kcal: 237 | Gear: None ">Morning Ride</a>
+            </td>
+            <td align="center">7 <sup><sub>km</sub></sup></td>
+            <td align="center">7 <sup><sub>m</sub></sup></td>
+            <td align="center">28:33</td>
+            <td align="center">53 <sup><sub>w</sub></sup></td>
+            <td align="center">15.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">110</td>
+        </tr>
+            <tr>
+            <td>26-01-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⚽️ 🟢⚫️ ⚽️" title="⚽️ 🟢⚫️ ⚽️"/>
+<a href="https://www.strava.com/activities/10635672584" title="Kcal: 405 | Gear: None ">⚽️ 🟢⚫️ ⚽️</a>
+            </td>
+            <td align="center">18 <sup><sub>km</sub></sup></td>
+            <td align="center">37 <sup><sub>m</sub></sup></td>
+            <td align="center">54:08</td>
+            <td align="center">67 <sup><sub>w</sub></sup></td>
+            <td align="center">19.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">117</td>
+        </tr>
+            <tr>
             <td>26-01-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Morning Ride" title="Morning Ride"/>
@@ -34,45 +73,6 @@
             <td align="center">146 <sup><sub>w</sub></sup></td>
             <td align="center">33.1 <sup><sub>km/h</sub></sup></td>
             <td align="center">136</td>
-        </tr>
-            <tr>
-            <td>24-01-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Cooldown in Watopia" title="Cooldown in Watopia"/>
-<a href="https://www.strava.com/activities/10621176711" title="Kcal: 295 | Gear: None ">Cooldown in Watopia</a>
-            </td>
-            <td align="center">19 <sup><sub>km</sub></sup></td>
-            <td align="center">78 <sup><sub>m</sub></sup></td>
-            <td align="center">36:17</td>
-            <td align="center">142 <sup><sub>w</sub></sup></td>
-            <td align="center">31.8 <sup><sub>km/h</sub></sup></td>
-            <td align="center">148</td>
-        </tr>
-            <tr>
-            <td>24-01-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Race: EVO CC Sprint Race Series  (B) on Glasgow Crit Circuit in Scotland" title="Race: EVO CC Sprint Race Series  (B) on Glasgow Crit Circuit in Scotland"/>
-<a href="https://www.strava.com/activities/10620954105" title="Kcal: 385 | Gear: None ">Race: EVO CC Sprint Race S...</a>
-            </td>
-            <td align="center">16 <sup><sub>km</sub></sup></td>
-            <td align="center">166 <sup><sub>m</sub></sup></td>
-            <td align="center">21:48</td>
-            <td align="center">260 <sup><sub>w</sub></sup></td>
-            <td align="center">43 <sup><sub>km/h</sub></sup></td>
-            <td align="center">185</td>
-        </tr>
-            <tr>
-            <td>24-01-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="WarmUp in Watopia" title="WarmUp in Watopia"/>
-<a href="https://www.strava.com/activities/10620790559" title="Kcal: 129 | Gear: None ">WarmUp in Watopia</a>
-            </td>
-            <td align="center">8 <sup><sub>km</sub></sup></td>
-            <td align="center">21 <sup><sub>m</sub></sup></td>
-            <td align="center">14:13</td>
-            <td align="center">159 <sup><sub>w</sub></sup></td>
-            <td align="center">34.5 <sup><sub>km/h</sub></sup></td>
-            <td align="center">149</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
