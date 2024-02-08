@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>08-02-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Group Ride: Stage 8 | Ride | Tour de Zwift 2024  (A) on Spiral into the Volcano in Watopia" title="Group Ride: Stage 8 | Ride | Tour de Zwift 2024  (A) on Spiral into the Volcano in Watopia"/>
+<a href="https://www.strava.com/activities/10722304662" title="Kcal: 1068 | Gear: None ">Group Ride: Stage 8 | Ride...</a>
+            </td>
+            <td align="center">52 <sup><sub>km</sub></sup></td>
+            <td align="center">335 <sup><sub>m</sub></sup></td>
+            <td align="center">1:21:29</td>
+            <td align="center">214 <sup><sub>w</sub></sup></td>
+            <td align="center">38.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">180</td>
+        </tr>
+            <tr>
             <td>06-02-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
@@ -21,6 +34,19 @@
             <td align="center">147 <sup><sub>w</sub></sup></td>
             <td align="center">34.1 <sup><sub>km/h</sub></sup></td>
             <td align="center">134</td>
+        </tr>
+            <tr>
+            <td>06-02-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Afternoon Ride" title="Afternoon Ride"/>
+<a href="https://www.strava.com/activities/10719511167" title="Kcal: 211 | Gear: None ">Afternoon Ride</a>
+            </td>
+            <td align="center">8 <sup><sub>km</sub></sup></td>
+            <td align="center">50 <sup><sub>m</sub></sup></td>
+            <td align="center">25:11</td>
+            <td align="center">83 <sup><sub>w</sub></sup></td>
+            <td align="center">19.4 <sup><sub>km/h</sub></sup></td>
+            <td align="center">120</td>
         </tr>
             <tr>
             <td>04-02-24</td>
@@ -47,32 +73,6 @@
             <td align="center">262 <sup><sub>w</sub></sup></td>
             <td align="center">42.8 <sup><sub>km/h</sub></sup></td>
             <td align="center">180</td>
-        </tr>
-            <tr>
-            <td>04-02-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="WarmUp in London" title="WarmUp in London"/>
-<a href="https://www.strava.com/activities/10695442946" title="Kcal: 202 | Gear: None ">WarmUp in London</a>
-            </td>
-            <td align="center">13 <sup><sub>km</sub></sup></td>
-            <td align="center">57 <sup><sub>m</sub></sup></td>
-            <td align="center">25:15</td>
-            <td align="center">140 <sup><sub>w</sub></sup></td>
-            <td align="center">31.4 <sup><sub>km/h</sub></sup></td>
-            <td align="center">134</td>
-        </tr>
-            <tr>
-            <td>03-02-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
-<a href="https://www.strava.com/activities/10688634345" title="Kcal: 768 | Gear: None ">Zone 2 in Watopia</a>
-            </td>
-            <td align="center">53 <sup><sub>km</sub></sup></td>
-            <td align="center">81 <sup><sub>m</sub></sup></td>
-            <td align="center">1:30:59</td>
-            <td align="center">147 <sup><sub>w</sub></sup></td>
-            <td align="center">35.1 <sup><sub>km/h</sub></sup></td>
-            <td align="center">132</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
