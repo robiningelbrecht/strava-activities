@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>13-02-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Garmin UNBOUND Gravel Training Plan | Dirty Teeth Drills in Watopia" title="Garmin UNBOUND Gravel Training Plan | Dirty Teeth Drills in Watopia"/>
+<a href="https://www.strava.com/activities/10754812734" title="Kcal: 621 | Gear: None ">Garmin UNBOUND Gravel Trai...</a>
+            </td>
+            <td align="center">36 <sup><sub>km</sub></sup></td>
+            <td align="center">200 <sup><sub>m</sub></sup></td>
+            <td align="center">1:00:14</td>
+            <td align="center">180 <sup><sub>w</sub></sup></td>
+            <td align="center">36.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">149</td>
+        </tr>
+            <tr>
             <td>12-02-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Lunch Ride" title="Lunch Ride"/>
@@ -60,19 +73,6 @@
             <td align="center">74 <sup><sub>w</sub></sup></td>
             <td align="center">20.6 <sup><sub>km/h</sub></sup></td>
             <td align="center">120</td>
-        </tr>
-            <tr>
-            <td>08-02-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Group Ride: Stage 8 | Ride | Tour de Zwift 2024  (A) on Spiral into the Volcano in Watopia" title="Group Ride: Stage 8 | Ride | Tour de Zwift 2024  (A) on Spiral into the Volcano in Watopia"/>
-<a href="https://www.strava.com/activities/10722304662" title="Kcal: 1068 | Gear: None ">Group Ride: Stage 8 | Ride...</a>
-            </td>
-            <td align="center">52 <sup><sub>km</sub></sup></td>
-            <td align="center">335 <sup><sub>m</sub></sup></td>
-            <td align="center">1:21:29</td>
-            <td align="center">214 <sup><sub>w</sub></sup></td>
-            <td align="center">38.2 <sup><sub>km/h</sub></sup></td>
-            <td align="center">180</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
