@@ -3,7 +3,7 @@
          alt="Strava">
 </p>
 
-Since I began cycling `1 year and 1 day` ago on `27-03-2023`,
+Since I began cycling `1 year and 2 days` ago on `27-03-2023`,
 I had `259 cycling days`.<br />
 I recorded a total distance of `10 058 km`
 (`0.25` trips around the world 🌍 and
