@@ -1222,7 +1222,7 @@ I burned `205251 calories` doing so, that's about `760` pizza slices 🍕
                             <tr>
             <td align="center">20 m</td>
             <td align="center">267 <sup><sub>w</sub></sup></td>
-            <td align="center">3.93 <sup><sub>w/kg</sub></sup></td>
+            <td align="center">4.14 <sup><sub>w/kg</sub></sup></td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Race: EVO CC Sprint Race Series  (B) on Going Coastal in Watopia" title="Race: EVO CC Sprint Race Series  (B) on Going Coastal in Watopia"/>
 <a href="https://www.strava.com/activities/10861967408" title="Kcal: 448 | Gear: None ">Race: EVO CC Sprint Race Series  (B) on Going Coastal in Watopia</a>
