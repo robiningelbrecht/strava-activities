@@ -3,7 +3,7 @@
          alt="Strava">
 </p>
 
-Since I began cycling `1 year and 3 weeks` ago on `27-03-2023`,
+Since I began cycling `1 year and 1 month` ago on `27-03-2023`,
 I had `283 cycling days`.<br />
 I recorded a total distance of `11 096 km`
 (`0.28` trips around the world 🌍 and
@@ -12,7 +12,7 @@ an elevation of `81 704 m`
 (`9.2` times Mount Everest 🏔)
 and a total time of `2w 2d 4h 6m` 🎉
 
-That's a daily average of `31 km`,
+That's a daily average of `30 km`,
 a weekly average of `213 km` and a
 monthly average of `925 km` 🐣
 
