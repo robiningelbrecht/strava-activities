@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>26-03-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Group Ride:  Standard | Stage 3 | The Zwift Big Spin 2024 on Mighty Metropolitan in New York" title="Group Ride:  Standard | Stage 3 | The Zwift Big Spin 2024 on Mighty Metropolitan in New York"/>
+<a href="https://www.strava.com/activities/11043153303" title="Kcal: 580 | Gear: None ">Group Ride:  Standard | St...</a>
+            </td>
+            <td align="center">20 <sup><sub>km</sub></sup></td>
+            <td align="center">318 <sup><sub>m</sub></sup></td>
+            <td align="center">30:15</td>
+            <td align="center">272 <sup><sub>w</sub></sup></td>
+            <td align="center">39.9 <sup><sub>km/h</sub></sup></td>
+            <td align="center">178</td>
+        </tr>
+            <tr>
+            <td>26-03-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="WarmUp on NYC KOM After Party in Watopia" title="WarmUp on NYC KOM After Party in Watopia"/>
+<a href="https://www.strava.com/activities/11042802687" title="Kcal: 116 | Gear: None ">WarmUp on NYC KOM After Pa...</a>
+            </td>
+            <td align="center">8 <sup><sub>km</sub></sup></td>
+            <td align="center">38 <sup><sub>m</sub></sup></td>
+            <td align="center">15:15</td>
+            <td align="center">133 <sup><sub>w</sub></sup></td>
+            <td align="center">32.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">128</td>
+        </tr>
+            <tr>
             <td>24-03-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Wind mee 💨💨💨💨" title="Wind mee 💨💨💨💨"/>
@@ -47,32 +73,6 @@
             <td align="center">234 <sup><sub>w</sub></sup></td>
             <td align="center">37.4 <sup><sub>km/h</sub></sup></td>
             <td align="center">169</td>
-        </tr>
-            <tr>
-            <td>22-03-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Cooldown in Richmond" title="Cooldown in Richmond"/>
-<a href="https://www.strava.com/activities/11015445737" title="Kcal: 104 | Gear: None ">Cooldown in Richmond</a>
-            </td>
-            <td align="center">7 <sup><sub>km</sub></sup></td>
-            <td align="center">34 <sup><sub>m</sub></sup></td>
-            <td align="center">15:27</td>
-            <td align="center">118 <sup><sub>w</sub></sup></td>
-            <td align="center">28.5 <sup><sub>km/h</sub></sup></td>
-            <td align="center">148</td>
-        </tr>
-            <tr>
-            <td>22-03-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Race: Glasgow Crit Circuit - Sprint Race 3 | Zwift Games (B) on Glasgow Crit Circuit in Scotland" title="Race: Glasgow Crit Circuit - Sprint Race 3 | Zwift Games (B) on Glasgow Crit Circuit in Scotland"/>
-<a href="https://www.strava.com/activities/11015343477" title="Kcal: 396 | Gear: None ">Race: Glasgow Crit Circuit...</a>
-            </td>
-            <td align="center">16 <sup><sub>km</sub></sup></td>
-            <td align="center">166 <sup><sub>m</sub></sup></td>
-            <td align="center">21:43</td>
-            <td align="center">259 <sup><sub>w</sub></sup></td>
-            <td align="center">42.9 <sup><sub>km/h</sub></sup></td>
-            <td align="center">184</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
