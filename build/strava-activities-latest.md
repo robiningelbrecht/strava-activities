@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>30-03-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
+<a href="https://www.strava.com/activities/11070750463" title="Kcal: 653 | Gear: None ">Zone 2 in Watopia</a>
+            </td>
+            <td align="center">42 <sup><sub>km</sub></sup></td>
+            <td align="center">244 <sup><sub>m</sub></sup></td>
+            <td align="center">1:15:16</td>
+            <td align="center">151 <sup><sub>w</sub></sup></td>
+            <td align="center">33.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">131</td>
+        </tr>
+            <tr>
+            <td>29-03-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="💼" title="💼"/>
+<a href="https://www.strava.com/activities/11070846592" title="Kcal: 143 | Gear: None ">💼</a>
+            </td>
+            <td align="center">5 <sup><sub>km</sub></sup></td>
+            <td align="center">14 <sup><sub>m</sub></sup></td>
+            <td align="center">17:40</td>
+            <td align="center">59 <sup><sub>w</sub></sup></td>
+            <td align="center">17.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">116</td>
+        </tr>
+            <tr>
             <td>29-03-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in London" title="Zone 2 in London"/>
@@ -23,6 +49,19 @@
             <td align="center">125</td>
         </tr>
             <tr>
+            <td>28-03-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Night Ride" title="Night Ride"/>
+<a href="https://www.strava.com/activities/11070863536" title="Kcal: 166 | Gear: None ">Night Ride</a>
+            </td>
+            <td align="center">3 <sup><sub>km</sub></sup></td>
+            <td align="center">3 <sup><sub>m</sub></sup></td>
+            <td align="center">11:04</td>
+            <td align="center">52 <sup><sub>w</sub></sup></td>
+            <td align="center">15.9 <sup><sub>km/h</sub></sup></td>
+            <td align="center">108</td>
+        </tr>
+            <tr>
             <td>26-03-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Cooldown in Watopia" title="Cooldown in Watopia"/>
@@ -34,45 +73,6 @@
             <td align="center">145 <sup><sub>w</sub></sup></td>
             <td align="center">32.4 <sup><sub>km/h</sub></sup></td>
             <td align="center">141</td>
-        </tr>
-            <tr>
-            <td>26-03-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Group Ride:  Standard | Stage 3 | The Zwift Big Spin 2024 on Mighty Metropolitan in New York" title="Group Ride:  Standard | Stage 3 | The Zwift Big Spin 2024 on Mighty Metropolitan in New York"/>
-<a href="https://www.strava.com/activities/11043153303" title="Kcal: 580 | Gear: None ">Group Ride:  Standard | St...</a>
-            </td>
-            <td align="center">20 <sup><sub>km</sub></sup></td>
-            <td align="center">318 <sup><sub>m</sub></sup></td>
-            <td align="center">30:15</td>
-            <td align="center">272 <sup><sub>w</sub></sup></td>
-            <td align="center">39.9 <sup><sub>km/h</sub></sup></td>
-            <td align="center">178</td>
-        </tr>
-            <tr>
-            <td>26-03-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="WarmUp on NYC KOM After Party in Watopia" title="WarmUp on NYC KOM After Party in Watopia"/>
-<a href="https://www.strava.com/activities/11042802687" title="Kcal: 116 | Gear: None ">WarmUp on NYC KOM After Pa...</a>
-            </td>
-            <td align="center">8 <sup><sub>km</sub></sup></td>
-            <td align="center">38 <sup><sub>m</sub></sup></td>
-            <td align="center">15:15</td>
-            <td align="center">133 <sup><sub>w</sub></sup></td>
-            <td align="center">32.1 <sup><sub>km/h</sub></sup></td>
-            <td align="center">128</td>
-        </tr>
-            <tr>
-            <td>26-03-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="💼" title="💼"/>
-<a href="https://www.strava.com/activities/11043913353" title="Kcal: 137 | Gear: None ">💼</a>
-            </td>
-            <td align="center">5 <sup><sub>km</sub></sup></td>
-            <td align="center">21 <sup><sub>m</sub></sup></td>
-            <td align="center">16:00</td>
-            <td align="center">69 <sup><sub>w</sub></sup></td>
-            <td align="center">19.2 <sup><sub>km/h</sub></sup></td>
-            <td align="center">122</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
