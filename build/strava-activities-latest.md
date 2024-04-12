@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>12-04-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Group Ride: Standard | Stage 1 | The Zwift Big Spin 2024 on Suki&#039;s Playground in Makuri Islands" title="Group Ride: Standard | Stage 1 | The Zwift Big Spin 2024 on Suki&#039;s Playground in Makuri Islands"/>
+<a href="https://www.strava.com/activities/11164327241" title="Kcal: 439 | Gear: None ">Group Ride: Standard | Sta...</a>
+            </td>
+            <td align="center">19 <sup><sub>km</sub></sup></td>
+            <td align="center">150 <sup><sub>m</sub></sup></td>
+            <td align="center">27:53</td>
+            <td align="center">240 <sup><sub>w</sub></sup></td>
+            <td align="center">40.6 <sup><sub>km/h</sub></sup></td>
+            <td align="center">185</td>
+        </tr>
+            <tr>
+            <td>12-04-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 on Country to Coastal in Makuri Islands" title="Zone 2 on Country to Coastal in Makuri Islands"/>
+<a href="https://www.strava.com/activities/11164110234" title="Kcal: 297 | Gear: None ">Zone 2 on Country to Coast...</a>
+            </td>
+            <td align="center">19 <sup><sub>km</sub></sup></td>
+            <td align="center">149 <sup><sub>m</sub></sup></td>
+            <td align="center">35:14</td>
+            <td align="center">147 <sup><sub>w</sub></sup></td>
+            <td align="center">32.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">144</td>
+        </tr>
+            <tr>
             <td>10-04-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🏍️ Biker-boys" title="🏍️ Biker-boys"/>
@@ -47,32 +73,6 @@
             <td align="center">151 <sup><sub>w</sub></sup></td>
             <td align="center">33 <sup><sub>km/h</sub></sup></td>
             <td align="center">131</td>
-        </tr>
-            <tr>
-            <td>05-04-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Lekker op m&#039;n bek 🚴" title="Lekker op m&#039;n bek 🚴"/>
-<a href="https://www.strava.com/activities/11113320340" title="Kcal: 1905 | Gear: None ">Lekker op m&#039;n bek 🚴</a>
-            </td>
-            <td align="center">63 <sup><sub>km</sub></sup></td>
-            <td align="center">86 <sup><sub>m</sub></sup></td>
-            <td align="center">2:07:41</td>
-            <td align="center">156 <sup><sub>w</sub></sup></td>
-            <td align="center">29.4 <sup><sub>km/h</sub></sup></td>
-            <td align="center">171</td>
-        </tr>
-            <tr>
-            <td>05-04-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Morning Ride" title="Morning Ride"/>
-<a href="https://www.strava.com/activities/11113325294" title="Kcal: 258 | Gear: None ">Morning Ride</a>
-            </td>
-            <td align="center">11 <sup><sub>km</sub></sup></td>
-            <td align="center">24 <sup><sub>m</sub></sup></td>
-            <td align="center">35:27</td>
-            <td align="center">80 <sup><sub>w</sub></sup></td>
-            <td align="center">18.9 <sup><sub>km/h</sub></sup></td>
-            <td align="center">114</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
