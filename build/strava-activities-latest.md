@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>18-04-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
+<a href="https://www.strava.com/activities/11210617194" title="Kcal: 475 | Gear: None ">Zone 2 in Watopia</a>
+            </td>
+            <td align="center">31 <sup><sub>km</sub></sup></td>
+            <td align="center">120 <sup><sub>m</sub></sup></td>
+            <td align="center">55:17</td>
+            <td align="center">150 <sup><sub>w</sub></sup></td>
+            <td align="center">33.4 <sup><sub>km/h</sub></sup></td>
+            <td align="center">150</td>
+        </tr>
+            <tr>
+            <td>18-04-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Afternoon Ride" title="Afternoon Ride"/>
+<a href="https://www.strava.com/activities/11210206972" title="Kcal: 60 | Gear: None ">Afternoon Ride</a>
+            </td>
+            <td align="center">4 <sup><sub>km</sub></sup></td>
+            <td align="center">7 <sup><sub>m</sub></sup></td>
+            <td align="center">10:33</td>
+            <td align="center">102 <sup><sub>w</sub></sup></td>
+            <td align="center">23.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">106</td>
+        </tr>
+            <tr>
             <td>17-04-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
@@ -47,32 +73,6 @@
             <td align="center">150 <sup><sub>w</sub></sup></td>
             <td align="center">34.6 <sup><sub>km/h</sub></sup></td>
             <td align="center">145</td>
-        </tr>
-            <tr>
-            <td>12-04-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Group Ride: Standard | Stage 1 | The Zwift Big Spin 2024 on Suki&#039;s Playground in Makuri Islands" title="Group Ride: Standard | Stage 1 | The Zwift Big Spin 2024 on Suki&#039;s Playground in Makuri Islands"/>
-<a href="https://www.strava.com/activities/11164327241" title="Kcal: 439 | Gear: None ">Group Ride: Standard | Sta...</a>
-            </td>
-            <td align="center">19 <sup><sub>km</sub></sup></td>
-            <td align="center">150 <sup><sub>m</sub></sup></td>
-            <td align="center">27:53</td>
-            <td align="center">240 <sup><sub>w</sub></sup></td>
-            <td align="center">40.6 <sup><sub>km/h</sub></sup></td>
-            <td align="center">185</td>
-        </tr>
-            <tr>
-            <td>12-04-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 on Country to Coastal in Makuri Islands" title="Zone 2 on Country to Coastal in Makuri Islands"/>
-<a href="https://www.strava.com/activities/11164110234" title="Kcal: 297 | Gear: None ">Zone 2 on Country to Coast...</a>
-            </td>
-            <td align="center">19 <sup><sub>km</sub></sup></td>
-            <td align="center">149 <sup><sub>m</sub></sup></td>
-            <td align="center">35:14</td>
-            <td align="center">147 <sup><sub>w</sub></sup></td>
-            <td align="center">32.2 <sup><sub>km/h</sub></sup></td>
-            <td align="center">144</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
