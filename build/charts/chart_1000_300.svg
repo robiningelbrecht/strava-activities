@@ -23,8 +23,8 @@
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="6" transform="translate(342.236 279)" fill="#6E7079">May 2024</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="6" transform="translate(695.244 279)" fill="#6E7079">Jun 2024</text>
 <g clip-path="url(#zr5-c0)">
-<path d="M77.5 108.5L165.7 138.1L254 149.3L342.2 79L430.5 79.7L518.7 117.7L607 113.5L695.2 155.7L783.5 155.7L871.7 140.9L960 271L871.7 271L783.5 271L695.2 271L607 271L518.7 271L430.5 271L342.2 271L254 271L165.7 271L77.5 271Z" fill="rgb(227,73,2)" fill-opacity="0.09"></path>
-<path d="M77.5 108.5L165.7 138.1L254 149.3L342.2 79L430.5 79.7L518.7 117.7L607 113.5L695.2 155.7L783.5 155.7L871.7 140.9L960 271" fill="none" stroke="#E34902" stroke-linejoin="bevel"></path>
+<path d="M77.5 108.5L165.7 138.1L254 149.3L342.2 79L430.5 79.7L518.7 117.7L607 113.5L695.2 155.7L783.5 155.7L871.7 140.9L960 259.7L960 271L871.7 271L783.5 271L695.2 271L607 271L518.7 271L430.5 271L342.2 271L254 271L165.7 271L77.5 271Z" fill="rgb(227,73,2)" fill-opacity="0.09"></path>
+<path d="M77.5 108.5L165.7 138.1L254 149.3L342.2 79L430.5 79.7L518.7 117.7L607 113.5L695.2 155.7L783.5 155.7L871.7 140.9L960 259.7" fill="none" stroke="#E34902" stroke-linejoin="bevel"></path>
 </g>
 <path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(3,0,0,3,77.48,108.53)" fill="#fff" stroke="#E34902" stroke-width="0.6666666666666666"></path>
 <path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(3,0,0,3,165.732,138.07)" fill="#fff" stroke="#E34902" stroke-width="0.6666666666666666"></path>
@@ -36,7 +36,7 @@
 <path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(3,0,0,3,695.244,155.6533)" fill="#fff" stroke="#E34902" stroke-width="0.6666666666666666"></path>
 <path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(3,0,0,3,783.496,155.6533)" fill="#fff" stroke="#E34902" stroke-width="0.6666666666666666"></path>
 <path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(3,0,0,3,871.748,140.8833)" fill="#fff" stroke="#E34902" stroke-width="0.6666666666666666"></path>
-<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(3,0,0,3,960,271)" fill="#fff" stroke="#E34902" stroke-width="0.6666666666666666"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(3,0,0,3,960,259.7467)" fill="#fff" stroke="#E34902" stroke-width="0.6666666666666666"></path>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="-6" transform="matrix(0.707,0.707,-0.707,0.707,77.48,99.53)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">231 km</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="-6" transform="matrix(0.707,0.707,-0.707,0.707,165.732,129.07)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">189 km</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="-6" transform="matrix(0.707,0.707,-0.707,0.707,253.984,140.3233)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">173 km</text>
@@ -47,7 +47,7 @@
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="-6" transform="matrix(0.707,0.707,-0.707,0.707,695.244,146.6533)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">164 km</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="-6" transform="matrix(0.707,0.707,-0.707,0.707,783.496,146.6533)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">164 km</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="-6" transform="matrix(0.707,0.707,-0.707,0.707,871.748,131.8833)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">185 km</text>
-<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="-6" transform="matrix(0.707,0.707,-0.707,0.707,960,262)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">0 km</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="-6" transform="matrix(0.707,0.707,-0.707,0.707,960,250.7467)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">16 km</text>
 <defs >
 <clipPath id="zr5-c0">
 <path d="M76 59.5l884 0l0 212l-884 0Z" fill="#000"></path>
