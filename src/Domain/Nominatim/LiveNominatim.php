@@ -23,7 +23,7 @@ final readonly class LiveNominatim implements Nominatim
             'https://nominatim.openstreetmap.org/reverse',
             [
                 RequestOptions::HEADERS => [
-                    'User-Agent' => 'Stava Activities App',
+                    'User-Agent' => 'Strava Activities App',
                 ],
                 RequestOptions::QUERY => [
                     'lat' => $coordinate->getLatitude()->toFloat(),
