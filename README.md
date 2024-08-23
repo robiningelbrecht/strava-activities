@@ -12,7 +12,7 @@ an elevation of `104 736 m`
 (`11.8` times Mount Everest 🏔)
 and a total time of `3w 1d 9h 51m` 🎉
 
-That's a daily average of `31 km`,
+That's a daily average of `30 km`,
 a weekly average of `212 km` and a
 monthly average of `923 km` 🐣
 
