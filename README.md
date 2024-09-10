@@ -12,8 +12,8 @@ an elevation of `109 073 m`
 (`12.3` times Mount Everest 🏔)
 and a total time of `3w 2d 4h 30m` 🎉
 
-That's a daily average of `31 km`,
-a weekly average of `214 km` and a
+That's a daily average of `30 km`,
+a weekly average of `211 km` and a
 monthly average of `903 km` 🐣
 
 I burned `330379 calories` doing so, that's about `1 224` pizza slices 🍕
