@@ -10,6 +10,45 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>11-09-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="💼 ⬅️" title="💼 ⬅️"/>
+<a href="https://www.strava.com/activities/12384674966" title="Kcal: 1139 | Gear: None ">💼 ⬅️</a>
+            </td>
+            <td align="center">44 <sup><sub>km</sub></sup></td>
+            <td align="center">46 <sup><sub>m</sub></sup></td>
+            <td align="center">1:39:11</td>
+            <td align="center">104 <sup><sub>w</sub></sup></td>
+            <td align="center">26.6 <sup><sub>km/h</sub></sup></td>
+            <td align="center">146</td>
+        </tr>
+            <tr>
+            <td>11-09-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="💼 ➡️" title="💼 ➡️"/>
+<a href="https://www.strava.com/activities/12380942413" title="Kcal: 1122 | Gear: None ">💼 ➡️</a>
+            </td>
+            <td align="center">45 <sup><sub>km</sub></sup></td>
+            <td align="center">53 <sup><sub>m</sub></sup></td>
+            <td align="center">1:31:19</td>
+            <td align="center">140 <sup><sub>w</sub></sup></td>
+            <td align="center">29.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">154</td>
+        </tr>
+            <tr>
+            <td>10-09-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Climb Time in Watopia" title="Climb Time in Watopia"/>
+<a href="https://www.strava.com/activities/12377567836" title="Kcal: 531 | Gear: None ">Climb Time in Watopia</a>
+            </td>
+            <td align="center">29 <sup><sub>km</sub></sup></td>
+            <td align="center">187 <sup><sub>m</sub></sup></td>
+            <td align="center">47:08</td>
+            <td align="center">197 <sup><sub>w</sub></sup></td>
+            <td align="center">36.3 <sup><sub>km/h</sub></sup></td>
+            <td align="center">156</td>
+        </tr>
+            <tr>
             <td>08-09-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Poelberg met Rubbie" title="Poelberg met Rubbie"/>
@@ -34,45 +73,6 @@
             <td align="center">114 <sup><sub>w</sub></sup></td>
             <td align="center">25.2 <sup><sub>km/h</sub></sup></td>
             <td align="center">117</td>
-        </tr>
-            <tr>
-            <td>06-09-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
-<a href="https://www.strava.com/activities/12341844217" title="Kcal: 786 | Gear: None ">Zone 2 in Watopia</a>
-            </td>
-            <td align="center">41 <sup><sub>km</sub></sup></td>
-            <td align="center">473 <sup><sub>m</sub></sup></td>
-            <td align="center">1:30:18</td>
-            <td align="center">152 <sup><sub>w</sub></sup></td>
-            <td align="center">27.4 <sup><sub>km/h</sub></sup></td>
-            <td align="center">134</td>
-        </tr>
-            <tr>
-            <td>04-09-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Aerobic Builds in Makuri Islands" title="Aerobic Builds in Makuri Islands"/>
-<a href="https://www.strava.com/activities/12326137508" title="Kcal: 940 | Gear: None ">Aerobic Builds in Makuri I...</a>
-            </td>
-            <td align="center">47 <sup><sub>km</sub></sup></td>
-            <td align="center">610 <sup><sub>m</sub></sup></td>
-            <td align="center">1:31:05</td>
-            <td align="center">180 <sup><sub>w</sub></sup></td>
-            <td align="center">30.9 <sup><sub>km/h</sub></sup></td>
-            <td align="center">142</td>
-        </tr>
-            <tr>
-            <td>03-09-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zwift Academy: Workout 6 | Grand Finale in Richmond" title="Zwift Academy: Workout 6 | Grand Finale in Richmond"/>
-<a href="https://www.strava.com/activities/12316470976" title="Kcal: 808 | Gear: None ">Zwift Academy: Workout 6 |...</a>
-            </td>
-            <td align="center">40 <sup><sub>km</sub></sup></td>
-            <td align="center">253 <sup><sub>m</sub></sup></td>
-            <td align="center">1:06:17</td>
-            <td align="center">213 <sup><sub>w</sub></sup></td>
-            <td align="center">35.9 <sup><sub>km/h</sub></sup></td>
-            <td align="center">165</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
