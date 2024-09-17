@@ -13,7 +13,7 @@ an elevation of `107 803 m`
 and a total time of `3w 2d 14h 5m` 🎉
 
 That's a daily average of `31 km`,
-a weekly average of `215 km` and a
+a weekly average of `212 km` and a
 monthly average of `920 km` 🐣
 
 I burned `336602 calories` doing so, that's about `1 247` pizza slices 🍕
