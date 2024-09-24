@@ -38,6 +38,7 @@ use App\Domain\Strava\DistanceBreakdown;
 use App\Domain\Strava\Ftp\FtpHistoryChartBuilder;
 use App\Domain\Strava\Ftp\ReadModel\FtpDetailsRepository;
 use App\Domain\Strava\Gear\DistanceOverTimePerGearChartBuilder;
+use App\Domain\Strava\Gear\DistancePerMonthPerGearChartBuilder;
 use App\Domain\Strava\Gear\GearStatistics;
 use App\Domain\Strava\Gear\ReadModel\GearDetailsRepository;
 use App\Domain\Strava\MonthlyStatistics;
@@ -391,13 +392,19 @@ final readonly class BuildHtmlVersionCommandHandler implements CommandHandler
                     activities: $allActivities,
                     bikes: $allBikes
                 ),
-                'distanceOverTimePerGearChart' => Json::encode(
-                    DistanceOverTimePerGearChartBuilder::fromGearAndActivities(
+                'distancePerMonthPerGearChart' => Json::encode(
+                    DistancePerMonthPerGearChartBuilder::fromGearAndActivities(
                         gearCollection: $allBikes,
                         activityCollection: $allActivities,
                         months: $allMonths,
-                    )
-                        ->build()
+                    )->build()
+                ),
+                'distanceOverTimePerBike' => Json::encode(
+                    DistanceOverTimePerGearChartBuilder::fromGearAndActivities(
+                        gearCollection: $allBikes,
+                        activityCollection: $allActivities,
+                        now: $now,
+                    )->build()
                 ),
             ]),
         );
