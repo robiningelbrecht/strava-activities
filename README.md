@@ -13,7 +13,7 @@ an elevation of `113 411 m`
 and a total time of `3w 3d 5h 51m` 🎉
 
 That's a daily average of `31 km`,
-a weekly average of `217 km` and a
+a weekly average of `214 km` and a
 monthly average of `940 km` 🐣
 
 I burned `347200 calories` doing so, that's about `1 286` pizza slices 🍕
@@ -1156,17 +1156,6 @@ I burned `347200 calories` doing so, that's about `1 286` pizza slices 🍕
     </thead>
     <tbody>
             <tr>
-            <td align="center">Zwift Hub ☠️</td>
-            <td align="center">306</td>
-            <td align="center">
-                                    35 <sup><sub>km avg</sub></sup> /
-                    10 842 <sup><sub>km total</sub></sup>
-                            </td>
-            <td align="center">81 777 <sup><sub>m</sub></sup></td>
-            <td align="center">2w 1h 14m</td>
-            <td align="center">32.1 <sup><sub>km/h</sub></sup></td>
-        </tr>
-            <tr>
             <td align="center">Retro Race Bike</td>
             <td align="center">79</td>
             <td align="center">
@@ -1187,17 +1176,6 @@ I burned `347200 calories` doing so, that's about `1 286` pizza slices 🍕
             <td align="center">9 522 <sup><sub>m</sub></sup></td>
             <td align="center">1d 15h 18m</td>
             <td align="center">27.2 <sup><sub>km/h</sub></sup></td>
-        </tr>
-            <tr>
-            <td align="center">Elite Direto XR-T ☠️</td>
-            <td align="center">33</td>
-            <td align="center">
-                                    29 <sup><sub>km avg</sub></sup> /
-                    966 <sup><sub>km total</sub></sup>
-                            </td>
-            <td align="center">8 709 <sup><sub>m</sub></sup></td>
-            <td align="center">1d 10h 49m</td>
-            <td align="center">27.7 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
             <td align="center">City bike</td>
@@ -1231,6 +1209,28 @@ I burned `347200 calories` doing so, that's about `1 286` pizza slices 🍕
             <td align="center">0 <sup><sub>m</sub></sup></td>
             <td align="center">41m</td>
             <td align="center">34.6 <sup><sub>km/h</sub></sup></td>
+        </tr>
+            <tr>
+            <td align="center">Zwift Hub ☠️</td>
+            <td align="center">306</td>
+            <td align="center">
+                                    35 <sup><sub>km avg</sub></sup> /
+                    10 842 <sup><sub>km total</sub></sup>
+                            </td>
+            <td align="center">81 777 <sup><sub>m</sub></sup></td>
+            <td align="center">2w 1h 14m</td>
+            <td align="center">32.1 <sup><sub>km/h</sub></sup></td>
+        </tr>
+            <tr>
+            <td align="center">Elite Direto XR-T ☠️</td>
+            <td align="center">33</td>
+            <td align="center">
+                                    29 <sup><sub>km avg</sub></sup> /
+                    966 <sup><sub>km total</sub></sup>
+                            </td>
+            <td align="center">8 709 <sup><sub>m</sub></sup></td>
+            <td align="center">1d 10h 49m</td>
+            <td align="center">27.7 <sup><sub>km/h</sub></sup></td>
         </tr>
         </tbody>
 </table>
