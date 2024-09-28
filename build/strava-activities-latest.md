@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>28-09-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
+<a href="https://www.strava.com/activities/12522427300" title="Kcal: 387 | Gear: None ">Zone 2 in Watopia</a>
+            </td>
+            <td align="center">27 <sup><sub>km</sub></sup></td>
+            <td align="center">41 <sup><sub>m</sub></sup></td>
+            <td align="center">45:49</td>
+            <td align="center">148 <sup><sub>w</sub></sup></td>
+            <td align="center">35.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">128</td>
+        </tr>
+            <tr>
+            <td>28-09-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Half Hour of Power in Watopia" title="Half Hour of Power in Watopia"/>
+<a href="https://www.strava.com/activities/12522006318" title="Kcal: 389 | Gear: None ">Half Hour of Power in Watopia</a>
+            </td>
+            <td align="center">19 <sup><sub>km</sub></sup></td>
+            <td align="center">156 <sup><sub>m</sub></sup></td>
+            <td align="center">35:28</td>
+            <td align="center">192 <sup><sub>w</sub></sup></td>
+            <td align="center">32.8 <sup><sub>km/h</sub></sup></td>
+            <td align="center">153</td>
+        </tr>
+            <tr>
             <td>26-09-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
@@ -47,32 +73,6 @@
             <td align="center">51 <sup><sub>w</sub></sup></td>
             <td align="center">17.1 <sup><sub>km/h</sub></sup></td>
             <td align="center">111</td>
-        </tr>
-            <tr>
-            <td>25-09-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
-<a href="https://www.strava.com/activities/12502095798" title="Kcal: 297 | Gear: None ">Zone 2 in Watopia</a>
-            </td>
-            <td align="center">21 <sup><sub>km</sub></sup></td>
-            <td align="center">33 <sup><sub>m</sub></sup></td>
-            <td align="center">35:10</td>
-            <td align="center">148 <sup><sub>w</sub></sup></td>
-            <td align="center">35.2 <sup><sub>km/h</sub></sup></td>
-            <td align="center">124</td>
-        </tr>
-            <tr>
-            <td>25-09-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Ignite in Watopia" title="Ignite in Watopia"/>
-<a href="https://www.strava.com/activities/12501774566" title="Kcal: 265 | Gear: None ">Ignite in Watopia</a>
-            </td>
-            <td align="center">15 <sup><sub>km</sub></sup></td>
-            <td align="center">26 <sup><sub>m</sub></sup></td>
-            <td align="center">25:21</td>
-            <td align="center">183 <sup><sub>w</sub></sup></td>
-            <td align="center">36.1 <sup><sub>km/h</sub></sup></td>
-            <td align="center">142</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
