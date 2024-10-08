@@ -1,22 +1,22 @@
 <svg width="1000" height="300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 1000 300">
 <rect width="1000" height="300" x="0" y="0" id="0" fill="#ffffff"></rect>
-<polyline points="578.3 69.2 588.7 58.4 603.7 58.4" fill="none" stroke="#5470c6"></polyline>
-<polyline points="492.6 262.3 491.6 277.2 476.6 277.2" fill="none" stroke="#91cc75"></polyline>
-<polyline points="426.9 64.5 420.3 54.6 405.3 54.6" fill="none" stroke="#fac858"></polyline>
+<polyline points="578.8 69.7 589.3 59 604.3 59" fill="none" stroke="#5470c6"></polyline>
+<polyline points="491.7 262.2 490.6 277.1 475.6 277.1" fill="none" stroke="#91cc75"></polyline>
+<polyline points="427 64.4 420.3 54.6 405.3 54.6" fill="none" stroke="#fac858"></polyline>
 <polyline points="499.6 37.5 499.5 22.5 484.5 22.5" fill="none" stroke="#ee6666"></polyline>
-<path d="M500 37.5A112.5 112.5 0 0 1 612.4 146.5L500 150Z" fill="#5470c6" stroke="#fff" stroke-width="2" stroke-linejoin="round"></path>
-<path d="M612.4 146.5A112.5 112.5 0 1 1 389 131.7L500 150Z" fill="#91cc75" stroke="#fff" stroke-width="2" stroke-linejoin="round"></path>
-<path d="M389 131.7A112.5 112.5 0 0 1 499.2 37.5L500 150Z" fill="#fac858" stroke="#fff" stroke-width="2" stroke-linejoin="round"></path>
+<path d="M500 37.5A112.5 112.5 0 0 1 612.5 147.9L500 150Z" fill="#5470c6" stroke="#fff" stroke-width="2" stroke-linejoin="round"></path>
+<path d="M612.5 147.9A112.5 112.5 0 1 1 389.1 131.3L500 150Z" fill="#91cc75" stroke="#fff" stroke-width="2" stroke-linejoin="round"></path>
+<path d="M389.1 131.3A112.5 112.5 0 0 1 499.2 37.5L500 150Z" fill="#fac858" stroke="#fff" stroke-width="2" stroke-linejoin="round"></path>
 <path d="M499.2 37.5A112.5 112.5 0 0 1 500 37.5L500 150Z" fill="#ee6666" stroke="#fff" stroke-width="2" stroke-linejoin="round"></path>
-<path d="M0 -15l70.8 0l0 30l-70.8 0Z" transform="translate(608.7289 58.4389)" fill="none"></path>
-<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;font-weight:bold;" xml:space="preserve" y="-7.5" transform="translate(608.7289 58.4389)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">🌞 Morning</text>
-<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" y="7.5" transform="translate(608.7289 58.4389)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">24.5%</text>
-<path d="M-79.7 -15l79.7 0l0 30l-79.7 0Z" transform="translate(471.5945 277.2226)" fill="none"></path>
-<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;font-weight:bold;" xml:space="preserve" y="-7.5" transform="translate(471.5945 277.2226)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">🌆 Afternoon</text>
-<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" y="7.5" transform="translate(471.5945 277.2226)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">53.1%</text>
+<path d="M0 -15l70.8 0l0 30l-70.8 0Z" transform="translate(609.3095 59.0051)" fill="none"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;font-weight:bold;" xml:space="preserve" y="-7.5" transform="translate(609.3095 59.0051)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">🌞 Morning</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" y="7.5" transform="translate(609.3095 59.0051)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">24.7%</text>
+<path d="M-79.7 -15l79.7 0l0 30l-79.7 0Z" transform="translate(470.5547 277.1497)" fill="none"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;font-weight:bold;" xml:space="preserve" y="-7.5" transform="translate(470.5547 277.1497)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">🌆 Afternoon</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" y="7.5" transform="translate(470.5547 277.1497)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">52.96%</text>
 <path d="M-70.9 -15l70.9 0l0 30l-70.9 0Z" transform="translate(400.3126 54.6009)" fill="none"></path>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;font-weight:bold;" xml:space="preserve" y="-7.5" transform="translate(400.3126 54.6009)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">🌃 Evening</text>
-<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" y="7.5" transform="translate(400.3126 54.6009)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">22.28%</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" y="7.5" transform="translate(400.3126 54.6009)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">22.22%</text>
 <path d="M-55.4 -15l55.4 0l0 30l-55.4 0Z" transform="translate(479.5193 22.5009)" fill="none"></path>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;font-weight:bold;" xml:space="preserve" y="-7.5" transform="translate(479.5193 22.5009)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">🌙 Night</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" y="7.5" transform="translate(479.5193 22.5009)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">0.12%</text>
