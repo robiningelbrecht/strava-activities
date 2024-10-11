@@ -10,6 +10,45 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>11-10-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Cooldown in London" title="Cooldown in London"/>
+<a href="https://www.strava.com/activities/12630359458" title="Kcal: 204 | Gear: None ">Cooldown in London</a>
+            </td>
+            <td align="center">14 <sup><sub>km</sub></sup></td>
+            <td align="center">56 <sup><sub>m</sub></sup></td>
+            <td align="center">25:25</td>
+            <td align="center">140 <sup><sub>w</sub></sup></td>
+            <td align="center">32.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">138</td>
+        </tr>
+            <tr>
+            <td>11-10-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Race: SZR After Work Party (C) on Downtown Dolphin in Crit City" title="Race: SZR After Work Party (C) on Downtown Dolphin in Crit City"/>
+<a href="https://www.strava.com/activities/12630154383" title="Kcal: 484 | Gear: None ">Race: SZR After Work Party...</a>
+            </td>
+            <td align="center">20 <sup><sub>km</sub></sup></td>
+            <td align="center">163 <sup><sub>m</sub></sup></td>
+            <td align="center">27:58</td>
+            <td align="center">262 <sup><sub>w</sub></sup></td>
+            <td align="center">42.3 <sup><sub>km/h</sub></sup></td>
+            <td align="center">181</td>
+        </tr>
+            <tr>
+            <td>11-10-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Warm Up in Watopia" title="Warm Up in Watopia"/>
+<a href="https://www.strava.com/activities/12629864972" title="Kcal: 196 | Gear: None ">Warm Up in Watopia</a>
+            </td>
+            <td align="center">12 <sup><sub>km</sub></sup></td>
+            <td align="center">65 <sup><sub>m</sub></sup></td>
+            <td align="center">22:21</td>
+            <td align="center">153 <sup><sub>w</sub></sup></td>
+            <td align="center">33.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">137</td>
+        </tr>
+            <tr>
             <td>10-10-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
@@ -34,45 +73,6 @@
             <td align="center">179 <sup><sub>w</sub></sup></td>
             <td align="center">29.7 <sup><sub>km/h</sub></sup></td>
             <td align="center">170</td>
-        </tr>
-            <tr>
-            <td>08-10-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🏠 ➡️ 💼" title="🏠 ➡️ 💼"/>
-<a href="https://www.strava.com/activities/12602924583" title="Kcal: 1095 | Gear: None ">🏠 ➡️ 💼</a>
-            </td>
-            <td align="center">46 <sup><sub>km</sub></sup></td>
-            <td align="center">72 <sup><sub>m</sub></sup></td>
-            <td align="center">1:38:03</td>
-            <td align="center">166 <sup><sub>w</sub></sup></td>
-            <td align="center">27.9 <sup><sub>km/h</sub></sup></td>
-            <td align="center">161</td>
-        </tr>
-            <tr>
-            <td>06-10-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Op z&#039;n zondags" title="Op z&#039;n zondags"/>
-<a href="https://www.strava.com/activities/12588124885" title="Kcal: 2129 | Gear: None ">Op z&#039;n zondags</a>
-            </td>
-            <td align="center">84 <sup><sub>km</sub></sup></td>
-            <td align="center">154 <sup><sub>m</sub></sup></td>
-            <td align="center">2:52:21</td>
-            <td align="center">185 <sup><sub>w</sub></sup></td>
-            <td align="center">29.1 <sup><sub>km/h</sub></sup></td>
-            <td align="center">150</td>
-        </tr>
-            <tr>
-            <td>05-10-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Bernard Vandamme... The last dance 🥊" title="Bernard Vandamme... The last dance 🥊"/>
-<a href="https://www.strava.com/activities/12584314978" title="Kcal: 301 | Gear: None ">Bernard Vandamme... The la...</a>
-            </td>
-            <td align="center">13 <sup><sub>km</sub></sup></td>
-            <td align="center">27 <sup><sub>m</sub></sup></td>
-            <td align="center">44:04</td>
-            <td align="center">50 <sup><sub>w</sub></sup></td>
-            <td align="center">18 <sup><sub>km/h</sub></sup></td>
-            <td align="center">114</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
