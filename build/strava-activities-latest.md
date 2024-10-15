@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>15-10-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Group Ride: Long | Stage 1 | Tour of Watopia Ride on Mountain Route in Watopia" title="Group Ride: Long | Stage 1 | Tour of Watopia Ride on Mountain Route in Watopia"/>
+<a href="https://www.strava.com/activities/12662652069" title="Kcal: 782 | Gear: None ">Group Ride: Long | Stage 1...</a>
+            </td>
+            <td align="center">30 <sup><sub>km</sub></sup></td>
+            <td align="center">678 <sup><sub>m</sub></sup></td>
+            <td align="center">54:40</td>
+            <td align="center">236 <sup><sub>w</sub></sup></td>
+            <td align="center">32.6 <sup><sub>km/h</sub></sup></td>
+            <td align="center">177</td>
+        </tr>
+            <tr>
+            <td>15-10-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="WarmUp  in Watopia" title="WarmUp  in Watopia"/>
+<a href="https://www.strava.com/activities/12662099514" title="Kcal: 177 | Gear: None ">WarmUp  in Watopia</a>
+            </td>
+            <td align="center">12 <sup><sub>km</sub></sup></td>
+            <td align="center">20 <sup><sub>m</sub></sup></td>
+            <td align="center">20:54</td>
+            <td align="center">150 <sup><sub>w</sub></sup></td>
+            <td align="center">34.9 <sup><sub>km/h</sub></sup></td>
+            <td align="center">135</td>
+        </tr>
+            <tr>
             <td>14-10-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="💼" title="💼"/>
@@ -47,32 +73,6 @@
             <td align="center">52 <sup><sub>w</sub></sup></td>
             <td align="center">16.7 <sup><sub>km/h</sub></sup></td>
             <td align="center">90</td>
-        </tr>
-            <tr>
-            <td>11-10-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Cooldown in London" title="Cooldown in London"/>
-<a href="https://www.strava.com/activities/12630359458" title="Kcal: 204 | Gear: None ">Cooldown in London</a>
-            </td>
-            <td align="center">14 <sup><sub>km</sub></sup></td>
-            <td align="center">56 <sup><sub>m</sub></sup></td>
-            <td align="center">25:25</td>
-            <td align="center">140 <sup><sub>w</sub></sup></td>
-            <td align="center">32.2 <sup><sub>km/h</sub></sup></td>
-            <td align="center">138</td>
-        </tr>
-            <tr>
-            <td>11-10-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Race: SZR After Work Party (C) on Downtown Dolphin in Crit City" title="Race: SZR After Work Party (C) on Downtown Dolphin in Crit City"/>
-<a href="https://www.strava.com/activities/12630154383" title="Kcal: 484 | Gear: None ">Race: SZR After Work Party...</a>
-            </td>
-            <td align="center">20 <sup><sub>km</sub></sup></td>
-            <td align="center">163 <sup><sub>m</sub></sup></td>
-            <td align="center">27:58</td>
-            <td align="center">262 <sup><sub>w</sub></sup></td>
-            <td align="center">42.3 <sup><sub>km/h</sub></sup></td>
-            <td align="center">181</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
