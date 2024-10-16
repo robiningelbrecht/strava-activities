@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>16-10-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Group Ride: Standard | Stage 1 | Tour of Watopia Ride on Figure 8 in Watopia" title="Group Ride: Standard | Stage 1 | Tour of Watopia Ride on Figure 8 in Watopia"/>
+<a href="https://www.strava.com/activities/12670458885" title="Kcal: 617 | Gear: None ">Group Ride: Standard | Sta...</a>
+            </td>
+            <td align="center">36 <sup><sub>km</sub></sup></td>
+            <td align="center">278 <sup><sub>m</sub></sup></td>
+            <td align="center">1:00:31</td>
+            <td align="center">173 <sup><sub>w</sub></sup></td>
+            <td align="center">35.3 <sup><sub>km/h</sub></sup></td>
+            <td align="center">149</td>
+        </tr>
+            <tr>
             <td>15-10-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Group Ride: Long | Stage 1 | Tour of Watopia Ride on Mountain Route in Watopia" title="Group Ride: Long | Stage 1 | Tour of Watopia Ride on Mountain Route in Watopia"/>
@@ -60,19 +73,6 @@
             <td align="center">178 <sup><sub>w</sub></sup></td>
             <td align="center">27.9 <sup><sub>km/h</sub></sup></td>
             <td align="center">158</td>
-        </tr>
-            <tr>
-            <td>11-10-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Night Ride" title="Night Ride"/>
-<a href="https://www.strava.com/activities/12634110554" title="Kcal: 194 | Gear: None ">Night Ride</a>
-            </td>
-            <td align="center">9 <sup><sub>km</sub></sup></td>
-            <td align="center">26 <sup><sub>m</sub></sup></td>
-            <td align="center">31:28</td>
-            <td align="center">52 <sup><sub>w</sub></sup></td>
-            <td align="center">16.7 <sup><sub>km/h</sub></sup></td>
-            <td align="center">90</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
