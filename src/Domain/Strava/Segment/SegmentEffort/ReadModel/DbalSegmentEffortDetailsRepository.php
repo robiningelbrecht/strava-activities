@@ -40,7 +40,7 @@ final readonly class DbalSegmentEffortDetailsRepository implements SegmentEffort
         return $this->buildFromResult($result);
     }
 
-    public function findBySegmentId(SegmentId $segmentId, int $limit = null): SegmentEfforts
+    public function findBySegmentId(SegmentId $segmentId, ?int $limit = null): SegmentEfforts
     {
         $queryBuilder = $this->connection->createQueryBuilder();
         $queryBuilder->select('*')
