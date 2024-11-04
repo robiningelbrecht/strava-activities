@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>04-11-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="💼 ➡️ 🏠" title="💼 ➡️ 🏠"/>
+<a href="https://www.strava.com/activities/12821977368" title="Kcal: 1182 | Gear: None ">💼 ➡️ 🏠</a>
+            </td>
+            <td align="center">46 <sup><sub>km</sub></sup></td>
+            <td align="center">69 <sup><sub>m</sub></sup></td>
+            <td align="center">1:29:52</td>
+            <td align="center">196 <sup><sub>w</sub></sup></td>
+            <td align="center">30.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">156</td>
+        </tr>
+            <tr>
+            <td>04-11-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🏠 ➡️ 💼" title="🏠 ➡️ 💼"/>
+<a href="https://www.strava.com/activities/12818412980" title="Kcal: 1175 | Gear: None ">🏠 ➡️ 💼</a>
+            </td>
+            <td align="center">46 <sup><sub>km</sub></sup></td>
+            <td align="center">123 <sup><sub>m</sub></sup></td>
+            <td align="center">1:40:05</td>
+            <td align="center">175 <sup><sub>w</sub></sup></td>
+            <td align="center">27.3 <sup><sub>km/h</sub></sup></td>
+            <td align="center">143</td>
+        </tr>
+            <tr>
             <td>03-11-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="👶🏻 - bezoek" title="👶🏻 - bezoek"/>
@@ -47,32 +73,6 @@
             <td align="center">147 <sup><sub>w</sub></sup></td>
             <td align="center">35 <sup><sub>km/h</sub></sup></td>
             <td align="center">145</td>
-        </tr>
-            <tr>
-            <td>02-11-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Group Ride: Standard | Stage 3 | Tour of Watopia Ride on Sand And Sequoias in Watopia" title="Group Ride: Standard | Stage 3 | Tour of Watopia Ride on Sand And Sequoias in Watopia"/>
-<a href="https://www.strava.com/activities/12805242022" title="Kcal: 506 | Gear: None ">Group Ride: Standard | Sta...</a>
-            </td>
-            <td align="center">23 <sup><sub>km</sub></sup></td>
-            <td align="center">181 <sup><sub>m</sub></sup></td>
-            <td align="center">31:57</td>
-            <td align="center">260 <sup><sub>w</sub></sup></td>
-            <td align="center">42.5 <sup><sub>km/h</sub></sup></td>
-            <td align="center">181</td>
-        </tr>
-            <tr>
-            <td>01-11-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Scotland" title="Zone 2 in Scotland"/>
-<a href="https://www.strava.com/activities/12798560759" title="Kcal: 700 | Gear: None ">Zone 2 in Scotland</a>
-            </td>
-            <td align="center">39 <sup><sub>km</sub></sup></td>
-            <td align="center">420 <sup><sub>m</sub></sup></td>
-            <td align="center">1:15:08</td>
-            <td align="center">163 <sup><sub>w</sub></sup></td>
-            <td align="center">31.5 <sup><sub>km/h</sub></sup></td>
-            <td align="center">142</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
