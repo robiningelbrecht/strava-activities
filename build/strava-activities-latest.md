@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>06-11-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
+<a href="https://www.strava.com/activities/12837970901" title="Kcal: 114 | Gear: None ">Zone 2 in Watopia</a>
+            </td>
+            <td align="center">9 <sup><sub>km</sub></sup></td>
+            <td align="center">12 <sup><sub>m</sub></sup></td>
+            <td align="center">15:15</td>
+            <td align="center">130 <sup><sub>w</sub></sup></td>
+            <td align="center">34.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">147</td>
+        </tr>
+            <tr>
+            <td>06-11-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Group Ride: Short | Stage 4 | Tour of Watopia Ride on Going Coastal in Watopia" title="Group Ride: Short | Stage 4 | Tour of Watopia Ride on Going Coastal in Watopia"/>
+<a href="https://www.strava.com/activities/12837856497" title="Kcal: 431 | Gear: None ">Group Ride: Short | Stage ...</a>
+            </td>
+            <td align="center">19 <sup><sub>km</sub></sup></td>
+            <td align="center">70 <sup><sub>m</sub></sup></td>
+            <td align="center">26:04</td>
+            <td align="center">253 <sup><sub>w</sub></sup></td>
+            <td align="center">44 <sup><sub>km/h</sub></sup></td>
+            <td align="center">179</td>
+        </tr>
+            <tr>
             <td>04-11-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="💼 ➡️ 🏠" title="💼 ➡️ 🏠"/>
@@ -47,32 +73,6 @@
             <td align="center">49 <sup><sub>w</sub></sup></td>
             <td align="center">18.4 <sup><sub>km/h</sub></sup></td>
             <td align="center">112</td>
-        </tr>
-            <tr>
-            <td>03-11-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
-<a href="https://www.strava.com/activities/12812940039" title="Kcal: 943 | Gear: None ">Zone 2 in Watopia</a>
-            </td>
-            <td align="center">57 <sup><sub>km</sub></sup></td>
-            <td align="center">86 <sup><sub>m</sub></sup></td>
-            <td align="center">1:31:02</td>
-            <td align="center">181 <sup><sub>w</sub></sup></td>
-            <td align="center">37.4 <sup><sub>km/h</sub></sup></td>
-            <td align="center">137</td>
-        </tr>
-            <tr>
-            <td>02-11-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Cooldown in Watopia" title="Cooldown in Watopia"/>
-<a href="https://www.strava.com/activities/12805582920" title="Kcal: 298 | Gear: None ">Cooldown in Watopia</a>
-            </td>
-            <td align="center">21 <sup><sub>km</sub></sup></td>
-            <td align="center">33 <sup><sub>m</sub></sup></td>
-            <td align="center">35:21</td>
-            <td align="center">147 <sup><sub>w</sub></sup></td>
-            <td align="center">35 <sup><sub>km/h</sub></sup></td>
-            <td align="center">145</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
