@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>03-12-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
+<a href="https://www.strava.com/activities/13038792292" title="Kcal: 1014 | Gear: None ">Zone 2 in Watopia</a>
+            </td>
+            <td align="center">61 <sup><sub>km</sub></sup></td>
+            <td align="center">94 <sup><sub>m</sub></sup></td>
+            <td align="center">1:36:32</td>
+            <td align="center">183 <sup><sub>w</sub></sup></td>
+            <td align="center">38.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">153</td>
+        </tr>
+            <tr>
             <td>01-12-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zwift Camp: Baseline | Attack the Bunch in Watopia" title="Zwift Camp: Baseline | Attack the Bunch in Watopia"/>
@@ -59,19 +72,6 @@
             <td align="center">1:30:18</td>
             <td align="center">183 <sup><sub>w</sub></sup></td>
             <td align="center">38.7 <sup><sub>km/h</sub></sup></td>
-            <td align="center">144</td>
-        </tr>
-            <tr>
-            <td>26-11-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
-<a href="https://www.strava.com/activities/12988585571" title="Kcal: 962 | Gear: None ">Zone 2 in Watopia</a>
-            </td>
-            <td align="center">55 <sup><sub>km</sub></sup></td>
-            <td align="center">317 <sup><sub>m</sub></sup></td>
-            <td align="center">1:30:18</td>
-            <td align="center">186 <sup><sub>w</sub></sup></td>
-            <td align="center">36.6 <sup><sub>km/h</sub></sup></td>
             <td align="center">144</td>
         </tr>
                 <tr>
