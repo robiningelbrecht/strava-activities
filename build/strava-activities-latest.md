@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>07-12-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 on Power to the Tower in Watopia" title="Zone 2 on Power to the Tower in Watopia"/>
+<a href="https://www.strava.com/activities/13065761632" title="Kcal: 1408 | Gear: None ">Zone 2 on Power to the Tow...</a>
+            </td>
+            <td align="center">52 <sup><sub>km</sub></sup></td>
+            <td align="center">1 541 <sup><sub>m</sub></sup></td>
+            <td align="center">2:05:24</td>
+            <td align="center">196 <sup><sub>w</sub></sup></td>
+            <td align="center">25 <sup><sub>km/h</sub></sup></td>
+            <td align="center">155</td>
+        </tr>
+            <tr>
             <td>05-12-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
@@ -60,19 +73,6 @@
             <td align="center">183 <sup><sub>w</sub></sup></td>
             <td align="center">38.1 <sup><sub>km/h</sub></sup></td>
             <td align="center">153</td>
-        </tr>
-            <tr>
-            <td>01-12-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zwift Camp: Baseline | Attack the Bunch in Watopia" title="Zwift Camp: Baseline | Attack the Bunch in Watopia"/>
-<a href="https://www.strava.com/activities/13022198497" title="Kcal: 553 | Gear: None ">Zwift Camp: Baseline | Att...</a>
-            </td>
-            <td align="center">33 <sup><sub>km</sub></sup></td>
-            <td align="center">53 <sup><sub>m</sub></sup></td>
-            <td align="center">53:23</td>
-            <td align="center">181 <sup><sub>w</sub></sup></td>
-            <td align="center">37.1 <sup><sub>km/h</sub></sup></td>
-            <td align="center">155</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
